@@ -1,0 +1,159 @@
+Year,Activity,Amount(tRSD)ValueAdded,Amount(tRSD)PersonnelCost,NetValueAdded(tRSD)
+2007,Total,966,565,401
+2008,Total,1003,638,365
+2009,Total,1089,679,410
+2010,Total,1204,729,475
+2011,Total,1297,794,503
+2012,Total,1435,862,573
+2013,Total,1477,907,570
+2014,Total,1519,939,580
+2015,Total,1593,966,627
+2016,Total,1733,1000,733
+2017,Total,1810,1049,761
+2018,Total,1838,1105,733
+2007,Mining,1003,770,233
+2008,Mining,1187,864,323
+2009,Mining,1480,993,487
+2010,Mining,1698,1042,656
+2011,Mining,2019,1200,819
+2012,Mining,2168,1399,769
+2013,Mining,2398,1498,900
+2014,Mining,2393,1539,854
+2015,Mining,2241,1693,548
+2016,Mining,2049,1380,669
+2017,Mining,2684,1386,1298
+2018,Mining,1938,1466,472
+2007,Manufacturing Industry,787,517,270
+2008,Manufacturing Industry,889,586,303
+2009,Manufacturing Industry,928,634,294
+2010,Manufacturing Industry,1118,687,431
+2011,Manufacturing Industry,1209,752,457
+2012,Manufacturing Industry,1421,802,619
+2013,Manufacturing Industry,1430,840,590
+2014,Manufacturing Industry,1497,845,652
+2015,Manufacturing Industry,1562,894,668
+2016,Manufacturing Industry,1723,913,810
+2017,Manufacturing Industry,1839,965,874
+2018,Manufacturing Industry,1852,998,854
+2007,"Electricity, Gas, Steam and Air Conditioning Supply",1910,911,999
+2008,"Electricity, Gas, Steam and Air Conditioning Supply",2224,1034,1190
+2009,"Electricity, Gas, Steam and Air Conditioning Supply",2685,1114,1571
+2010,"Electricity, Gas, Steam and Air Conditioning Supply",2656,1199,1457
+2011,"Electricity, Gas, Steam and Air Conditioning Supply",3067,1371,1696
+2012,"Electricity, Gas, Steam and Air Conditioning Supply",3035,1525,1510
+2013,"Electricity, Gas, Steam and Air Conditioning Supply",4364,1591,2773
+2014,"Electricity, Gas, Steam and Air Conditioning Supply",4161,1636,2525
+2015,"Electricity, Gas, Steam and Air Conditioning Supply",4611,1363,3248
+2016,"Electricity, Gas, Steam and Air Conditioning Supply",4777,1869,2908
+2017,"Electricity, Gas, Steam and Air Conditioning Supply",4494,2033,2461
+2018,"Electricity, Gas, Steam and Air Conditioning Supply",4402,2031,2371
+2007,Waterworks,745,618,127
+2008,Waterworks,751,617,134
+2009,Waterworks,861,670,191
+2010,Waterworks,928,678,250
+2011,Waterworks,1033,754,279
+2012,Waterworks,1071,801,270
+2013,Waterworks,1067,835,232
+2014,Waterworks,1126,863,263
+2015,Waterworks,1185,870,315
+2016,Waterworks,1313,870,443
+2017,Waterworks,1410,939,471
+2018,Waterworks,1362,964,398
+2007,Construction,1205,545,660
+2008,Construction,1081,635,446
+2009,Construction,1143,660,483
+2010,Construction,1224,706,518
+2011,Construction,1362,783,579
+2012,Construction,1269,856,413
+2013,Construction,1376,924,452
+2014,Construction,1406,1014,392
+2015,Construction,1578,1049,529
+2016,Construction,1624,972,652
+2017,Construction,1749,1045,704
+2018,Construction,1916,1111,805
+2007,"Wholesale and Retail Trade, Repair of Vehicles",965,498,467
+2008,"Wholesale and Retail Trade, Repair of Vehicles",921,569,352
+2009,"Wholesale and Retail Trade, Repair of Vehicles",917,597,320
+2010,"Wholesale and Retail Trade, Repair of Vehicles",1036,637,399
+2011,"Wholesale and Retail Trade, Repair of Vehicles",1107,671,436
+2012,"Wholesale and Retail Trade, Repair of Vehicles",1324,729,595
+2013,"Wholesale and Retail Trade, Repair of Vehicles",1213,761,452
+2014,"Wholesale and Retail Trade, Repair of Vehicles",1270,792,478
+2015,"Wholesale and Retail Trade, Repair of Vehicles",1318,809,509
+2016,"Wholesale and Retail Trade, Repair of Vehicles",1408,845,563
+2017,"Wholesale and Retail Trade, Repair of Vehicles",1477,880,597
+2018,"Wholesale and Retail Trade, Repair of Vehicles",1515,952,563
+2007,"Transport, Traffic and Storage",901,613,288
+2008,"Transport, Traffic and Storage",856,701,155
+2009,"Transport, Traffic and Storage",1192,749,443
+2010,"Transport, Traffic and Storage",1087,801,286
+2011,"Transport, Traffic and Storage",1065,848,217
+2012,"Transport, Traffic and Storage",1080,916,164
+2013,"Transport, Traffic and Storage",1270,969,301
+2014,"Transport, Traffic and Storage",1325,987,338
+2015,"Transport, Traffic and Storage",1489,1007,482
+2016,"Transport, Traffic and Storage",1584,1055,529
+2017,"Transport, Traffic and Storage",1608,1068,540
+2018,"Transport, Traffic and Storage",1620,1122,498
+2007,Accommodation and Catering Services,512,469,43
+2008,Accommodation and Catering Services,491,472,19
+2009,Accommodation and Catering Services,501,480,21
+2010,Accommodation and Catering Services,532,503,29
+2011,Accommodation and Catering Services,569,547,22
+2012,Accommodation and Catering Services,639,596,43
+2013,Accommodation and Catering Services,682,605,77
+2014,Accommodation and Catering Services,697,580,117
+2015,Accommodation and Catering Services,741,602,139
+2016,Accommodation and Catering Services,798,608,190
+2017,Accommodation and Catering Services,862,643,219
+2018,Accommodation and Catering Services,864,671,193
+2007,Information and Communications,2068,834,1234
+2008,Information and Communications,2349,929,1420
+2009,Information and Communications,2376,959,1417
+2010,Information and Communications,2700,1046,1654
+2011,Information and Communications,2856,1168,1688
+2012,Information and Communications,3082,1232,1850
+2013,Information and Communications,2952,1265,1687
+2014,Information and Communications,2977,1432,1545
+2015,Information and Communications,2963,1554,1409
+2016,Information and Communications,3315,1692,1623
+2017,Information and Communications,3400,1747,1653
+2018,Information and Communications,3551,1975,1576
+2007,Real Estate Business,775,622,153
+2008,Real Estate Business,1630,785,845
+2009,Real Estate Business,2889,813,2076
+2010,Real Estate Business,3261,789,2472
+2011,Real Estate Business,2896,856,2040
+2012,Real Estate Business,3550,970,2580
+2013,Real Estate Business,3002,1016,1986
+2014,Real Estate Business,3169,1041,2128
+2015,Real Estate Business,3132,995,2137
+2016,Real Estate Business,3271,993,2278
+2017,Real Estate Business,3702,1062,2640
+2018,Real Estate Business,3110,1080,2030
+2007,"Professional, Scientific and Technical Activities",1235,759,476
+2008,"Professional, Scientific and Technical Activities",1078,837,241
+2009,"Professional, Scientific and Technical Activities",1079,835,244
+2010,"Professional, Scientific and Technical Activities",1085,908,177
+2011,"Professional, Scientific and Technical Activities",1178,964,214
+2012,"Professional, Scientific and Technical Activities",1268,1088,180
+2013,"Professional, Scientific and Technical Activities",1248,1150,98
+2014,"Professional, Scientific and Technical Activities",1293,1199,94
+2015,"Professional, Scientific and Technical Activities",1388,1228,160
+2016,"Professional, Scientific and Technical Activities",1426,1264,162
+2017,"Professional, Scientific and Technical Activities",1519,1325,194
+2018,"Professional, Scientific and Technical Activities",1732,1431,301
+2007,Administrative and Support Services,666,435,231
+2008,Administrative and Support Services,707,488,219
+2009,Administrative and Support Services,774,493,281
+2010,Administrative and Support Services,801,535,266
+2011,Administrative and Support Services,835,592,243
+2012,Administrative and Support Services,846,637,209
+2013,Administrative and Support Services,797,684,113
+2014,Administrative and Support Services,776,687,89
+2015,Administrative and Support Services,776,711,65
+2016,Administrative and Support Services,906,731,175
+2017,Administrative and Support Services,1016,820,196
+2018,Administrative and Support Services,1096,877,219
+2017,Other Services,963,730,233
+2018,Other Services,1120,782,338

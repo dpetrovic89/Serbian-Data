@@ -1,0 +1,1101 @@
+Year,Q,Action,%NominalGDP,NominalValue(mRSD),RealGrowthRatePct(LastYear=100),"RealValue(mRSD,2010=100)"
+1995,Q1,"A - Agriculture, Forestry and Fishing",19.3,2220.9,,36796.8
+1995,Q1,"B-E - Manufacturing, Mining and Other Industries",28.0,3226.6,,109893.5
+1995,Q1,F - Construction,6.7,772.5,,11311.8
+1995,Q1,J - Informing and Communication,1.6,182.8,,5430.6
+1995,Q1,K - Financial and Insurance Activities,1.5,173.5,,14769.3
+1995,Q1,L - Real Estate Business,10.6,1225.1,,52040.4
+1995,Q1,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",2.7,309.3,,10557.3
+1995,Q1,"O-Q - Public Administration, Defense, Education and Health, Social Care",13.3,1529.7,,61190.4
+1995,Q1,R-T - Other Service Activities,1.8,213.3,,8525.5
+1995,Q1,Total,97.5,11249.6,,358816.2
+1995,Q1,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",12.1,1395.8,,48947.9
+1995,Q2,"A - Agriculture, Forestry and Fishing",14.7,1984.8,,41722.3
+1995,Q2,"B-E - Manufacturing, Mining and Other Industries",30.5,4134.0,,122357.9
+1995,Q2,F - Construction,6.4,870.9,,11503.2
+1995,Q2,J - Informing and Communication,1.8,243.5,,6139.7
+1995,Q2,K - Financial and Insurance Activities,1.5,198.8,,14691.8
+1995,Q2,L - Real Estate Business,9.3,1263.6,,61056.5
+1995,Q2,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",3.0,403.7,,13116.3
+1995,Q2,"O-Q - Public Administration, Defense, Education and Health, Social Care",12.4,1683.0,,67204.7
+1995,Q2,R-T - Other Service Activities,2.2,294.7,,11181.4
+1995,Q2,Total,94.4,12774.8,,400979.1
+1995,Q2,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",12.5,1697.7,,54577.9
+1995,Q3,"A - Agriculture, Forestry and Fishing",16.2,2474.7,,51490.1
+1995,Q3,"B-E - Manufacturing, Mining and Other Industries",26.4,4041.6,,104691.2
+1995,Q3,F - Construction,6.5,994.0,,11556.2
+1995,Q3,J - Informing and Communication,1.9,290.4,,6323.0
+1995,Q3,K - Financial and Insurance Activities,1.4,221.5,,13467.0
+1995,Q3,L - Real Estate Business,8.4,1281.9,,61947.8
+1995,Q3,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",3.1,468.9,,13815.1
+1995,Q3,"O-Q - Public Administration, Defense, Education and Health, Social Care",13.0,1982.3,,69825.9
+1995,Q3,R-T - Other Service Activities,2.4,371.1,,11975.5
+1995,Q3,Total,92.2,14084.6,,397388.7
+1995,Q3,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",12.8,1958.3,,54191.3
+1995,Q4,"A - Agriculture, Forestry and Fishing",16.1,3101.2,,49060.9
+1995,Q4,"B-E - Manufacturing, Mining and Other Industries",29.5,5675.2,,117489.9
+1995,Q4,F - Construction,6.2,1201.7,,11825.3
+1995,Q4,J - Informing and Communication,1.7,329.7,,6193.4
+1995,Q4,K - Financial and Insurance Activities,1.4,265.1,,12830.3
+1995,Q4,L - Real Estate Business,7.0,1347.1,,62655.4
+1995,Q4,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",2.8,537.2,,13944.9
+1995,Q4,"O-Q - Public Administration, Defense, Education and Health, Social Care",12.3,2373.0,,70281.8
+1995,Q4,R-T - Other Service Activities,2.3,441.4,,11321.9
+1995,Q4,Total,92.2,17734.1,,411972.0
+1995,Q4,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",12.8,2462.6,,56858.5
+1996,Q1,"A - Agriculture, Forestry and Fishing",18.7,4195.4,8.0,39737.9
+1996,Q1,"B-E - Manufacturing, Mining and Other Industries",27.3,6142.1,1.5,111504.9
+1996,Q1,F - Construction,4.1,917.7,-22.0,8818.8
+1996,Q1,J - Informing and Communication,1.7,372.1,6.4,5775.9
+1996,Q1,K - Financial and Insurance Activities,1.4,324.7,-18.1,12092.5
+1996,Q1,L - Real Estate Business,10.0,2256.5,13.4,59013.7
+1996,Q1,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",2.7,607.4,27.9,13507.1
+1996,Q1,"O-Q - Public Administration, Defense, Education and Health, Social Care",12.5,2822.1,7.3,65647.1
+1996,Q1,R-T - Other Service Activities,2.3,511.9,20.0,10232.6
+1996,Q1,Total,92.0,20690.5,2.7,368586.6
+1996,Q1,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",11.3,2540.6,-0.8,48533.9
+1996,Q2,"A - Agriculture, Forestry and Fishing",17.0,4657.4,7.7,44943.5
+1996,Q2,"B-E - Manufacturing, Mining and Other Industries",27.1,7397.8,-2.2,119676.6
+1996,Q2,F - Construction,5.4,1465.1,6.5,12256.3
+1996,Q2,J - Informing and Communication,1.6,434.7,-11.0,5466.9
+1996,Q2,K - Financial and Insurance Activities,1.4,374.4,-16.9,12205.1
+1996,Q2,L - Real Estate Business,10.6,2892.7,-0.8,60568.2
+1996,Q2,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",2.6,721.0,-0.7,13024.1
+1996,Q2,"O-Q - Public Administration, Defense, Education and Health, Social Care",12.6,3457.2,0.4,67469.8
+1996,Q2,R-T - Other Service Activities,2.4,644.6,-9.0,10179.7
+1996,Q2,Total,92.5,25289.4,0.2,401842.3
+1996,Q2,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",11.9,3244.5,2.1,55701.5
+1996,Q3,"A - Agriculture, Forestry and Fishing",17.6,5510.5,0.5,51767.7
+1996,Q3,"B-E - Manufacturing, Mining and Other Industries",25.6,8015.0,17.3,122767.7
+1996,Q3,F - Construction,5.5,1711.6,12.2,12962.2
+1996,Q3,J - Informing and Communication,1.8,578.1,-6.8,5890.8
+1996,Q3,K - Financial and Insurance Activities,1.4,435.4,-10.0,12121.4
+1996,Q3,L - Real Estate Business,10.5,3306.3,-1.0,61326.8
+1996,Q3,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",3.1,987.1,-2.2,13513.5
+1996,Q3,"O-Q - Public Administration, Defense, Education and Health, Social Care",13.2,4137.3,-1.3,68941.3
+1996,Q3,R-T - Other Service Activities,2.8,867.3,-7.3,11107.0
+1996,Q3,Total,93.2,29232.0,6.6,423532.3
+1996,Q3,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",11.7,3683.5,8.3,58686.7
+1996,Q4,"A - Agriculture, Forestry and Fishing",17.9,6435.6,15.8,56794.6
+1996,Q4,"B-E - Manufacturing, Mining and Other Industries",27.6,9935.1,26.3,148446.1
+1996,Q4,F - Construction,5.0,1810.9,10.7,13088.0
+1996,Q4,J - Informing and Communication,1.7,599.9,-1.4,6108.7
+1996,Q4,K - Financial and Insurance Activities,1.3,465.8,-3.6,12366.8
+1996,Q4,L - Real Estate Business,10.0,3599.4,-0.7,62194.8
+1996,Q4,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",3.0,1069.2,-0.9,13825.2
+1996,Q4,"O-Q - Public Administration, Defense, Education and Health, Social Care",12.7,4572.4,-0.2,70154.5
+1996,Q4,R-T - Other Service Activities,2.6,921.3,-0.7,11238.2
+1996,Q4,Total,93.4,33602.7,13.3,466808.7
+1996,Q4,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",11.7,4193.2,13.7,64669.5
+1997,Q1,"A - Agriculture, Forestry and Fishing",18.8,6005.3,3.2,41022.8
+1997,Q1,"B-E - Manufacturing, Mining and Other Industries",26.8,8552.0,6.7,118985.7
+1997,Q1,F - Construction,4.3,1356.1,12.5,9924.4
+1997,Q1,J - Informing and Communication,1.9,620.0,10.9,6404.8
+1997,Q1,K - Financial and Insurance Activities,1.5,474.7,-1.0,11968.3
+1997,Q1,L - Real Estate Business,9.5,3033.0,1.4,59869.1
+1997,Q1,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",3.7,1172.4,3.4,13961.2
+1997,Q1,"O-Q - Public Administration, Defense, Education and Health, Social Care",12.9,4114.5,-4.5,62701.8
+1997,Q1,R-T - Other Service Activities,3.0,957.7,7.2,10972.4
+1997,Q1,Total,93.5,29813.0,4.5,385068.1
+1997,Q1,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",11.1,3527.1,7.1,51961.8
+1997,Q2,"A - Agriculture, Forestry and Fishing",16.3,5735.0,-4.4,42973.4
+1997,Q2,"B-E - Manufacturing, Mining and Other Industries",28.3,9942.5,13.1,135348.4
+1997,Q2,F - Construction,4.8,1703.1,-8.0,11276.4
+1997,Q2,J - Informing and Communication,1.8,626.5,17.2,6404.7
+1997,Q2,K - Financial and Insurance Activities,1.4,489.9,0.6,12284.4
+1997,Q2,L - Real Estate Business,10.0,3524.8,1.7,61624.4
+1997,Q2,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",3.3,1174.8,2.7,13371.9
+1997,Q2,"O-Q - Public Administration, Defense, Education and Health, Social Care",13.2,4636.8,-2.5,65754.0
+1997,Q2,R-T - Other Service Activities,2.7,964.0,4.6,10650.7
+1997,Q2,Total,93.2,32770.6,3.4,415316.8
+1997,Q2,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",11.3,3973.2,4.4,58137.0
+1997,Q3,"A - Agriculture, Forestry and Fishing",16.2,6534.3,16.7,60399.4
+1997,Q3,"B-E - Manufacturing, Mining and Other Industries",25.2,10151.1,12.6,138285.9
+1997,Q3,F - Construction,5.3,2120.9,4.8,13581.9
+1997,Q3,J - Informing and Communication,1.6,635.6,10.0,6479.3
+1997,Q3,K - Financial and Insurance Activities,1.3,515.1,5.4,12776.9
+1997,Q3,L - Real Estate Business,10.3,4167.4,1.7,62339.3
+1997,Q3,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",3.0,1224.5,0.7,13604.2
+1997,Q3,"O-Q - Public Administration, Defense, Education and Health, Social Care",16.3,6582.6,16.4,80257.4
+1997,Q3,R-T - Other Service Activities,2.5,997.8,-2.6,10815.8
+1997,Q3,Total,92.4,37224.4,10.8,469237.5
+1997,Q3,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",10.7,4295.2,7.6,63164.5
+1997,Q4,"A - Agriculture, Forestry and Fishing",16.3,7243.4,9.1,61981.9
+1997,Q4,"B-E - Manufacturing, Mining and Other Industries",27.3,12147.6,11.2,165075.1
+1997,Q4,F - Construction,5.0,2240.5,6.7,13969.3
+1997,Q4,J - Informing and Communication,1.5,674.1,13.2,6914.3
+1997,Q4,K - Financial and Insurance Activities,1.3,593.0,15.0,14226.5
+1997,Q4,L - Real Estate Business,10.0,4468.7,1.9,63394.9
+1997,Q4,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",3.0,1340.8,8.8,15037.6
+1997,Q4,"O-Q - Public Administration, Defense, Education and Health, Social Care",13.9,6207.8,10.6,77588.9
+1997,Q4,R-T - Other Service Activities,2.3,1037.6,-0.3,11206.6
+1997,Q4,Total,91.9,40896.4,8.6,506763.7
+1997,Q4,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",11.1,4942.9,9.4,70721.3
+1998,Q1,"A - Agriculture, Forestry and Fishing",17.0,7086.5,-7.9,37800.3
+1998,Q1,"B-E - Manufacturing, Mining and Other Industries",26.1,10850.0,18.0,140365.8
+1998,Q1,F - Construction,4.1,1722.9,8.0,10720.6
+1998,Q1,J - Informing and Communication,1.7,721.8,17.4,7517.8
+1998,Q1,K - Financial and Insurance Activities,1.7,686.3,22.0,14596.9
+1998,Q1,L - Real Estate Business,9.4,3888.5,1.9,61005.3
+1998,Q1,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",3.7,1529.3,17.2,16363.1
+1998,Q1,"O-Q - Public Administration, Defense, Education and Health, Social Care",14.1,5845.0,13.5,71158.8
+1998,Q1,R-T - Other Service Activities,2.7,1121.4,5.2,11545.0
+1998,Q1,Total,91.3,37939.8,9.7,422332.5
+1998,Q1,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",10.8,4488.2,11.4,57861.7
+1998,Q2,"A - Agriculture, Forestry and Fishing",15.3,7082.8,-1.5,42343.6
+1998,Q2,"B-E - Manufacturing, Mining and Other Industries",27.3,12594.4,7.9,146077.8
+1998,Q2,F - Construction,4.7,2163.7,5.7,11914.7
+1998,Q2,J - Informing and Communication,1.7,764.7,15.0,7367.5
+1998,Q2,K - Financial and Insurance Activities,1.6,735.3,15.3,14166.2
+1998,Q2,L - Real Estate Business,9.6,4445.1,1.4,62501.0
+1998,Q2,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",3.5,1594.4,19.6,15995.2
+1998,Q2,"O-Q - Public Administration, Defense, Education and Health, Social Care",12.7,5845.5,8.6,71433.9
+1998,Q2,R-T - Other Service Activities,2.6,1221.5,9.6,11674.9
+1998,Q2,Total,91.1,42047.5,6.8,443422.7
+1998,Q2,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",12.1,5599.9,10.8,64408.7
+1998,Q3,"A - Agriculture, Forestry and Fishing",17.2,8630.8,-1.5,59512.9
+1998,Q3,"B-E - Manufacturing, Mining and Other Industries",25.6,12812.7,0.1,138487.0
+1998,Q3,F - Construction,5.2,2598.2,-1.3,13411.3
+1998,Q3,J - Informing and Communication,1.6,823.5,11.5,7224.9
+1998,Q3,K - Financial and Insurance Activities,1.5,754.9,2.9,13152.7
+1998,Q3,L - Real Estate Business,10.0,4983.4,1.4,63191.7
+1998,Q3,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",3.4,1705.9,17.0,15919.8
+1998,Q3,"O-Q - Public Administration, Defense, Education and Health, Social Care",12.5,6266.2,-9.1,72934.8
+1998,Q3,R-T - Other Service Activities,2.7,1370.2,11.6,12067.5
+1998,Q3,Total,91.9,46015.3,-0.5,467058.5
+1998,Q3,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",12.1,6069.5,0.8,63639.0
+1998,Q4,"A - Agriculture, Forestry and Fishing",16.5,9473.7,4.2,64604.3
+1998,Q4,"B-E - Manufacturing, Mining and Other Industries",29.1,16691.3,2.3,168905.7
+1998,Q4,F - Construction,4.5,2606.5,-11.6,12355.5
+1998,Q4,J - Informing and Communication,1.5,861.4,4.0,7191.8
+1998,Q4,K - Financial and Insurance Activities,1.3,733.7,-18.4,11615.5
+1998,Q4,L - Real Estate Business,9.2,5276.4,0.7,63815.7
+1998,Q4,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",3.2,1810.7,7.5,16166.3
+1998,Q4,"O-Q - Public Administration, Defense, Education and Health, Social Care",12.3,7079.7,-0.5,77194.1
+1998,Q4,R-T - Other Service Activities,2.6,1482.1,8.0,12102.0
+1998,Q4,Total,92.0,52799.1,0.0,506854.8
+1998,Q4,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",11.8,6783.7,-7.1,65681.8
+1999,Q1,"A - Agriculture, Forestry and Fishing",17.5,8943.9,3.3,39032.5
+1999,Q1,"B-E - Manufacturing, Mining and Other Industries",29.6,15103.9,2.3,143663.0
+1999,Q1,F - Construction,3.7,1905.4,-13.5,9274.6
+1999,Q1,J - Informing and Communication,1.7,883.9,-2.8,7307.4
+1999,Q1,K - Financial and Insurance Activities,1.3,671.8,-34.0,9640.9
+1999,Q1,L - Real Estate Business,9.8,5022.9,-0.9,60479.1
+1999,Q1,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",3.6,1818.5,-8.0,15046.9
+1999,Q1,"O-Q - Public Administration, Defense, Education and Health, Social Care",11.2,5707.6,-4.8,67770.9
+1999,Q1,R-T - Other Service Activities,2.8,1444.1,0.7,11626.4
+1999,Q1,Total,92.9,47470.8,-1.7,415041.4
+1999,Q1,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",11.7,5968.8,-1.5,56970.4
+1999,Q2,"A - Agriculture, Forestry and Fishing",20.7,8792.3,8.3,45871.2
+1999,Q2,"B-E - Manufacturing, Mining and Other Industries",21.6,9173.4,-42.6,83784.1
+1999,Q2,F - Construction,4.2,1766.6,-37.0,7506.1
+1999,Q2,J - Informing and Communication,2.0,852.6,-8.2,6763.9
+1999,Q2,K - Financial and Insurance Activities,1.4,598.8,-42.5,8145.5
+1999,Q2,L - Real Estate Business,11.2,4755.2,-0.6,62152.7
+1999,Q2,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",3.9,1657.3,-16.0,13432.5
+1999,Q2,"O-Q - Public Administration, Defense, Education and Health, Social Care",12.8,5444.8,-2.8,69434.5
+1999,Q2,R-T - Other Service Activities,3.4,1465.1,-5.5,11033.6
+1999,Q2,Total,92.2,39214.0,-20.4,352952.6
+1999,Q2,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",11.1,4708.0,-34.3,42286.3
+1999,Q3,"A - Agriculture, Forestry and Fishing",18.7,10724.9,-4.3,56942.1
+1999,Q3,"B-E - Manufacturing, Mining and Other Industries",26.8,15396.9,-5.0,131498.1
+1999,Q3,F - Construction,4.1,2349.9,-26.0,9929.6
+1999,Q3,J - Informing and Communication,1.6,924.0,-3.6,6965.6
+1999,Q3,K - Financial and Insurance Activities,0.9,503.9,-52.5,6245.9
+1999,Q3,L - Real Estate Business,11.0,6304.2,-0.8,62655.7
+1999,Q3,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",3.0,1700.7,-18.0,13057.2
+1999,Q3,"O-Q - Public Administration, Defense, Education and Health, Social Care",11.9,6822.3,0.2,73067.9
+1999,Q3,R-T - Other Service Activities,2.7,1577.9,-7.2,11200.5
+1999,Q3,Total,91.7,52693.2,-7.7,430973.1
+1999,Q3,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",11.1,6388.4,-18.4,51914.4
+1999,Q4,"A - Agriculture, Forestry and Fishing",17.6,13182.0,-3.5,62334.6
+1999,Q4,"B-E - Manufacturing, Mining and Other Industries",30.3,22751.6,-10.2,151664.4
+1999,Q4,F - Construction,4.5,3354.1,13.7,14050.2
+1999,Q4,J - Informing and Communication,1.5,1106.0,5.5,7588.8
+1999,Q4,K - Financial and Insurance Activities,0.6,481.7,-55.0,5232.1
+1999,Q4,L - Real Estate Business,9.9,7426.0,0.5,64109.3
+1999,Q4,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",3.0,2228.6,-3.5,15593.4
+1999,Q4,"O-Q - Public Administration, Defense, Education and Health, Social Care",10.9,8196.4,-4.2,73975.8
+1999,Q4,R-T - Other Service Activities,2.4,1809.9,-3.0,11735.5
+1999,Q4,Total,92.3,69278.9,-5.8,477218.1
+1999,Q4,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",11.7,8742.5,-11.7,57976.0
+2000,Q1,"A - Agriculture, Forestry and Fishing",17.5,13359.1,-0.1,38989.1
+2000,Q1,"B-E - Manufacturing, Mining and Other Industries",33.0,25152.0,-2.7,139816.0
+2000,Q1,F - Construction,2.1,1618.5,-22.3,7206.2
+2000,Q1,J - Informing and Communication,1.5,1164.3,13.0,8254.4
+2000,Q1,K - Financial and Insurance Activities,1.3,1002.1,0.9,9727.9
+2000,Q1,L - Real Estate Business,9.1,6910.4,2.9,62238.3
+2000,Q1,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",3.7,2849.3,25.4,18871.9
+2000,Q1,"O-Q - Public Administration, Defense, Education and Health, Social Care",11.6,8846.1,7.5,72823.7
+2000,Q1,R-T - Other Service Activities,2.5,1899.7,2.4,11908.0
+2000,Q1,Total,94.0,71571.4,-0.2,414128.3
+2000,Q1,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",11.5,8769.8,-9.7,51465.4
+2000,Q2,"A - Agriculture, Forestry and Fishing",15.8,14849.7,-5.9,43166.1
+2000,Q2,"B-E - Manufacturing, Mining and Other Industries",33.7,31584.0,74.6,146310.7
+2000,Q2,F - Construction,2.9,2695.0,42.2,10675.4
+2000,Q2,J - Informing and Communication,1.5,1363.9,29.2,8736.0
+2000,Q2,K - Financial and Insurance Activities,1.8,1646.5,78.8,14565.8
+2000,Q2,L - Real Estate Business,10.0,9344.0,3.3,64203.0
+2000,Q2,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",3.1,2906.7,31.7,17694.6
+2000,Q2,"O-Q - Public Administration, Defense, Education and Health, Social Care",11.1,10364.1,7.2,74462.3
+2000,Q2,R-T - Other Service Activities,2.3,2128.4,10.1,12147.0
+2000,Q2,Total,93.8,88005.7,26.1,444973.3
+2000,Q2,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",11.9,11123.5,35.9,57485.8
+2000,Q3,"A - Agriculture, Forestry and Fishing",17.4,20035.8,-11.0,50665.5
+2000,Q3,"B-E - Manufacturing, Mining and Other Industries",31.6,36236.2,8.8,143020.3
+2000,Q3,F - Construction,3.4,3886.8,41.0,13997.4
+2000,Q3,J - Informing and Communication,1.4,1552.5,30.3,9073.9
+2000,Q3,K - Financial and Insurance Activities,1.6,1780.7,122.8,13914.6
+2000,Q3,L - Real Estate Business,10.8,12380.2,3.7,64978.4
+2000,Q3,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",2.7,3049.6,31.7,17197.3
+2000,Q3,"O-Q - Public Administration, Defense, Education and Health, Social Care",10.6,12176.4,1.0,73796.8
+2000,Q3,R-T - Other Service Activities,2.0,2347.8,12.5,12595.5
+2000,Q3,Total,92.6,106354.4,7.4,462993.7
+2000,Q3,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",11.2,12908.3,16.2,60308.5
+2000,Q4,"A - Agriculture, Forestry and Fishing",17.3,25893.7,-20.8,49361.3
+2000,Q4,"B-E - Manufacturing, Mining and Other Industries",32.1,48079.0,-7.8,139775.7
+2000,Q4,F - Construction,2.7,4032.9,-15.0,11943.5
+2000,Q4,J - Informing and Communication,1.5,2223.4,26.7,9613.2
+2000,Q4,K - Financial and Insurance Activities,1.3,2007.5,104.0,10674.3
+2000,Q4,L - Real Estate Business,9.6,14300.7,3.2,66176.7
+2000,Q4,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",2.9,4402.1,21.6,18966.8
+2000,Q4,"O-Q - Public Administration, Defense, Education and Health, Social Care",11.1,16529.8,2.0,75472.4
+2000,Q4,R-T - Other Service Activities,2.0,3044.3,15.7,13580.2
+2000,Q4,Total,91.2,136430.1,-5.8,449578.7
+2000,Q4,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",10.6,15916.7,-9.8,52297.4
+2001,Q1,"A - Agriculture, Forestry and Fishing",15.2,26117.6,1.1,39400.1
+2001,Q1,"B-E - Manufacturing, Mining and Other Industries",32.6,56101.9,0.2,140159.9
+2001,Q1,F - Construction,1.6,2682.3,-5.3,6825.6
+2001,Q1,J - Informing and Communication,1.7,2872.1,19.0,9823.0
+2001,Q1,K - Financial and Insurance Activities,1.2,2102.1,-4.5,9289.6
+2001,Q1,L - Real Estate Business,10.2,17516.7,3.0,64090.6
+2001,Q1,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",3.5,5964.1,2.0,19251.6
+2001,Q1,"O-Q - Public Administration, Defense, Education and Health, Social Care",12.0,20669.1,-0.1,72736.0
+2001,Q1,R-T - Other Service Activities,2.3,3954.8,18.7,14130.1
+2001,Q1,Total,90.6,155994.9,1.4,419968.6
+2001,Q1,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",10.5,18014.2,-1.5,50707.0
+2001,Q2,"A - Agriculture, Forestry and Fishing",13.8,27786.7,5.0,45339.1
+2001,Q2,"B-E - Manufacturing, Mining and Other Industries",32.1,64454.7,-1.4,144273.6
+2001,Q2,F - Construction,2.1,4264.2,-9.0,9711.3
+2001,Q2,J - Informing and Communication,1.6,3209.7,10.0,9606.5
+2001,Q2,K - Financial and Insurance Activities,1.1,2287.6,-38.1,9010.2
+2001,Q2,L - Real Estate Business,11.2,22440.2,2.4,65714.7
+2001,Q2,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",3.1,6185.0,1.5,17965.6
+2001,Q2,"O-Q - Public Administration, Defense, Education and Health, Social Care",11.5,23065.4,0.3,74721.4
+2001,Q2,R-T - Other Service Activities,2.2,4470.1,15.6,14036.1
+2001,Q2,Total,89.6,180002.4,0.2,445910.3
+2001,Q2,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",10.9,21838.8,-0.8,57000.7
+2001,Q3,"A - Agriculture, Forestry and Fishing",15.7,35968.0,23.8,62736.5
+2001,Q3,"B-E - Manufacturing, Mining and Other Industries",29.2,67030.1,0.6,143948.9
+2001,Q3,F - Construction,2.4,5499.6,-20.0,11201.5
+2001,Q3,J - Informing and Communication,1.5,3515.9,3.7,9410.6
+2001,Q3,K - Financial and Insurance Activities,1.2,2775.3,-28.2,9990.8
+2001,Q3,L - Real Estate Business,11.4,26101.8,1.9,66245.2
+2001,Q3,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",2.9,6668.3,3.5,17792.9
+2001,Q3,"O-Q - Public Administration, Defense, Education and Health, Social Care",11.8,27122.2,2.8,75855.6
+2001,Q3,R-T - Other Service Activities,2.1,4830.4,11.1,13990.7
+2001,Q3,Total,89.0,203944.6,4.1,482035.9
+2001,Q3,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",10.7,24432.9,-2.0,59105.5
+2001,Q4,"A - Agriculture, Forestry and Fishing",14.0,37201.8,36.0,67153.3
+2001,Q4,"B-E - Manufacturing, Mining and Other Industries",29.4,77901.7,15.2,161019.7
+2001,Q4,F - Construction,2.7,7246.8,16.4,13905.5
+2001,Q4,J - Informing and Communication,1.5,3917.8,0.0,9609.0
+2001,Q4,K - Financial and Insurance Activities,1.3,3489.0,9.9,11735.6
+2001,Q4,L - Real Estate Business,10.4,27585.1,1.4,67079.3
+2001,Q4,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",2.9,7738.6,2.7,19474.3
+2001,Q4,"O-Q - Public Administration, Defense, Education and Health, Social Care",12.5,33084.4,10.6,83476.0
+2001,Q4,R-T - Other Service Activities,1.9,5140.7,3.1,14002.5
+2001,Q4,Total,87.3,231571.8,17.2,526982.9
+2001,Q4,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",10.7,28265.8,25.9,65838.9
+2002,Q1,"A - Agriculture, Forestry and Fishing",10.0,23221.1,-4.4,37670.2
+2002,Q1,"B-E - Manufacturing, Mining and Other Industries",29.9,69478.5,3.9,145568.9
+2002,Q1,F - Construction,2.3,5287.2,46.5,9996.7
+2002,Q1,J - Informing and Communication,1.7,4012.2,-2.5,9581.7
+2002,Q1,K - Financial and Insurance Activities,1.6,3610.4,21.1,11245.8
+2002,Q1,L - Real Estate Business,10.1,23344.1,0.9,64660.1
+2002,Q1,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",3.7,8503.3,3.6,19941.5
+2002,Q1,"O-Q - Public Administration, Defense, Education and Health, Social Care",14.1,32696.5,3.4,75241.8
+2002,Q1,R-T - Other Service Activities,2.3,5359.9,-3.9,13578.1
+2002,Q1,Total,85.9,199435.0,4.5,438723.7
+2002,Q1,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",10.3,23921.6,6.6,54071.9
+2002,Q2,"A - Agriculture, Forestry and Fishing",8.7,22611.3,-2.1,44396.8
+2002,Q2,"B-E - Manufacturing, Mining and Other Industries",28.8,74392.3,6.3,153321.4
+2002,Q2,F - Construction,3.1,8001.2,48.8,14451.6
+2002,Q2,J - Informing and Communication,1.7,4294.4,1.3,9732.5
+2002,Q2,K - Financial and Insurance Activities,1.3,3357.1,13.3,10210.2
+2002,Q2,L - Real Estate Business,10.4,26941.2,1.3,66582.7
+2002,Q2,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",3.2,8235.4,4.6,18791.5
+2002,Q2,"O-Q - Public Administration, Defense, Education and Health, Social Care",13.6,35189.5,5.8,79050.6
+2002,Q2,R-T - Other Service Activities,2.1,5346.5,-8.6,12834.4
+2002,Q2,Total,84.0,217206.5,6.5,474829.2
+2002,Q2,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",11.2,28837.8,13.3,64573.5
+2002,Q3,"A - Agriculture, Forestry and Fishing",10.6,30743.4,-3.2,60720.1
+2002,Q3,"B-E - Manufacturing, Mining and Other Industries",28.0,80828.9,9.9,158160.4
+2002,Q3,F - Construction,3.8,11088.4,80.2,20183.5
+2002,Q3,J - Informing and Communication,1.6,4644.4,6.8,10050.1
+2002,Q3,K - Financial and Insurance Activities,1.3,3701.9,6.9,10677.7
+2002,Q3,L - Real Estate Business,10.6,30645.2,1.9,67524.6
+2002,Q3,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",2.9,8409.3,5.3,18729.7
+2002,Q3,"O-Q - Public Administration, Defense, Education and Health, Social Care",13.2,38189.1,5.3,79903.1
+2002,Q3,R-T - Other Service Activities,1.9,5515.0,-8.6,12782.5
+2002,Q3,Total,84.6,244202.6,6.8,514952.8
+2002,Q3,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",10.5,30437.1,14.1,67426.5
+2002,Q4,"A - Agriculture, Forestry and Fishing",9.6,31112.6,-10.2,60300.2
+2002,Q4,"B-E - Manufacturing, Mining and Other Industries",27.5,88885.0,7.8,173653.2
+2002,Q4,F - Construction,3.7,11841.5,60.0,22250.2
+2002,Q4,J - Informing and Communication,1.9,6183.1,26.3,12135.1
+2002,Q4,K - Financial and Insurance Activities,1.3,4129.2,-3.5,11321.4
+2002,Q4,L - Real Estate Business,11.1,35778.5,2.8,68933.4
+2002,Q4,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",3.1,9985.6,6.3,20709.3
+2002,Q4,"O-Q - Public Administration, Defense, Education and Health, Social Care",13.6,44051.4,3.2,86176.1
+2002,Q4,R-T - Other Service Activities,1.8,5868.2,-6.8,13056.9
+2002,Q4,Total,84.2,272039.0,4.4,550433.4
+2002,Q4,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",10.6,34204.0,12.2,73877.6
+2003,Q1,"A - Agriculture, Forestry and Fishing",7.8,21856.0,1.0,38046.4
+2003,Q1,"B-E - Manufacturing, Mining and Other Industries",27.1,76271.5,1.3,147427.1
+2003,Q1,F - Construction,3.0,8310.7,56.6,15653.6
+2003,Q1,J - Informing and Communication,2.1,5847.3,18.2,11323.6
+2003,Q1,K - Financial and Insurance Activities,1.6,4549.7,2.1,11487.0
+2003,Q1,L - Real Estate Business,12.2,34223.5,3.6,66974.0
+2003,Q1,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",4.0,11274.6,7.4,21411.9
+2003,Q1,"O-Q - Public Administration, Defense, Education and Health, Social Care",14.7,41201.2,4.7,78804.2
+2003,Q1,R-T - Other Service Activities,2.3,6396.7,2.6,13928.7
+2003,Q1,Total,84.9,238415.7,5.8,464174.6
+2003,Q1,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",10.1,28484.6,6.8,57773.4
+2003,Q2,"A - Agriculture, Forestry and Fishing",7.6,23798.1,-0.5,44164.4
+2003,Q2,"B-E - Manufacturing, Mining and Other Industries",26.5,83536.1,3.4,158472.0
+2003,Q2,F - Construction,3.0,9492.3,14.1,16486.4
+2003,Q2,J - Informing and Communication,2.0,6425.4,23.3,11998.8
+2003,Q2,K - Financial and Insurance Activities,1.5,4734.3,15.5,11796.8
+2003,Q2,L - Real Estate Business,12.5,39254.2,4.0,69216.5
+2003,Q2,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",3.6,11383.1,11.8,21010.3
+2003,Q2,"O-Q - Public Administration, Defense, Education and Health, Social Care",13.9,43721.2,3.2,81571.2
+2003,Q2,R-T - Other Service Activities,2.1,6555.5,6.5,13671.0
+2003,Q2,Total,83.6,263566.6,5.3,500181.9
+2003,Q2,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",11.0,34666.4,7.9,69698.7
+2003,Q3,"A - Agriculture, Forestry and Fishing",8.6,28359.7,-11.8,53570.1
+2003,Q3,"B-E - Manufacturing, Mining and Other Industries",26.1,86705.0,1.4,160352.7
+2003,Q3,F - Construction,4.2,13790.6,20.2,24259.5
+2003,Q3,J - Informing and Communication,2.1,6816.2,25.4,12606.4
+2003,Q3,K - Financial and Insurance Activities,1.4,4807.2,10.3,11782.7
+2003,Q3,L - Real Estate Business,12.9,42696.7,3.7,69999.2
+2003,Q3,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",3.3,11099.8,10.2,20642.1
+2003,Q3,"O-Q - Public Administration, Defense, Education and Health, Social Care",14.4,47868.8,9.7,87633.3
+2003,Q3,R-T - Other Service Activities,2.0,6627.0,7.6,13752.2
+2003,Q3,Total,85.6,283943.9,2.7,529100.1
+2003,Q3,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",10.6,35173.0,3.9,70084.6
+2003,Q4,"A - Agriculture, Forestry and Fishing",8.4,30665.1,-11.5,53389.8
+2003,Q4,"B-E - Manufacturing, Mining and Other Industries",26.3,96485.4,2.1,177224.5
+2003,Q4,F - Construction,3.8,13830.9,6.7,23747.8
+2003,Q4,J - Informing and Communication,2.0,7468.5,11.8,13571.1
+2003,Q4,K - Financial and Insurance Activities,1.4,5059.4,7.9,12221.0
+2003,Q4,L - Real Estate Business,12.5,45745.1,2.7,70784.5
+2003,Q4,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",3.3,12089.2,8.7,22504.9
+2003,Q4,"O-Q - Public Administration, Defense, Education and Health, Social Care",14.5,53334.8,8.1,93190.4
+2003,Q4,R-T - Other Service Activities,2.0,7285.8,12.7,14709.5
+2003,Q4,Total,85.2,312552.7,2.9,566186.0
+2003,Q4,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",11.1,40588.5,8.9,80456.1
+2004,Q1,"A - Agriculture, Forestry and Fishing",6.9,22167.8,3.1,39239.2
+2004,Q1,"B-E - Manufacturing, Mining and Other Industries",28.3,90480.3,10.0,162123.8
+2004,Q1,F - Construction,2.6,8189.9,-7.8,14438.8
+2004,Q1,J - Informing and Communication,2.6,8203.9,25.3,14192.6
+2004,Q1,K - Financial and Insurance Activities,1.7,5485.0,6.3,12207.8
+2004,Q1,L - Real Estate Business,12.5,39988.0,0.7,67446.1
+2004,Q1,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",4.0,12785.0,5.3,22546.3
+2004,Q1,"O-Q - Public Administration, Defense, Education and Health, Social Care",14.0,44765.1,2.5,80763.8
+2004,Q1,R-T - Other Service Activities,2.3,7465.7,5.9,14745.2
+2004,Q1,Total,85.6,273377.4,6.7,495042.4
+2004,Q1,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",10.6,33846.8,12.6,65079.5
+2004,Q2,"A - Agriculture, Forestry and Fishing",6.8,24313.0,1.7,44898.7
+2004,Q2,"B-E - Manufacturing, Mining and Other Industries",27.1,96992.2,4.9,166203.5
+2004,Q2,F - Construction,3.6,12804.7,31.9,21744.9
+2004,Q2,J - Informing and Communication,2.5,8832.9,23.2,14786.3
+2004,Q2,K - Financial and Insurance Activities,1.6,5711.6,6.4,12554.5
+2004,Q2,L - Real Estate Business,12.3,44181.0,-0.2,69073.4
+2004,Q2,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",3.5,12461.6,2.5,21528.9
+2004,Q2,"O-Q - Public Administration, Defense, Education and Health, Social Care",13.7,49070.2,7.1,87388.1
+2004,Q2,R-T - Other Service Activities,2.0,7321.6,3.2,14103.9
+2004,Q2,Total,84.2,301574.8,6.0,530098.2
+2004,Q2,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",11.1,39886.1,8.0,75242.3
+2004,Q3,"A - Agriculture, Forestry and Fishing",9.5,37303.8,24.6,66731.2
+2004,Q3,"B-E - Manufacturing, Mining and Other Industries",26.0,102040.0,5.1,168560.7
+2004,Q3,F - Construction,4.4,17329.5,18.5,28754.0
+2004,Q3,J - Informing and Communication,2.4,9304.2,20.9,15244.5
+2004,Q3,K - Financial and Insurance Activities,1.5,5969.4,7.3,12647.8
+2004,Q3,L - Real Estate Business,12.0,47058.1,-0.2,69832.6
+2004,Q3,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",3.3,12871.9,6.2,21911.7
+2004,Q3,"O-Q - Public Administration, Defense, Education and Health, Social Care",12.8,50119.7,1.5,88941.4
+2004,Q3,R-T - Other Service Activities,1.9,7630.3,4.6,14388.1
+2004,Q3,Total,84.5,331706.0,7.4,568361.4
+2004,Q3,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",10.7,42079.1,10.7,77605.6
+2004,Q4,"A - Agriculture, Forestry and Fishing",10.2,46407.5,38.9,74183.1
+2004,Q4,"B-E - Manufacturing, Mining and Other Industries",25.5,116103.2,6.9,189378.2
+2004,Q4,F - Construction,4.0,18224.8,27.3,30239.7
+2004,Q4,J - Informing and Communication,2.2,10165.8,20.8,16394.0
+2004,Q4,K - Financial and Insurance Activities,1.4,6535.4,9.7,13410.7
+2004,Q4,L - Real Estate Business,10.7,48993.8,0.5,71171.9
+2004,Q4,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",3.4,15398.3,14.1,25667.5
+2004,Q4,"O-Q - Public Administration, Defense, Education and Health, Social Care",12.4,56751.3,3.9,96795.8
+2004,Q4,R-T - Other Service Activities,1.8,8313.9,5.2,15470.5
+2004,Q4,Total,83.3,379777.2,11.4,630946.0
+2004,Q4,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",11.6,52883.2,18.3,95201.7
+2005,Q1,"A - Agriculture, Forestry and Fishing",6.1,23453.7,-4.0,37676.8
+2005,Q1,"B-E - Manufacturing, Mining and Other Industries",26.4,101667.6,-0.8,160780.3
+2005,Q1,F - Construction,1.7,6602.3,-29.4,10194.4
+2005,Q1,J - Informing and Communication,2.8,10943.0,22.4,17368.0
+2005,Q1,K - Financial and Insurance Activities,1.9,7493.5,12.7,13753.3
+2005,Q1,L - Real Estate Business,13.4,51565.1,2.2,68933.2
+2005,Q1,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",4.9,18751.7,25.7,28341.9
+2005,Q1,"O-Q - Public Administration, Defense, Education and Health, Social Care",12.4,47830.9,4.5,84422.4
+2005,Q1,R-T - Other Service Activities,2.5,9745.2,14.2,16835.4
+2005,Q1,Total,83.6,322055.8,4.5,517183.7
+2005,Q1,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",11.4,44002.9,17.9,76725.0
+2005,Q2,"A - Agriculture, Forestry and Fishing",6.0,26547.0,0.7,45201.6
+2005,Q2,"B-E - Manufacturing, Mining and Other Industries",25.3,111023.9,2.6,170601.5
+2005,Q2,F - Construction,3.3,14602.7,8.0,23479.4
+2005,Q2,J - Informing and Communication,2.5,11117.6,18.1,17459.7
+2005,Q2,K - Financial and Insurance Activities,1.8,7988.7,14.6,14383.3
+2005,Q2,L - Real Estate Business,12.8,56366.0,2.9,71099.6
+2005,Q2,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",4.4,19165.5,33.5,28740.0
+2005,Q2,"O-Q - Public Administration, Defense, Education and Health, Social Care",11.7,51312.3,1.6,88786.9
+2005,Q2,R-T - Other Service Activities,2.3,10069.0,20.2,16948.3
+2005,Q2,Total,82.7,363263.4,7.9,571773.5
+2005,Q2,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",12.5,55070.7,24.2,93423.8
+2005,Q3,"A - Agriculture, Forestry and Fishing",7.3,35033.9,-5.9,62779.0
+2005,Q3,"B-E - Manufacturing, Mining and Other Industries",25.2,121494.3,6.8,179983.9
+2005,Q3,F - Construction,4.6,22263.7,20.1,34546.4
+2005,Q3,J - Informing and Communication,2.4,11733.4,17.1,17850.7
+2005,Q3,K - Financial and Insurance Activities,1.7,8159.0,11.5,14107.5
+2005,Q3,L - Real Estate Business,12.6,60558.5,2.9,71853.6
+2005,Q3,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",4.2,20452.3,36.7,29957.4
+2005,Q3,"O-Q - Public Administration, Defense, Education and Health, Social Care",10.9,52494.9,0.3,89228.7
+2005,Q3,R-T - Other Service Activities,2.2,10477.0,18.7,17074.3
+2005,Q3,Total,83.2,400429.7,8.0,613930.1
+2005,Q3,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",12.0,57762.7,21.5,94289.9
+2005,Q4,"A - Agriculture, Forestry and Fishing",7.3,39432.0,-7.8,68380.0
+2005,Q4,"B-E - Manufacturing, Mining and Other Industries",25.0,134972.4,4.3,197499.7
+2005,Q4,F - Construction,4.7,25566.9,28.7,38929.1
+2005,Q4,J - Informing and Communication,2.4,12849.3,14.6,18787.8
+2005,Q4,K - Financial and Insurance Activities,1.7,9109.9,12.5,15091.2
+2005,Q4,L - Real Estate Business,11.9,64297.3,1.9,72553.0
+2005,Q4,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",4.1,22257.0,23.4,31681.1
+2005,Q4,"O-Q - Public Administration, Defense, Education and Health, Social Care",11.7,63467.4,0.6,97350.3
+2005,Q4,R-T - Other Service Activities,2.2,11930.0,21.3,18769.7
+2005,Q4,Total,82.8,447890.0,4.9,661901.1
+2005,Q4,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",11.8,64007.7,6.0,100913.2
+2006,Q1,"A - Agriculture, Forestry and Fishing",6.0,28067.1,1.7,38309.5
+2006,Q1,"B-E - Manufacturing, Mining and Other Industries",25.8,120372.2,4.6,168102.0
+2006,Q1,F - Construction,2.2,10207.8,45.5,14836.7
+2006,Q1,J - Informing and Communication,3.2,14935.3,19.7,20785.2
+2006,Q1,K - Financial and Insurance Activities,2.4,10977.5,20.3,16539.6
+2006,Q1,L - Real Estate Business,11.5,53618.8,-1.3,68037.7
+2006,Q1,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",5.2,24149.1,15.9,32844.0
+2006,Q1,"O-Q - Public Administration, Defense, Education and Health, Social Care",11.7,54425.8,-3.6,81352.6
+2006,Q1,R-T - Other Service Activities,2.9,13714.5,17.9,19842.6
+2006,Q1,Total,83.7,389813.8,6.5,550606.5
+2006,Q1,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",12.7,59345.9,12.8,86555.0
+2006,Q2,"A - Agriculture, Forestry and Fishing",6.2,32812.5,0.0,45219.7
+2006,Q2,"B-E - Manufacturing, Mining and Other Industries",24.5,129838.7,2.7,175130.9
+2006,Q2,F - Construction,3.5,18449.1,7.2,25181.2
+2006,Q2,J - Informing and Communication,3.0,15859.2,25.2,21867.9
+2006,Q2,K - Financial and Insurance Activities,2.3,12199.5,24.2,17860.3
+2006,Q2,L - Real Estate Business,10.8,57179.1,-3.0,68967.3
+2006,Q2,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",4.9,25763.1,21.0,34764.2
+2006,Q2,"O-Q - Public Administration, Defense, Education and Health, Social Care",11.0,58062.8,-4.9,84466.5
+2006,Q2,R-T - Other Service Activities,2.7,14280.0,20.7,20459.2
+2006,Q2,Total,82.4,436463.5,4.5,597351.9
+2006,Q2,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",13.6,72019.4,9.0,101806.5
+2006,Q3,"A - Agriculture, Forestry and Fishing",7.9,44599.0,5.8,66391.6
+2006,Q3,"B-E - Manufacturing, Mining and Other Industries",24.0,134872.3,-2.2,176072.8
+2006,Q3,F - Construction,5.0,27927.9,5.0,36267.3
+2006,Q3,J - Informing and Communication,2.9,16518.9,26.0,22499.8
+2006,Q3,K - Financial and Insurance Activities,2.1,12050.4,22.7,17309.8
+2006,Q3,L - Real Estate Business,10.3,58202.0,-3.6,69252.4
+2006,Q3,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",4.7,26381.8,17.4,35168.9
+2006,Q3,"O-Q - Public Administration, Defense, Education and Health, Social Care",10.8,61026.0,-3.3,86251.9
+2006,Q3,R-T - Other Service Activities,2.6,14782.2,22.1,20844.5
+2006,Q3,Total,83.7,471255.9,3.2,633798.1
+2006,Q3,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",13.3,74895.4,10.9,104538.2
+2006,Q4,"A - Agriculture, Forestry and Fishing",6.9,43214.7,-6.9,63677.7
+2006,Q4,"B-E - Manufacturing, Mining and Other Industries",24.5,152613.7,0.1,197726.6
+2006,Q4,F - Construction,5.2,32480.4,7.2,41726.0
+2006,Q4,J - Informing and Communication,2.8,17284.9,22.9,23088.3
+2006,Q4,K - Financial and Insurance Activities,2.0,12297.3,16.4,17570.1
+2006,Q4,L - Real Estate Business,9.6,59841.8,-3.6,69933.3
+2006,Q4,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",4.4,27111.8,11.5,35340.1
+2006,Q4,"O-Q - Public Administration, Defense, Education and Health, Social Care",12.2,76230.9,-2.1,95317.8
+2006,Q4,R-T - Other Service Activities,2.5,15459.8,14.2,21428.0
+2006,Q4,Total,82.9,516112.9,2.2,676236.6
+2006,Q4,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",12.8,79577.5,10.6,111605.7
+2007,Q1,"A - Agriculture, Forestry and Fishing",5.5,29862.0,-0.8,37991.2
+2007,Q1,"B-E - Manufacturing, Mining and Other Industries",25.0,136567.9,4.7,175925.3
+2007,Q1,F - Construction,3.0,16398.9,37.0,20327.6
+2007,Q1,J - Informing and Communication,3.4,18417.9,11.4,23145.3
+2007,Q1,K - Financial and Insurance Activities,2.6,14116.3,13.7,18804.0
+2007,Q1,L - Real Estate Business,9.3,50975.3,-1.4,67053.4
+2007,Q1,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",4.8,26526.1,5.7,34715.9
+2007,Q1,"O-Q - Public Administration, Defense, Education and Health, Social Care",13.0,71256.1,4.2,84787.3
+2007,Q1,R-T - Other Service Activities,3.0,16634.9,6.9,21218.0
+2007,Q1,Total,83.6,457358.7,6.7,587493.7
+2007,Q1,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",14.0,76603.4,18.5,102542.6
+2007,Q2,"A - Agriculture, Forestry and Fishing",5.3,32642.7,-2.2,44223.4
+2007,Q2,"B-E - Manufacturing, Mining and Other Industries",23.8,145575.0,4.8,183483.2
+2007,Q2,F - Construction,4.2,25651.6,22.7,30903.2
+2007,Q2,J - Informing and Communication,3.2,19731.4,12.6,24613.4
+2007,Q2,K - Financial and Insurance Activities,2.4,14746.9,3.0,18397.4
+2007,Q2,L - Real Estate Business,8.8,54034.3,-0.5,68596.6
+2007,Q2,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",4.6,28352.3,4.3,36252.6
+2007,Q2,"O-Q - Public Administration, Defense, Education and Health, Social Care",12.5,76375.2,3.1,87075.6
+2007,Q2,R-T - Other Service Activities,2.8,17005.1,5.3,21550.0
+2007,Q2,Total,82.5,504518.1,6.3,634762.1
+2007,Q2,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",14.8,90403.8,17.1,119220.9
+2007,Q3,"A - Agriculture, Forestry and Fishing",6.9,44800.1,-11.3,58914.7
+2007,Q3,"B-E - Manufacturing, Mining and Other Industries",23.1,149211.3,6.5,187512.7
+2007,Q3,F - Construction,5.1,32875.0,8.4,39313.9
+2007,Q3,J - Informing and Communication,3.2,20588.2,14.4,25733.1
+2007,Q3,K - Financial and Insurance Activities,2.3,14764.4,3.4,17904.4
+2007,Q3,L - Real Estate Business,8.5,54651.2,0.3,69488.0
+2007,Q3,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",4.5,28940.6,3.9,36555.0
+2007,Q3,"O-Q - Public Administration, Defense, Education and Health, Social Care",12.3,79468.4,2.7,88577.5
+2007,Q3,R-T - Other Service Activities,2.7,17166.8,3.9,21663.7
+2007,Q3,Total,82.9,535357.5,5.2,666507.0
+2007,Q3,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",14.4,92891.4,15.7,120947.9
+2007,Q4,"A - Agriculture, Forestry and Fishing",6.5,47108.9,-12.5,55718.6
+2007,Q4,"B-E - Manufacturing, Mining and Other Industries",23.4,168288.4,4.1,205860.1
+2007,Q4,F - Construction,5.2,37090.5,5.1,43862.3
+2007,Q4,J - Informing and Communication,3.0,21870.3,19.0,27469.0
+2007,Q4,K - Financial and Insurance Activities,2.2,15706.6,7.2,18839.1
+2007,Q4,L - Real Estate Business,8.0,57673.6,3.4,72337.8
+2007,Q4,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",4.3,31126.6,11.0,39219.9
+2007,Q4,"O-Q - Public Administration, Defense, Education and Health, Social Care",13.6,97548.6,4.3,99449.8
+2007,Q4,R-T - Other Service Activities,2.5,17739.6,4.0,22283.2
+2007,Q4,Total,82.8,595567.1,5.7,714967.1
+2007,Q4,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",14.1,101414.0,16.3,129818.8
+2008,Q1,"A - Agriculture, Forestry and Fishing",6.3,40969.5,8.9,41354.2
+2008,Q1,"B-E - Manufacturing, Mining and Other Industries",24.4,157460.3,6.6,187539.1
+2008,Q1,F - Construction,3.0,19449.3,6.5,21648.6
+2008,Q1,J - Informing and Communication,3.6,23551.1,18.8,27496.1
+2008,Q1,K - Financial and Insurance Activities,2.8,17816.0,9.1,20521.1
+2008,Q1,L - Real Estate Business,8.3,53382.3,2.2,68550.2
+2008,Q1,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",5.2,33691.9,15.8,40210.5
+2008,Q1,"O-Q - Public Administration, Defense, Education and Health, Social Care",13.1,84830.5,3.5,87735.8
+2008,Q1,R-T - Other Service Activities,2.9,18955.2,7.8,22865.1
+2008,Q1,Total,84.0,542450.4,7.5,631585.5
+2008,Q1,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",14.3,92344.5,10.9,113717.8
+2008,Q2,"A - Agriculture, Forestry and Fishing",6.7,48070.2,4.9,46389.8
+2008,Q2,"B-E - Manufacturing, Mining and Other Industries",23.4,169074.9,7.0,196377.3
+2008,Q2,F - Construction,4.2,30344.9,5.7,32679.5
+2008,Q2,J - Informing and Communication,3.4,24616.9,15.9,28529.8
+2008,Q2,K - Financial and Insurance Activities,2.6,18938.9,18.6,21824.0
+2008,Q2,L - Real Estate Business,7.7,55816.9,3.2,70798.3
+2008,Q2,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",4.9,34995.7,15.6,41905.7
+2008,Q2,"O-Q - Public Administration, Defense, Education and Health, Social Care",12.6,91032.9,4.4,90892.7
+2008,Q2,R-T - Other Service Activities,2.8,20236.2,11.2,23962.3
+2008,Q2,Total,83.0,598530.8,7.1,679907.9
+2008,Q2,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",14.6,105403.3,6.3,126772.5
+2008,Q3,"A - Agriculture, Forestry and Fishing",8.8,65299.5,11.3,65570.6
+2008,Q3,"B-E - Manufacturing, Mining and Other Industries",22.7,169468.4,3.7,194425.0
+2008,Q3,F - Construction,4.9,36450.5,0.1,39366.7
+2008,Q3,J - Informing and Communication,3.3,24673.6,10.7,28485.3
+2008,Q3,K - Financial and Insurance Activities,2.5,18505.9,17.9,21101.2
+2008,Q3,L - Real Estate Business,7.5,55901.8,4.0,72271.9
+2008,Q3,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",4.8,35493.6,15.7,42303.8
+2008,Q3,"O-Q - Public Administration, Defense, Education and Health, Social Care",12.0,89409.1,2.7,90971.6
+2008,Q3,R-T - Other Service Activities,2.7,20494.4,10.8,24000.9
+2008,Q3,Total,83.9,625017.3,6.2,707927.7
+2008,Q3,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",14.7,109320.5,7.5,130048.9
+2008,Q4,"A - Agriculture, Forestry and Fishing",7.8,62186.9,8.4,60401.7
+2008,Q4,"B-E - Manufacturing, Mining and Other Industries",22.6,180032.8,-1.3,203100.9
+2008,Q4,F - Construction,5.1,40688.9,-0.8,43498.1
+2008,Q4,J - Informing and Communication,3.2,25769.1,7.6,29567.7
+2008,Q4,K - Financial and Insurance Activities,2.4,19437.2,13.9,21464.7
+2008,Q4,L - Real Estate Business,7.9,62739.1,1.4,73383.2
+2008,Q4,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",4.8,37856.1,14.0,44707.3
+2008,Q4,"O-Q - Public Administration, Defense, Education and Health, Social Care",12.6,100349.5,-3.5,96005.8
+2008,Q4,R-T - Other Service Activities,2.7,21268.1,10.2,24558.7
+2008,Q4,Total,83.6,665809.3,2.6,733246.8
+2008,Q4,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",14.5,115481.7,5.4,136797.3
+2009,Q1,"A - Agriculture, Forestry and Fishing",6.8,46523.7,-1.4,40768.0
+2009,Q1,"B-E - Manufacturing, Mining and Other Industries",21.5,147990.4,-9.9,168905.8
+2009,Q1,F - Construction,2.8,19049.3,-2.5,21103.7
+2009,Q1,J - Informing and Communication,4.2,29144.2,7.1,29456.9
+2009,Q1,K - Financial and Insurance Activities,3.2,21792.9,8.9,22342.3
+2009,Q1,L - Real Estate Business,9.3,63776.4,2.6,70319.3
+2009,Q1,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",6.1,41884.9,8.4,43576.9
+2009,Q1,"O-Q - Public Administration, Defense, Education and Health, Social Care",12.3,84453.6,0.7,88359.7
+2009,Q1,R-T - Other Service Activities,3.4,23363.7,7.1,24478.2
+2009,Q1,Total,84.8,583243.9,-1.4,622524.1
+2009,Q1,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",15.3,105264.9,1.3,115191.2
+2009,Q2,"A - Agriculture, Forestry and Fishing",6.9,52180.8,3.7,48117.1
+2009,Q2,"B-E - Manufacturing, Mining and Other Industries",20.4,153726.2,-14.0,168847.3
+2009,Q2,F - Construction,3.7,28070.1,-7.0,30388.6
+2009,Q2,J - Informing and Communication,4.0,30532.1,7.7,30736.6
+2009,Q2,K - Financial and Insurance Activities,3.0,22583.0,5.9,23109.4
+2009,Q2,L - Real Estate Business,9.0,67657.2,1.6,71899.8
+2009,Q2,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",5.5,41793.2,3.4,43328.6
+2009,Q2,"O-Q - Public Administration, Defense, Education and Health, Social Care",11.7,88105.6,1.1,91866.9
+2009,Q2,R-T - Other Service Activities,3.2,23797.2,2.5,24568.1
+2009,Q2,Total,83.0,627018.7,-3.1,658930.3
+2009,Q2,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",15.7,118573.3,0.1,126906.3
+2009,Q3,"A - Agriculture, Forestry and Fishing",8.1,63507.5,0.8,66076.6
+2009,Q3,"B-E - Manufacturing, Mining and Other Industries",21.1,165666.9,-8.2,178502.3
+2009,Q3,F - Construction,3.9,30610.7,-16.8,32768.4
+2009,Q3,J - Informing and Communication,3.9,30563.8,6.9,30461.7
+2009,Q3,K - Financial and Insurance Activities,2.8,22054.7,5.4,22243.9
+2009,Q3,L - Real Estate Business,8.9,70028.3,1.3,73221.0
+2009,Q3,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",5.3,41572.7,1.4,42876.9
+2009,Q3,"O-Q - Public Administration, Defense, Education and Health, Social Care",11.1,87107.7,1.0,91858.9
+2009,Q3,R-T - Other Service Activities,3.0,23727.3,1.3,24314.0
+2009,Q3,Total,83.8,656854.7,-2.0,693993.5
+2009,Q3,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",15.6,122015.2,0.1,130234.5
+2009,Q4,"A - Agriculture, Forestry and Fishing",7.0,57587.4,0.1,60488.7
+2009,Q4,"B-E - Manufacturing, Mining and Other Industries",22.0,181998.6,-5.1,192796.4
+2009,Q4,F - Construction,4.0,32919.7,-18.6,35428.1
+2009,Q4,J - Informing and Communication,3.7,30934.6,4.3,30848.8
+2009,Q4,K - Financial and Insurance Activities,2.7,22400.9,4.8,22494.1
+2009,Q4,L - Real Estate Business,8.7,72023.6,0.6,73805.6
+2009,Q4,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",5.2,43009.9,-1.4,44091.2
+2009,Q4,"O-Q - Public Administration, Defense, Education and Health, Social Care",11.9,98486.3,1.7,97641.0
+2009,Q4,R-T - Other Service Activities,2.8,22880.7,-5.4,23230.7
+2009,Q4,Total,83.3,688205.2,-2.4,715961.7
+2009,Q4,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",15.3,125963.3,-1.9,134241.4
+2010,Q1,"A - Agriculture, Forestry and Fishing",6.0,42102.0,3.4,42174.1
+2010,Q1,"B-E - Manufacturing, Mining and Other Industries",22.3,158007.2,-0.4,168184.5
+2010,Q1,F - Construction,2.2,15649.3,-20.0,16876.8
+2010,Q1,J - Informing and Communication,4.2,29953.5,3.3,30424.4
+2010,Q1,K - Financial and Insurance Activities,3.3,23079.5,4.8,23407.6
+2010,Q1,L - Real Estate Business,9.4,66475.8,0.1,70422.4
+2010,Q1,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",6.0,42432.9,0.6,43853.0
+2010,Q1,"O-Q - Public Administration, Defense, Education and Health, Social Care",12.6,88816.5,4.4,92214.5
+2010,Q1,R-T - Other Service Activities,3.1,21724.8,-6.3,22931.4
+2010,Q1,Total,84.6,598150.5,0.3,624641.7
+2010,Q1,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",15.5,109909.0,-0.8,114227.2
+2010,Q2,"A - Agriculture, Forestry and Fishing",5.6,44388.5,-1.1,47587.3
+2010,Q2,"B-E - Manufacturing, Mining and Other Industries",21.9,173225.8,3.3,174462.3
+2010,Q2,F - Construction,3.3,25930.7,-12.7,26519.0
+2010,Q2,J - Informing and Communication,3.9,30648.7,0.6,30930.1
+2010,Q2,K - Financial and Insurance Activities,3.1,24157.1,5.8,24439.0
+2010,Q2,L - Real Estate Business,8.8,69893.4,-0.7,71387.6
+2010,Q2,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",5.5,43083.6,0.6,43599.6
+2010,Q2,"O-Q - Public Administration, Defense, Education and Health, Social Care",11.9,94113.3,4.2,95679.9
+2010,Q2,R-T - Other Service Activities,2.8,22118.6,-8.8,22397.5
+2010,Q2,Total,82.9,655000.7,1.0,665571.8
+2010,Q2,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",16.1,127441.1,1.6,128880.8
+2010,Q3,"A - Agriculture, Forestry and Fishing",7.4,62728.7,-2.9,64178.5
+2010,Q3,"B-E - Manufacturing, Mining and Other Industries",21.8,184936.9,1.6,181415.6
+2010,Q3,F - Construction,3.7,31381.8,-5.0,31121.3
+2010,Q3,J - Informing and Communication,3.7,31575.8,3.7,31585.3
+2010,Q3,K - Financial and Insurance Activities,2.8,24104.7,7.6,23942.2
+2010,Q3,L - Real Estate Business,8.8,74729.4,-0.9,72577.3
+2010,Q3,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",5.2,44156.3,2.1,43797.3
+2010,Q3,"O-Q - Public Administration, Defense, Education and Health, Social Care",11.3,95614.0,4.5,96027.1
+2010,Q3,R-T - Other Service Activities,2.7,22689.0,-8.2,22331.0
+2010,Q3,Total,83.6,709192.8,1.4,703589.1
+2010,Q3,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",16.2,137276.2,4.6,136175.1
+2010,Q4,"A - Agriculture, Forestry and Fishing",7.2,65399.0,0.3,60678.5
+2010,Q4,"B-E - Manufacturing, Mining and Other Industries",21.6,194984.9,-3.0,187092.3
+2010,Q4,F - Construction,4.2,37853.1,2.5,36297.7
+2010,Q4,J - Informing and Communication,3.6,32789.7,3.8,32028.0
+2010,Q4,K - Financial and Insurance Activities,2.7,24835.5,8.4,24388.0
+2010,Q4,L - Real Estate Business,8.5,76626.4,-0.6,73337.8
+2010,Q4,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",5.1,46175.8,1.2,44598.6
+2010,Q4,"O-Q - Public Administration, Defense, Education and Health, Social Care",11.9,107428.2,4.5,102050.4
+2010,Q4,R-T - Other Service Activities,2.6,23800.0,-2.4,22672.4
+2010,Q4,Total,83.4,754645.7,1.0,723187.2
+2010,Q4,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",16.0,144753.1,4.4,140096.3
+2011,Q1,"A - Agriculture, Forestry and Fishing",6.8,55383.6,-1.3,41619.8
+2011,Q1,"B-E - Manufacturing, Mining and Other Industries",23.7,193037.0,6.2,178568.9
+2011,Q1,F - Construction,2.0,16361.2,-3.0,16364.4
+2011,Q1,J - Informing and Communication,4.0,32597.2,5.3,32028.1
+2011,Q1,K - Financial and Insurance Activities,3.2,25916.2,5.8,24765.7
+2011,Q1,L - Real Estate Business,8.3,67771.5,0.4,70732.1
+2011,Q1,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",5.9,47654.5,1.7,44616.2
+2011,Q1,"O-Q - Public Administration, Defense, Education and Health, Social Care",12.2,98915.4,3.6,95506.1
+2011,Q1,R-T - Other Service Activities,3.0,24409.6,-1.1,22683.1
+2011,Q1,Total,85.0,691419.7,3.1,644150.3
+2011,Q1,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",15.9,129373.6,2.7,117266.1
+2011,Q2,"A - Agriculture, Forestry and Fishing",7.1,63181.7,0.9,48037.9
+2011,Q2,"B-E - Manufacturing, Mining and Other Industries",22.5,202037.2,3.1,179861.5
+2011,Q2,F - Construction,3.7,32902.0,15.8,30720.6
+2011,Q2,J - Informing and Communication,3.8,34184.2,8.2,33461.9
+2011,Q2,K - Financial and Insurance Activities,3.0,26761.1,0.6,24589.9
+2011,Q2,L - Real Estate Business,7.7,68982.6,1.4,72394.5
+2011,Q2,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",5.3,47727.7,1.6,44295.8
+2011,Q2,"O-Q - Public Administration, Defense, Education and Health, Social Care",11.8,105610.8,2.4,98000.5
+2011,Q2,R-T - Other Service Activities,2.7,24457.2,1.4,22703.4
+2011,Q2,Total,83.6,749321.1,2.5,681926.1
+2011,Q2,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",16.0,143476.5,-0.8,127860.1
+2011,Q3,"A - Agriculture, Forestry and Fishing",8.4,78234.8,2.1,65527.6
+2011,Q3,"B-E - Manufacturing, Mining and Other Industries",22.1,204619.8,0.6,182414.9
+2011,Q3,F - Construction,4.3,40105.8,18.6,36902.4
+2011,Q3,J - Informing and Communication,3.9,36591.4,10.0,34732.2
+2011,Q3,K - Financial and Insurance Activities,2.9,26605.0,-0.5,23816.3
+2011,Q3,L - Real Estate Business,7.8,71962.5,1.3,73486.1
+2011,Q3,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",5.1,47598.7,-0.8,43467.6
+2011,Q3,"O-Q - Public Administration, Defense, Education and Health, Social Care",11.2,103745.4,0.9,96904.1
+2011,Q3,R-T - Other Service Activities,2.6,24565.9,2.3,22845.6
+2011,Q3,Total,84.4,782886.3,1.1,711545.1
+2011,Q3,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",16.0,148857.1,-3.5,131448.3
+2011,Q4,"A - Agriculture, Forestry and Fishing",7.4,72138.7,1.2,61405.3
+2011,Q4,"B-E - Manufacturing, Mining and Other Industries",23.2,226287.3,5.4,197107.8
+2011,Q4,F - Construction,4.9,47720.0,19.2,43253.3
+2011,Q4,J - Informing and Communication,3.8,37491.0,9.2,34965.7
+2011,Q4,K - Financial and Insurance Activities,2.8,26905.5,-2.3,23831.5
+2011,Q4,L - Real Estate Business,7.5,73441.7,1.3,74313.4
+2011,Q4,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",4.9,47780.0,-3.4,43092.7
+2011,Q4,"O-Q - Public Administration, Defense, Education and Health, Social Care",11.8,115114.6,-0.2,101804.3
+2011,Q4,R-T - Other Service Activities,2.6,24923.3,0.0,22673.7
+2011,Q4,Total,84.5,824050.4,1.7,735702.4
+2011,Q4,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",15.6,152248.3,-4.9,133254.9
+2012,Q1,"A - Agriculture, Forestry and Fishing",5.1,42481.3,-19.0,33699.2
+2012,Q1,"B-E - Manufacturing, Mining and Other Industries",24.3,203103.2,-0.9,176972.5
+2012,Q1,F - Construction,2.7,22391.4,29.0,21105.8
+2012,Q1,J - Informing and Communication,4.5,37197.7,14.7,36744.8
+2012,Q1,K - Financial and Insurance Activities,3.3,27312.5,-0.3,24685.1
+2012,Q1,L - Real Estate Business,8.3,69574.0,0.1,70835.9
+2012,Q1,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",5.8,48685.2,-1.5,43925.2
+2012,Q1,"O-Q - Public Administration, Defense, Education and Health, Social Care",12.5,104180.5,-0.1,95381.6
+2012,Q1,R-T - Other Service Activities,3.0,25182.1,-0.7,22517.9
+2012,Q1,Total,85.4,712683.9,-1.2,636694.1
+2012,Q1,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",15.9,132576.0,-3.1,113632.0
+2012,Q2,"A - Agriculture, Forestry and Fishing",5.4,50787.9,-16.5,40091.8
+2012,Q2,"B-E - Manufacturing, Mining and Other Industries",22.5,212808.1,0.4,180532.1
+2012,Q2,F - Construction,4.2,40024.5,14.9,35302.1
+2012,Q2,J - Informing and Communication,4.2,39680.1,16.8,39099.6
+2012,Q2,K - Financial and Insurance Activities,3.0,28719.3,5.3,25899.3
+2012,Q2,L - Real Estate Business,8.3,78140.4,0.7,72866.2
+2012,Q2,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",5.4,51385.6,2.8,45549.0
+2012,Q2,"O-Q - Public Administration, Defense, Education and Health, Social Care",11.7,110612.8,0.3,98334.2
+2012,Q2,R-T - Other Service Activities,2.7,25334.7,-0.9,22505.1
+2012,Q2,Total,83.7,791451.5,0.7,686999.8
+2012,Q2,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",16.3,153958.1,0.9,129065.4
+2012,Q3,"A - Agriculture, Forestry and Fishing",7.7,76271.3,-16.3,54878.4
+2012,Q3,"B-E - Manufacturing, Mining and Other Industries",22.0,217364.1,-0.7,181158.4
+2012,Q3,F - Construction,4.4,43329.2,3.3,38121.0
+2012,Q3,J - Informing and Communication,4.0,39415.5,10.4,38355.1
+2012,Q3,K - Financial and Insurance Activities,2.9,28525.2,7.4,25573.6
+2012,Q3,L - Real Estate Business,8.3,82156.0,0.3,73690.0
+2012,Q3,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",5.4,53563.8,6.7,46380.1
+2012,Q3,"O-Q - Public Administration, Defense, Education and Health, Social Care",10.7,105667.8,-1.8,95190.3
+2012,Q3,R-T - Other Service Activities,2.6,25763.0,-0.7,22678.2
+2012,Q3,Total,84.2,830664.0,-0.9,705270.8
+2012,Q3,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",16.1,158608.1,-1.4,129612.9
+2012,Q4,"A - Agriculture, Forestry and Fishing",7.2,75623.7,-16.7,51134.6
+2012,Q4,"B-E - Manufacturing, Mining and Other Industries",24.1,251568.2,3.2,203507.2
+2012,Q4,F - Construction,3.7,38360.1,-20.8,34237.7
+2012,Q4,J - Informing and Communication,4.0,42046.5,12.9,39484.8
+2012,Q4,K - Financial and Insurance Activities,2.7,28444.3,6.3,25334.4
+2012,Q4,L - Real Estate Business,7.9,82191.2,0.4,74613.3
+2012,Q4,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",5.3,55827.4,8.9,46920.3
+2012,Q4,"O-Q - Public Administration, Defense, Education and Health, Social Care",11.4,118667.8,-1.4,100387.0
+2012,Q4,R-T - Other Service Activities,2.5,26562.5,1.2,22951.9
+2012,Q4,Total,84.4,881013.9,-1.2,727112.2
+2012,Q4,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",15.5,161722.1,-3.1,129183.1
+2013,Q1,"A - Agriculture, Forestry and Fishing",7.1,66569.1,24.7,42039.6
+2013,Q1,"B-E - Manufacturing, Mining and Other Industries",24.5,228660.8,5.1,185961.4
+2013,Q1,F - Construction,2.2,20955.4,-10.2,18952.5
+2013,Q1,J - Informing and Communication,4.8,44941.0,8.8,39970.5
+2013,Q1,K - Financial and Insurance Activities,3.1,28832.7,2.9,25394.5
+2013,Q1,L - Real Estate Business,7.8,73154.8,0.4,71148.1
+2013,Q1,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",6.2,57671.1,8.4,47635.2
+2013,Q1,"O-Q - Public Administration, Defense, Education and Health, Social Care",11.9,111343.7,2.3,97609.1
+2013,Q1,R-T - Other Service Activities,2.9,27112.4,2.3,23043.6
+2013,Q1,Total,85.9,802321.6,3.8,660960.8
+2013,Q1,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",15.3,143080.6,-2.1,111266.4
+2013,Q2,"A - Agriculture, Forestry and Fishing",7.5,76494.7,24.8,50021.1
+2013,Q2,"B-E - Manufacturing, Mining and Other Industries",23.2,236657.5,5.9,191131.4
+2013,Q2,F - Construction,2.6,26764.9,-33.7,23412.5
+2013,Q2,J - Informing and Communication,4.5,45700.6,3.5,40468.8
+2013,Q2,K - Financial and Insurance Activities,2.9,29869.1,2.0,26407.6
+2013,Q2,L - Real Estate Business,7.6,77395.9,-0.2,72715.6
+2013,Q2,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",5.8,58774.7,5.7,48132.2
+2013,Q2,"O-Q - Public Administration, Defense, Education and Health, Social Care",11.3,115079.7,2.3,100562.0
+2013,Q2,R-T - Other Service Activities,2.6,26907.0,-0.7,22347.5
+2013,Q2,Total,83.8,853374.1,1.7,698908.3
+2013,Q2,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",15.7,159730.0,-3.7,124333.2
+2013,Q3,"A - Agriculture, Forestry and Fishing",7.7,82310.1,18.3,64943.5
+2013,Q3,"B-E - Manufacturing, Mining and Other Industries",23.7,252635.9,11.9,202733.7
+2013,Q3,F - Construction,3.5,37495.3,-16.6,31811.0
+2013,Q3,J - Informing and Communication,4.2,45154.1,3.5,39691.4
+2013,Q3,K - Financial and Insurance Activities,2.7,28841.1,-0.5,25456.4
+2013,Q3,L - Real Estate Business,7.8,82454.2,0.8,74286.2
+2013,Q3,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",5.6,59653.1,2.7,47635.8
+2013,Q3,"O-Q - Public Administration, Defense, Education and Health, Social Care",11.1,117916.9,7.6,102472.3
+2013,Q3,R-T - Other Service Activities,2.6,27748.1,-2.1,22201.3
+2013,Q3,Total,84.7,900582.4,5.2,741787.0
+2013,Q3,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",15.6,166373.5,-0.7,128642.0
+2013,Q4,"A - Agriculture, Forestry and Fishing",7.3,80180.8,18.5,60571.0
+2013,Q4,"B-E - Manufacturing, Mining and Other Industries",23.9,264101.9,3.7,211013.4
+2013,Q4,F - Construction,3.5,38850.5,-6.6,31992.8
+2013,Q4,J - Informing and Communication,4.1,45783.2,1.7,40172.0
+2013,Q4,K - Financial and Insurance Activities,2.6,28920.9,0.2,25388.2
+2013,Q4,L - Real Estate Business,7.6,83536.0,0.2,74742.0
+2013,Q4,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",5.4,59668.2,1.3,47514.9
+2013,Q4,"O-Q - Public Administration, Defense, Education and Health, Social Care",11.7,129183.5,6.5,106906.5
+2013,Q4,R-T - Other Service Activities,2.5,28118.9,-3.0,22268.6
+2013,Q4,Total,84.2,931099.0,3.9,755576.7
+2013,Q4,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",15.6,172755.1,3.5,133708.5
+2014,Q1,"A - Agriculture, Forestry and Fishing",6.5,62094.9,2.6,43131.2
+2014,Q1,"B-E - Manufacturing, Mining and Other Industries",24.1,231286.3,-0.2,185536.0
+2014,Q1,F - Construction,2.4,22751.6,2.5,19434.2
+2014,Q1,J - Informing and Communication,5.0,48023.4,0.5,40156.6
+2014,Q1,K - Financial and Insurance Activities,3.0,29096.8,-0.1,25362.8
+2014,Q1,L - Real Estate Business,8.2,78246.7,1.0,71859.5
+2014,Q1,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",6.5,61913.9,0.0,47654.1
+2014,Q1,"O-Q - Public Administration, Defense, Education and Health, Social Care",11.9,113877.2,2.5,100039.2
+2014,Q1,R-T - Other Service Activities,3.0,28581.1,-3.4,22254.7
+2014,Q1,Total,85.4,819726.6,0.3,663008.5
+2014,Q1,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",15.0,143854.7,-1.5,109629.8
+2014,Q2,"A - Agriculture, Forestry and Fishing",6.9,71461.2,1.7,50891.7
+2014,Q2,"B-E - Manufacturing, Mining and Other Industries",22.1,228272.2,-4.6,182326.1
+2014,Q2,F - Construction,2.9,30068.4,6.2,24859.2
+2014,Q2,J - Informing and Communication,4.8,49317.4,1.5,41055.6
+2014,Q2,K - Financial and Insurance Activities,2.9,30272.1,0.2,26450.9
+2014,Q2,L - Real Estate Business,7.9,81867.2,0.9,73373.9
+2014,Q2,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",6.1,63063.8,-0.1,48086.7
+2014,Q2,"O-Q - Public Administration, Defense, Education and Health, Social Care",11.3,117094.8,1.4,101986.3
+2014,Q2,R-T - Other Service Activities,2.9,29432.8,2.5,22898.0
+2014,Q2,Total,83.5,861862.4,-0.8,692980.5
+2014,Q2,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",15.6,161012.6,-1.9,121930.2
+2014,Q3,"A - Agriculture, Forestry and Fishing",8.1,85757.0,1.2,65711.6
+2014,Q3,"B-E - Manufacturing, Mining and Other Industries",20.6,217141.8,-15.0,172382.6
+2014,Q3,F - Construction,3.3,34697.8,-12.8,27750.1
+2014,Q3,J - Informing and Communication,4.7,49455.2,3.7,41168.6
+2014,Q3,K - Financial and Insurance Activities,2.8,29507.9,-2.2,24897.5
+2014,Q3,L - Real Estate Business,8.3,86963.9,0.7,74809.2
+2014,Q3,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",6.1,63858.0,0.4,47822.5
+2014,Q3,"O-Q - Public Administration, Defense, Education and Health, Social Care",11.1,116977.9,-0.9,101600.0
+2014,Q3,R-T - Other Service Activities,2.8,29223.2,1.9,22613.9
+2014,Q3,Total,84.0,883551.9,-4.6,707655.0
+2014,Q3,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",16.2,169969.4,-0.8,127572.4
+2014,Q4,"A - Agriculture, Forestry and Fishing",6.7,74666.4,2.5,62088.6
+2014,Q4,"B-E - Manufacturing, Mining and Other Industries",21.5,240362.8,-11.0,187817.8
+2014,Q4,F - Construction,4.1,45420.7,11.4,35640.3
+2014,Q4,J - Informing and Communication,4.6,51152.9,5.6,42427.6
+2014,Q4,K - Financial and Insurance Activities,2.7,30449.0,0.5,25512.6
+2014,Q4,L - Real Estate Business,8.0,89763.1,0.5,75119.7
+2014,Q4,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",5.7,63191.5,-1.1,46992.0
+2014,Q4,"O-Q - Public Administration, Defense, Education and Health, Social Care",11.4,127138.5,-0.2,106689.7
+2014,Q4,R-T - Other Service Activities,2.6,29559.2,1.3,22554.3
+2014,Q4,Total,83.2,929530.7,-2.2,738940.7
+2014,Q4,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",15.9,177826.6,-0.2,133476.6
+2015,Q1,"A - Agriculture, Forestry and Fishing",5.9,57455.0,0.4,43292.2
+2015,Q1,"B-E - Manufacturing, Mining and Other Industries",23.2,225995.7,-1.4,182882.0
+2015,Q1,F - Construction,2.4,23811.8,1.2,19665.1
+2015,Q1,J - Informing and Communication,5.2,51030.3,5.0,42145.0
+2015,Q1,K - Financial and Insurance Activities,3.3,31986.3,2.3,25956.2
+2015,Q1,L - Real Estate Business,8.4,82120.5,1.4,72831.7
+2015,Q1,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",6.5,63525.7,-1.4,46964.3
+2015,Q1,"O-Q - Public Administration, Defense, Education and Health, Social Care",10.8,105667.1,-2.5,97570.5
+2015,Q1,R-T - Other Service Activities,3.1,29954.3,1.0,22488.2
+2015,Q1,Total,84.5,824633.7,0.4,665609.5
+2015,Q1,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",15.7,153087.0,3.1,113040.2
+2015,Q2,"A - Agriculture, Forestry and Fishing",6.0,64662.6,-0.7,50512.9
+2015,Q2,"B-E - Manufacturing, Mining and Other Industries",22.4,240848.1,4.7,190891.0
+2015,Q2,F - Construction,3.6,38304.5,20.4,29931.9
+2015,Q2,J - Informing and Communication,4.8,52042.8,3.2,42375.0
+2015,Q2,K - Financial and Insurance Activities,3.0,32170.7,-1.7,26004.3
+2015,Q2,L - Real Estate Business,7.8,83720.4,0.5,73728.9
+2015,Q2,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",5.9,63277.6,-3.7,46305.0
+2015,Q2,"O-Q - Public Administration, Defense, Education and Health, Social Care",10.2,109318.7,-2.9,99052.7
+2015,Q2,R-T - Other Service Activities,2.8,29817.7,-2.4,22343.4
+2015,Q2,Total,82.6,887666.1,2.1,707303.4
+2015,Q2,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",16.1,173502.9,3.6,126357.7
+2015,Q3,"A - Agriculture, Forestry and Fishing",7.9,86291.4,3.9,68296.9
+2015,Q3,"B-E - Manufacturing, Mining and Other Industries",20.8,228438.7,7.0,184489.1
+2015,Q3,F - Construction,4.2,46368.7,27.8,35456.5
+2015,Q3,J - Informing and Communication,4.7,51967.8,1.9,41932.3
+2015,Q3,K - Financial and Insurance Activities,2.9,31736.4,2.5,25513.2
+2015,Q3,L - Real Estate Business,7.9,86995.2,0.3,75024.8
+2015,Q3,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",5.9,64610.6,-2.5,46608.0
+2015,Q3,"O-Q - Public Administration, Defense, Education and Health, Social Care",10.1,110933.6,-1.5,100036.6
+2015,Q3,R-T - Other Service Activities,2.8,30266.3,0.0,22615.9
+2015,Q3,Total,83.5,917204.4,3.5,732217.2
+2015,Q3,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",16.3,179595.6,2.9,131244.4
+2015,Q4,"A - Agriculture, Forestry and Fishing",6.9,80758.7,3.2,64051.4
+2015,Q4,"B-E - Manufacturing, Mining and Other Industries",21.7,252478.8,6.8,200524.8
+2015,Q4,F - Construction,4.6,52929.1,14.3,40727.9
+2015,Q4,J - Informing and Communication,4.6,52912.7,0.5,42631.0
+2015,Q4,K - Financial and Insurance Activities,2.8,32419.0,1.9,26007.9
+2015,Q4,L - Real Estate Business,7.5,86888.8,-0.3,74905.2
+2015,Q4,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",5.6,65191.2,-0.2,46898.5
+2015,Q4,"O-Q - Public Administration, Defense, Education and Health, Social Care",10.7,124691.5,-1.4,105195.4
+2015,Q4,R-T - Other Service Activities,2.7,31028.1,2.2,23058.7
+2015,Q4,Total,83.1,965284.2,3.0,761298.3
+2015,Q4,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",16.0,185986.4,2.3,136507.2
+2016,Q1,"A - Agriculture, Forestry and Fishing",5.9,60770.0,7.5,46547.9
+2016,Q1,"B-E - Manufacturing, Mining and Other Industries",23.4,239618.9,6.1,193952.1
+2016,Q1,F - Construction,2.7,27802.0,16.9,22995.3
+2016,Q1,J - Informing and Communication,5.2,53172.3,2.1,43027.2
+2016,Q1,K - Financial and Insurance Activities,3.2,32753.3,2.9,26716.8
+2016,Q1,L - Real Estate Business,8.0,82388.2,-0.2,72709.2
+2016,Q1,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",6.3,64407.7,0.5,47221.8
+2016,Q1,"O-Q - Public Administration, Defense, Education and Health, Social Care",10.5,107213.2,0.3,97889.9
+2016,Q1,R-T - Other Service Activities,3.0,31222.2,3.8,23339.6
+2016,Q1,Total,84.1,862182.2,4.2,693846.4
+2016,Q1,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",15.9,162834.2,6.1,119904.2
+2016,Q2,"A - Agriculture, Forestry and Fishing",6.2,69460.0,4.6,52816.9
+2016,Q2,"B-E - Manufacturing, Mining and Other Industries",21.8,244545.2,2.1,194872.0
+2016,Q2,F - Construction,3.8,42114.1,10.0,32933.2
+2016,Q2,J - Informing and Communication,4.8,54141.0,3.0,43667.0
+2016,Q2,K - Financial and Insurance Activities,3.0,33351.1,4.8,27265.3
+2016,Q2,L - Real Estate Business,7.5,84081.2,-1.0,73002.8
+2016,Q2,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",5.9,66119.8,4.1,48221.7
+2016,Q2,"O-Q - Public Administration, Defense, Education and Health, Social Care",10.0,112111.0,1.9,100924.2
+2016,Q2,R-T - Other Service Activities,2.9,31996.9,7.0,23897.6
+2016,Q2,Total,82.1,920396.8,3.5,731860.0
+2016,Q2,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",16.3,182476.3,5.6,133406.9
+2016,Q3,"A - Agriculture, Forestry and Fishing",7.8,90126.4,11.8,76348.3
+2016,Q3,"B-E - Manufacturing, Mining and Other Industries",20.6,238912.8,3.2,190460.3
+2016,Q3,F - Construction,4.5,52339.7,12.4,39846.1
+2016,Q3,J - Informing and Communication,4.8,55072.6,4.7,43907.9
+2016,Q3,K - Financial and Insurance Activities,2.9,33292.7,7.0,27300.9
+2016,Q3,L - Real Estate Business,7.6,88239.2,-1.0,74306.1
+2016,Q3,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",5.9,68791.1,5.9,49378.3
+2016,Q3,"O-Q - Public Administration, Defense, Education and Health, Social Care",9.7,112669.7,1.2,101198.7
+2016,Q3,R-T - Other Service Activities,2.8,31960.4,5.1,23777.7
+2016,Q3,Total,82.8,958816.5,4.4,764138.8
+2016,Q3,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",16.2,187411.9,3.6,135943.4
+2016,Q4,"A - Agriculture, Forestry and Fishing",7.2,87184.4,8.1,69251.0
+2016,Q4,"B-E - Manufacturing, Mining and Other Industries",21.7,264479.2,2.8,206157.6
+2016,Q4,F - Construction,4.4,53252.3,-2.0,39933.4
+2016,Q4,J - Informing and Communication,4.6,56414.4,4.8,44672.4
+2016,Q4,K - Financial and Insurance Activities,2.8,33755.8,6.8,27781.3
+2016,Q4,L - Real Estate Business,7.1,86395.9,-1.3,73942.0
+2016,Q4,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",5.7,69650.6,5.7,49565.2
+2016,Q4,"O-Q - Public Administration, Defense, Education and Health, Social Care",10.4,127104.4,2.8,108161.9
+2016,Q4,R-T - Other Service Activities,2.6,31756.7,2.0,23509.5
+2016,Q4,Total,82.8,1007625.8,3.2,785547.4
+2016,Q4,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",16.2,197632.1,3.5,141350.5
+2017,Q1,"A - Agriculture, Forestry and Fishing",5.3,57590.8,-7.7,42941.2
+2017,Q1,"B-E - Manufacturing, Mining and Other Industries",22.9,246998.5,0.1,194103.9
+2017,Q1,F - Construction,2.7,29230.8,-0.5,22884.5
+2017,Q1,J - Informing and Communication,5.2,56340.4,3.6,44561.1
+2017,Q1,K - Financial and Insurance Activities,3.2,33968.1,5.2,28100.6
+2017,Q1,L - Real Estate Business,7.9,84689.6,0.8,73296.7
+2017,Q1,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",6.5,70111.6,4.1,49174.0
+2017,Q1,"O-Q - Public Administration, Defense, Education and Health, Social Care",10.6,114146.9,2.9,100707.7
+2017,Q1,R-T - Other Service Activities,2.9,30855.1,-1.2,23058.3
+2017,Q1,Total,83.9,903797.8,1.8,706169.8
+2017,Q1,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",16.7,179865.9,6.0,127107.6
+2017,Q2,"A - Agriculture, Forestry and Fishing",5.2,61673.2,-10.6,47192.3
+2017,Q2,"B-E - Manufacturing, Mining and Other Industries",22.0,258930.4,2.9,200543.1
+2017,Q2,F - Construction,3.8,44421.1,-0.4,32814.7
+2017,Q2,J - Informing and Communication,5.0,58621.7,3.5,45175.4
+2017,Q2,K - Financial and Insurance Activities,2.9,33996.2,1.8,27759.4
+2017,Q2,L - Real Estate Business,7.3,85792.2,0.5,73397.9
+2017,Q2,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",6.2,72933.7,4.9,50568.2
+2017,Q2,"O-Q - Public Administration, Defense, Education and Health, Social Care",10.2,120683.2,3.5,104449.1
+2017,Q2,R-T - Other Service Activities,2.7,31254.8,-2.3,23340.6
+2017,Q2,Total,82.1,967937.1,2.0,746707.4
+2017,Q2,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",16.9,199630.6,5.0,140052.4
+2017,Q3,"A - Agriculture, Forestry and Fishing",6.9,84325.0,-13.7,65905.0
+2017,Q3,"B-E - Manufacturing, Mining and Other Industries",21.2,257868.2,5.6,201197.7
+2017,Q3,F - Construction,4.7,57215.6,4.1,41497.9
+2017,Q3,J - Informing and Communication,4.9,59236.4,3.2,45305.4
+2017,Q3,K - Financial and Insurance Activities,2.7,33188.6,-0.6,27150.5
+2017,Q3,L - Real Estate Business,7.3,88931.3,0.6,74762.0
+2017,Q3,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",6.2,75501.7,4.6,51649.2
+2017,Q3,"O-Q - Public Administration, Defense, Education and Health, Social Care",9.8,119729.5,2.7,103977.0
+2017,Q3,R-T - Other Service Activities,2.6,31465.6,-1.7,23374.9
+2017,Q3,Total,83.1,1012080.6,2.3,781650.8
+2017,Q3,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",16.8,204618.8,6.5,144753.5
+2017,Q4,"A - Agriculture, Forestry and Fishing",6.5,82655.6,-11.4,61385.0
+2017,Q4,"B-E - Manufacturing, Mining and Other Industries",21.9,280909.1,2.8,211890.2
+2017,Q4,F - Construction,5.1,64810.3,16.0,46305.4
+2017,Q4,J - Informing and Communication,4.8,61206.1,5.1,46964.4
+2017,Q4,K - Financial and Insurance Activities,2.6,33634.4,-2.6,27063.3
+2017,Q4,L - Real Estate Business,7.0,89194.6,1.1,74758.1
+2017,Q4,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",6.0,76251.5,5.9,52498.9
+2017,Q4,"O-Q - Public Administration, Defense, Education and Health, Social Care",10.4,132631.5,2.2,110589.3
+2017,Q4,R-T - Other Service Activities,2.5,31366.2,-1.4,23178.3
+2017,Q4,Total,83.0,1062536.4,2.4,804179.2
+2017,Q4,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",16.4,209876.9,4.5,147725.0
+2018,Q1,"A - Agriculture, Forestry and Fishing",5.9,67758.7,12.3,48224.9
+2018,Q1,"B-E - Manufacturing, Mining and Other Industries",22.6,260721.9,5.5,204725.2
+2018,Q1,F - Construction,3.2,37280.6,26.8,29006.4
+2018,Q1,J - Informing and Communication,5.1,58584.0,5.0,46770.5
+2018,Q1,K - Financial and Insurance Activities,3.2,37254.4,5.8,29734.3
+2018,Q1,L - Real Estate Business,7.3,84468.1,0.1,73349.4
+2018,Q1,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",6.5,74514.2,2.4,50359.8
+2018,Q1,"O-Q - Public Administration, Defense, Education and Health, Social Care",10.9,125864.0,1.8,102507.3
+2018,Q1,R-T - Other Service Activities,2.7,31599.4,-0.7,22907.1
+2018,Q1,Total,83.9,966640.0,5.3,743388.5
+2018,Q1,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",16.4,188594.7,6.4,135182.1
+2018,Q2,"A - Agriculture, Forestry and Fishing",5.9,74413.3,15.6,54531.8
+2018,Q2,"B-E - Manufacturing, Mining and Other Industries",21.0,265062.1,2.4,205301.2
+2018,Q2,F - Construction,4.3,54207.9,20.5,39541.4
+2018,Q2,J - Informing and Communication,4.8,60406.5,5.9,47820.1
+2018,Q2,K - Financial and Insurance Activities,3.0,38430.9,8.5,30110.5
+2018,Q2,L - Real Estate Business,6.8,85962.2,0.0,73414.8
+2018,Q2,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",6.1,76982.9,2.1,51619.3
+2018,Q2,"O-Q - Public Administration, Defense, Education and Health, Social Care",10.8,136317.1,3.9,108565.4
+2018,Q2,R-T - Other Service Activities,2.6,32330.6,0.4,23441.2
+2018,Q2,Total,82.1,1035641.0,5.2,785900.1
+2018,Q2,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",16.8,211527.5,6.8,149511.4
+2018,Q3,"A - Agriculture, Forestry and Fishing",7.1,93135.6,16.8,76965.9
+2018,Q3,"B-E - Manufacturing, Mining and Other Industries",20.1,262414.3,-1.0,199151.9
+2018,Q3,F - Construction,5.0,65039.1,10.0,45651.0
+2018,Q3,J - Informing and Communication,4.7,61090.1,5.6,47848.3
+2018,Q3,K - Financial and Insurance Activities,2.9,37494.8,6.1,28795.0
+2018,Q3,L - Real Estate Business,7.1,92377.6,0.0,74741.0
+2018,Q3,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",6.2,80324.6,2.3,52823.0
+2018,Q3,"O-Q - Public Administration, Defense, Education and Health, Social Care",10.3,134474.5,3.3,107360.3
+2018,Q3,R-T - Other Service Activities,2.5,32694.3,1.4,23701.2
+2018,Q3,Total,82.8,1080825.0,4.3,815646.1
+2018,Q3,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",17.0,221780.2,7.2,155178.7
+2018,Q4,"A - Agriculture, Forestry and Fishing",6.4,86173.6,15.2,70745.3
+2018,Q4,"B-E - Manufacturing, Mining and Other Industries",20.5,277256.7,-2.5,206684.2
+2018,Q4,F - Construction,5.1,69274.8,2.8,47600.9
+2018,Q4,J - Informing and Communication,4.7,63182.6,5.6,49609.5
+2018,Q4,K - Financial and Insurance Activities,2.9,38895.7,9.9,29734.9
+2018,Q4,L - Real Estate Business,7.0,93899.5,0.0,74770.6
+2018,Q4,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",6.0,81381.3,2.2,53663.2
+2018,Q4,"O-Q - Public Administration, Defense, Education and Health, Social Care",10.8,145507.7,3.4,114316.6
+2018,Q4,R-T - Other Service Activities,2.4,32448.7,1.4,23492.4
+2018,Q4,Total,82.6,1115623.0,3.5,832477.8
+2018,Q4,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",16.9,227602.4,7.5,158826.8
+2019,Q1,"A - Agriculture, Forestry and Fishing",5.4,64863.1,0.2,48325.5
+2019,Q1,"B-E - Manufacturing, Mining and Other Industries",21.7,261428.9,-1.5,201598.3
+2019,Q1,F - Construction,3.5,42611.7,9.0,31625.5
+2019,Q1,J - Informing and Communication,5.2,62498.4,5.5,49331.4
+2019,Q1,K - Financial and Insurance Activities,3.2,38723.6,3.5,30766.0
+2019,Q1,L - Real Estate Business,7.3,88395.0,0.1,73386.4
+2019,Q1,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",6.6,79459.6,3.9,52333.3
+2019,Q1,"O-Q - Public Administration, Defense, Education and Health, Social Care",11.3,136078.7,3.1,105709.4
+2019,Q1,R-T - Other Service Activities,2.7,32324.9,1.9,23340.0
+2019,Q1,Total,83.8,1010139.4,2.5,761652.5
+2019,Q1,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",16.9,203755.3,6.0,143349.0
+2019,Q2,"A - Agriculture, Forestry and Fishing",5.6,74637.5,-0.4,54338.8
+2019,Q2,"B-E - Manufacturing, Mining and Other Industries",19.8,264506.1,-2.1,201021.8
+2019,Q2,F - Construction,5.0,66621.6,17.4,46408.4
+2019,Q2,J - Informing and Communication,5.0,66112.8,8.0,51662.1
+2019,Q2,K - Financial and Insurance Activities,3.1,41508.8,4.3,31410.4
+2019,Q2,L - Real Estate Business,6.8,90974.4,0.1,73488.2
+2019,Q2,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",6.2,82487.0,4.0,53665.5
+2019,Q2,"O-Q - Public Administration, Defense, Education and Health, Social Care",11.1,148213.0,2.6,111362.0
+2019,Q2,R-T - Other Service Activities,2.5,33221.7,2.1,23925.5
+2019,Q2,Total,82.0,1094430.4,2.8,807712.1
+2019,Q2,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",17.0,226147.4,5.1,157074.1
+2019,Q3,"A - Agriculture, Forestry and Fishing",7.3,102932.8,-0.1,76886.7
+2019,Q3,"B-E - Manufacturing, Mining and Other Industries",19.1,267017.1,2.1,203402.9
+2019,Q3,F - Construction,6.5,91575.0,36.0,62081.2
+2019,Q3,J - Informing and Communication,4.8,66629.3,7.8,51564.4
+2019,Q3,K - Financial and Insurance Activities,2.9,40075.3,4.2,29994.6
+2019,Q3,L - Real Estate Business,6.9,95962.6,0.1,74778.7
+2019,Q3,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",6.1,85436.8,3.6,54710.5
+2019,Q3,"O-Q - Public Administration, Defense, Education and Health, Social Care",10.5,146371.2,4.7,112458.4
+2019,Q3,R-T - Other Service Activities,2.4,33617.5,1.5,24062.9
+2019,Q3,Total,83.2,1164652.4,5.1,857467.3
+2019,Q3,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",16.8,235034.7,5.3,163474.0
+2019,Q4,"A - Agriculture, Forestry and Fishing",6.2,90820.8,0.4,70993.0
+2019,Q4,"B-E - Manufacturing, Mining and Other Industries",19.5,287292.8,3.1,213139.9
+2019,Q4,F - Construction,7.3,106752.5,48.3,70603.4
+2019,Q4,J - Informing and Communication,4.7,69204.2,8.2,53691.6
+2019,Q4,K - Financial and Insurance Activities,2.9,42094.8,5.6,31410.8
+2019,Q4,L - Real Estate Business,6.6,96470.0,0.1,74808.3
+2019,Q4,"M-N - Professional, Scientific, Technical, Administrative and Other Ancillary Activities",5.9,86791.1,4.1,55860.4
+2019,Q4,"O-Q - Public Administration, Defense, Education and Health, Social Care",11.0,161412.8,2.9,117652.0
+2019,Q4,R-T - Other Service Activities,2.3,34437.5,3.2,24245.5
+2019,Q4,Total,83.2,1222518.9,6.8,889013.0
+2019,Q4,"Wholesale and Retail trade, Transport and Storage, Lodging and Catering Services",16.8,247242.4,8.1,171652.9

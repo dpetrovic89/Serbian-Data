@@ -1,0 +1,2521 @@
+Region,SettlementType,Year,TypeOfIncome,Amount(RSD),StructuralPercentage
+State,Total,2006,Total Earnings,35263.0,100.0
+State,Total,2006,Earnings in Currency,33012.0,93.6
+State,Total,2006,Earnings from Orthodox Work Relations a.k.a. Job,15911.0,45.1
+State,Total,2006,Earnings from Unorthodox Work Relations,1089.0,3.1
+State,Total,2006,Pensions,8632.0,24.5
+State,Total,2006,Social Sequrity Earnings,791.0,2.2
+State,Total,2006,"Earnings from Agricultural, Hunting and Fishing Actions",1119.0,3.2
+State,Total,2006,Foreign Earnings,569.0,1.6
+State,Total,2006,Real Estate Earnings,1315.0,3.7
+State,Total,2006,Presents,379.0,1.1
+State,Total,2006,Investment Interest,1385.0,3.9
+State,Total,2006,Rest,1822.0,5.2
+State,Total,2006,Earnings in Labor,2251.0,6.4
+State,Total,2006,Other Earnings in Labor,31.0,0.1
+State,City,2006,Total Earnings,37395.0,100.0
+State,City,2006,Earnings in Currency,36909.0,98.7
+State,City,2006,Earnings from Orthodox Work Relations a.k.a. Job,19015.0,51.0
+State,City,2006,Earnings from Unorthodox Work Relations,1100.0,2.9
+State,City,2006,Pensions,10220.0,27.3
+State,City,2006,Social Sequrity Earnings,829.0,2.2
+State,City,2006,"Earnings from Agricultural, Hunting and Fishing Actions",157.0,0.4
+State,City,2006,Foreign Earnings,447.0,1.2
+State,City,2006,Real Estate Earnings,1884.0,5.0
+State,City,2006,Presents,329.0,0.9
+State,City,2006,Investment Interest,1436.0,3.8
+State,City,2006,Rest,1492.0,4.0
+State,City,2006,Earnings in Labor,486.0,1.3
+State,City,2006,Other Earnings in Labor,24.0,0.1
+State,Rest,2006,Total Earnings,32205.0,100.0
+State,Rest,2006,Earnings in Currency,27414.0,85.1
+State,Rest,2006,Earnings from Orthodox Work Relations a.k.a. Job,11454.0,35.6
+State,Rest,2006,Earnings from Unorthodox Work Relations,1073.0,3.3
+State,Rest,2006,Pensions,6352.0,19.7
+State,Rest,2006,Social Sequrity Earnings,735.0,2.3
+State,Rest,2006,"Earnings from Agricultural, Hunting and Fishing Actions",2501.0,7.8
+State,Rest,2006,Foreign Earnings,744.0,2.3
+State,Rest,2006,Real Estate Earnings,498.0,1.5
+State,Rest,2006,Presents,450.0,1.4
+State,Rest,2006,Investment Interest,1312.0,4.1
+State,Rest,2006,Rest,2295.0,7.1
+State,Rest,2006,Earnings in Labor,4791.0,14.9
+State,Rest,2006,Other Earnings in Labor,42.0,0.1
+Belgrade,Total,2006,Total Earnings,43102.0,100.0
+Belgrade,Total,2006,Earnings in Currency,42432.0,98.4
+Belgrade,Total,2006,Earnings from Orthodox Work Relations a.k.a. Job,22505.0,52.0
+Belgrade,Total,2006,Earnings from Unorthodox Work Relations,1665.0,3.9
+Belgrade,Total,2006,Pensions,11221.0,26.0
+Belgrade,Total,2006,Social Sequrity Earnings,718.0,1.7
+Belgrade,Total,2006,"Earnings from Agricultural, Hunting and Fishing Actions",113.0,0.3
+Belgrade,Total,2006,Foreign Earnings,305.0,0.7
+Belgrade,Total,2006,Real Estate Earnings,2263.0,5.3
+Belgrade,Total,2006,Presents,499.0,1.2
+Belgrade,Total,2006,Investment Interest,1475.0,3.4
+Belgrade,Total,2006,Rest,1668.0,3.9
+Belgrade,Total,2006,Earnings in Labor,670.0,1.6
+Belgrade,Total,2006,Other Earnings in Labor,27.0,0.1
+Belgrade,City,2006,Total Earnings,42881.0,100.0
+Belgrade,City,2006,Earnings in Currency,42721.0,99.6
+Belgrade,City,2006,Earnings from Orthodox Work Relations a.k.a. Job,23046.0,53.9
+Belgrade,City,2006,Earnings from Unorthodox Work Relations,1601.0,3.7
+Belgrade,City,2006,Pensions,12046.0,28.1
+Belgrade,City,2006,Social Sequrity Earnings,617.0,1.4
+Belgrade,City,2006,"Earnings from Agricultural, Hunting and Fishing Actions",8.0,0.0
+Belgrade,City,2006,Foreign Earnings,263.0,0.6
+Belgrade,City,2006,Real Estate Earnings,2637.0,6.1
+Belgrade,City,2006,Presents,312.0,0.7
+Belgrade,City,2006,Investment Interest,1276.0,3.0
+Belgrade,City,2006,Rest,915.0,2.1
+Belgrade,City,2006,Earnings in Labor,160.0,0.4
+Belgrade,City,2006,Other Earnings in Labor,3.0,0.0
+Belgrade,Rest,2006,Total Earnings,44211.0,100.0
+Belgrade,Rest,2006,Earnings in Currency,40970.0,92.7
+Belgrade,Rest,2006,Earnings from Orthodox Work Relations a.k.a. Job,19784.0,44.7
+Belgrade,Rest,2006,Earnings from Unorthodox Work Relations,1988.0,4.5
+Belgrade,Rest,2006,Pensions,7075.0,16.0
+Belgrade,Rest,2006,Social Sequrity Earnings,1219.0,2.8
+Belgrade,Rest,2006,"Earnings from Agricultural, Hunting and Fishing Actions",639.0,1.4
+Belgrade,Rest,2006,Foreign Earnings,515.0,1.2
+Belgrade,Rest,2006,Real Estate Earnings,386.0,0.9
+Belgrade,Rest,2006,Presents,1437.0,3.3
+Belgrade,Rest,2006,Investment Interest,2473.0,5.6
+Belgrade,Rest,2006,Rest,5454.0,12.3
+Belgrade,Rest,2006,Earnings in Labor,3241.0,7.3
+Belgrade,Rest,2006,Other Earnings in Labor,148.0,0.3
+Voyvodina/North,Total,2006,Total Earnings,33939.0,100.0
+Voyvodina/North,Total,2006,Earnings in Currency,32028.0,94.4
+Voyvodina/North,Total,2006,Earnings from Orthodox Work Relations a.k.a. Job,14629.0,43.1
+Voyvodina/North,Total,2006,Earnings from Unorthodox Work Relations,1030.0,3.0
+Voyvodina/North,Total,2006,Pensions,8239.0,24.3
+Voyvodina/North,Total,2006,Social Sequrity Earnings,1077.0,3.2
+Voyvodina/North,Total,2006,"Earnings from Agricultural, Hunting and Fishing Actions",1230.0,3.6
+Voyvodina/North,Total,2006,Foreign Earnings,520.0,1.5
+Voyvodina/North,Total,2006,Real Estate Earnings,1905.0,5.6
+Voyvodina/North,Total,2006,Presents,296.0,0.9
+Voyvodina/North,Total,2006,Investment Interest,1962.0,5.8
+Voyvodina/North,Total,2006,Rest,1140.0,3.4
+Voyvodina/North,Total,2006,Earnings in Labor,1911.0,5.6
+Voyvodina/North,Total,2006,Other Earnings in Labor,26.0,0.1
+Voyvodina/North,City,2006,Total Earnings,36346.0,100.0
+Voyvodina/North,City,2006,Earnings in Currency,35525.0,97.7
+Voyvodina/North,City,2006,Earnings from Orthodox Work Relations a.k.a. Job,17114.0,47.1
+Voyvodina/North,City,2006,Earnings from Unorthodox Work Relations,949.0,2.6
+Voyvodina/North,City,2006,Pensions,9948.0,27.4
+Voyvodina/North,City,2006,Social Sequrity Earnings,1159.0,3.2
+Voyvodina/North,City,2006,"Earnings from Agricultural, Hunting and Fishing Actions",369.0,1.0
+Voyvodina/North,City,2006,Foreign Earnings,325.0,0.9
+Voyvodina/North,City,2006,Real Estate Earnings,2577.0,7.1
+Voyvodina/North,City,2006,Presents,147.0,0.4
+Voyvodina/North,City,2006,Investment Interest,1822.0,5.0
+Voyvodina/North,City,2006,Rest,1115.0,3.1
+Voyvodina/North,City,2006,Earnings in Labor,821.0,2.3
+Voyvodina/North,City,2006,Other Earnings in Labor,27.0,0.1
+Voyvodina/North,Rest,2006,Total Earnings,30629.0,100.0
+Voyvodina/North,Rest,2006,Earnings in Currency,27222.0,88.9
+Voyvodina/North,Rest,2006,Earnings from Orthodox Work Relations a.k.a. Job,11217.0,36.8
+Voyvodina/North,Rest,2006,Earnings from Unorthodox Work Relations,1141.0,3.7
+Voyvodina/North,Rest,2006,Pensions,5893.0,19.2
+Voyvodina/North,Rest,2006,Social Sequrity Earnings,962.0,3.1
+Voyvodina/North,Rest,2006,"Earnings from Agricultural, Hunting and Fishing Actions",2412.0,7.9
+Voyvodina/North,Rest,2006,Foreign Earnings,787.0,2.6
+Voyvodina/North,Rest,2006,Real Estate Earnings,981.0,3.2
+Voyvodina/North,Rest,2006,Presents,502.0,1.6
+Voyvodina/North,Rest,2006,Investment Interest,2154.0,7.0
+Voyvodina/North,Rest,2006,Rest,1173.0,3.8
+Voyvodina/North,Rest,2006,Earnings in Labor,3407.0,11.1
+Voyvodina/North,Rest,2006,Other Earnings in Labor,23.0,0.1
+Central and West,Total,2006,Total Earnings,32859.0,100.0
+Central and West,Total,2006,Earnings in Currency,29227.0,88.9
+Central and West,Total,2006,Earnings from Orthodox Work Relations a.k.a. Job,13691.0,41.6
+Central and West,Total,2006,Earnings from Unorthodox Work Relations,585.0,1.8
+Central and West,Total,2006,Pensions,7490.0,22.7
+Central and West,Total,2006,Social Sequrity Earnings,656.0,2.0
+Central and West,Total,2006,"Earnings from Agricultural, Hunting and Fishing Actions",1934.0,5.9
+Central and West,Total,2006,Foreign Earnings,688.0,2.1
+Central and West,Total,2006,Real Estate Earnings,455.0,1.4
+Central and West,Total,2006,Presents,522.0,1.6
+Central and West,Total,2006,Investment Interest,1116.0,3.4
+Central and West,Total,2006,Rest,2090.0,6.4
+Central and West,Total,2006,Earnings in Labor,3632.0,11.1
+Central and West,Total,2006,Other Earnings in Labor,29.0,0.1
+Central and West,City,2006,Total Earnings,33333.0,100.0
+Central and West,City,2006,Earnings in Currency,32948.0,98.8
+Central and West,City,2006,Earnings from Orthodox Work Relations a.k.a. Job,17036.0,51.0
+Central and West,City,2006,Earnings from Unorthodox Work Relations,658.0,2.0
+Central and West,City,2006,Pensions,9024.0,27.1
+Central and West,City,2006,Social Sequrity Earnings,784.0,2.4
+Central and West,City,2006,"Earnings from Agricultural, Hunting and Fishing Actions",209.0,0.6
+Central and West,City,2006,Foreign Earnings,691.0,2.1
+Central and West,City,2006,Real Estate Earnings,609.0,1.8
+Central and West,City,2006,Presents,632.0,1.9
+Central and West,City,2006,Investment Interest,1226.0,3.7
+Central and West,City,2006,Rest,2079.0,6.2
+Central and West,City,2006,Earnings in Labor,385.0,1.2
+Central and West,City,2006,Other Earnings in Labor,24.0,0.1
+Central and West,Rest,2006,Total Earnings,32441.0,100.0
+Central and West,Rest,2006,Earnings in Currency,25921.0,79.9
+Central and West,Rest,2006,Earnings from Orthodox Work Relations a.k.a. Job,10717.0,33.0
+Central and West,Rest,2006,Earnings from Unorthodox Work Relations,520.0,1.6
+Central and West,Rest,2006,Pensions,6126.0,18.9
+Central and West,Rest,2006,Social Sequrity Earnings,543.0,1.7
+Central and West,Rest,2006,"Earnings from Agricultural, Hunting and Fishing Actions",3468.0,10.7
+Central and West,Rest,2006,Foreign Earnings,685.0,2.1
+Central and West,Rest,2006,Real Estate Earnings,318.0,1.0
+Central and West,Rest,2006,Presents,424.0,1.3
+Central and West,Rest,2006,Investment Interest,1020.0,3.1
+Central and West,Rest,2006,Rest,2100.0,6.5
+Central and West,Rest,2006,Earnings in Labor,6520.0,20.1
+Central and West,Rest,2006,Other Earnings in Labor,34.0,0.1
+South and East,Total,2006,Total Earnings,31890.0,100.0
+South and East,Total,2006,Earnings in Currency,29280.0,91.8
+South and East,Total,2006,Earnings from Orthodox Work Relations a.k.a. Job,13518.0,42.4
+South and East,Total,2006,Earnings from Unorthodox Work Relations,1189.0,3.7
+South and East,Total,2006,Pensions,7882.0,24.7
+South and East,Total,2006,Social Sequrity Earnings,671.0,2.1
+South and East,Total,2006,"Earnings from Agricultural, Hunting and Fishing Actions",1013.0,3.2
+South and East,Total,2006,Foreign Earnings,754.0,2.4
+South and East,Total,2006,Real Estate Earnings,667.0,2.1
+South and East,Total,2006,Presents,186.0,0.6
+South and East,Total,2006,Investment Interest,902.0,2.8
+South and East,Total,2006,Rest,2498.0,7.8
+South and East,Total,2006,Earnings in Labor,2610.0,8.2
+South and East,Total,2006,Other Earnings in Labor,45.0,0.1
+South and East,City,2006,Total Earnings,34267.0,100.0
+South and East,City,2006,Earnings in Currency,33594.0,98.0
+South and East,City,2006,Earnings from Orthodox Work Relations a.k.a. Job,17192.0,50.3
+South and East,City,2006,Earnings from Unorthodox Work Relations,975.0,2.8
+South and East,City,2006,Pensions,8894.0,26.0
+South and East,City,2006,Social Sequrity Earnings,759.0,2.2
+South and East,City,2006,"Earnings from Agricultural, Hunting and Fishing Actions",42.0,0.1
+South and East,City,2006,Foreign Earnings,657.0,1.9
+South and East,City,2006,Real Estate Earnings,1078.0,3.1
+South and East,City,2006,Presents,272.0,0.8
+South and East,City,2006,Investment Interest,1385.0,4.0
+South and East,City,2006,Rest,2340.0,6.8
+South and East,City,2006,Earnings in Labor,673.0,2.0
+South and East,City,2006,Other Earnings in Labor,54.0,0.2
+South and East,Rest,2006,Total Earnings,29520.0,100.0
+South and East,Rest,2006,Earnings in Currency,24981.0,84.6
+South and East,Rest,2006,Earnings from Orthodox Work Relations a.k.a. Job,9855.0,33.4
+South and East,Rest,2006,Earnings from Unorthodox Work Relations,1402.0,4.7
+South and East,Rest,2006,Pensions,6874.0,23.3
+South and East,Rest,2006,Social Sequrity Earnings,585.0,2.0
+South and East,Rest,2006,"Earnings from Agricultural, Hunting and Fishing Actions",1981.0,6.7
+South and East,Rest,2006,Foreign Earnings,852.0,2.9
+South and East,Rest,2006,Real Estate Earnings,257.0,0.9
+South and East,Rest,2006,Presents,100.0,0.3
+South and East,Rest,2006,Investment Interest,421.0,1.4
+South and East,Rest,2006,Rest,2654.0,9.0
+South and East,Rest,2006,Earnings in Labor,4539.0,15.4
+South and East,Rest,2006,Other Earnings in Labor,37.0,0.1
+State,Total,2007,Total Earnings,39170.0,100.0
+State,Total,2007,Earnings in Currency,36769.0,93.9
+State,Total,2007,Earnings from Orthodox Work Relations a.k.a. Job,18033.0,46.1
+State,Total,2007,Earnings from Unorthodox Work Relations,1162.0,3.0
+State,Total,2007,Pensions,10643.0,27.2
+State,Total,2007,Social Sequrity Earnings,765.0,2.0
+State,Total,2007,"Earnings from Agricultural, Hunting and Fishing Actions",1184.0,3.0
+State,Total,2007,Foreign Earnings,549.0,1.4
+State,Total,2007,Real Estate Earnings,947.0,2.4
+State,Total,2007,Presents,327.0,0.8
+State,Total,2007,Investment Interest,1272.0,3.2
+State,Total,2007,Rest,1887.0,4.8
+State,Total,2007,Earnings in Labor,2401.0,6.1
+State,Total,2007,Other Earnings in Labor,26.0,0.1
+State,City,2007,Total Earnings,42295.0,100.0
+State,City,2007,Earnings in Currency,41806.0,98.8
+State,City,2007,Earnings from Orthodox Work Relations a.k.a. Job,22434.0,53.0
+State,City,2007,Earnings from Unorthodox Work Relations,1163.0,2.7
+State,City,2007,Pensions,12487.0,29.5
+State,City,2007,Social Sequrity Earnings,760.0,1.8
+State,City,2007,"Earnings from Agricultural, Hunting and Fishing Actions",367.0,0.9
+State,City,2007,Foreign Earnings,377.0,0.9
+State,City,2007,Real Estate Earnings,817.0,1.9
+State,City,2007,Presents,367.0,0.9
+State,City,2007,Investment Interest,1530.0,3.6
+State,City,2007,Rest,1504.0,3.6
+State,City,2007,Earnings in Labor,489.0,1.2
+State,City,2007,Other Earnings in Labor,21.0,0.0
+State,Rest,2007,Total Earnings,34678.0,100.0
+State,Rest,2007,Earnings in Currency,29534.0,85.2
+State,Rest,2007,Earnings from Orthodox Work Relations a.k.a. Job,11714.0,33.8
+State,Rest,2007,Earnings from Unorthodox Work Relations,1161.0,3.3
+State,Rest,2007,Pensions,7994.0,23.1
+State,Rest,2007,Social Sequrity Earnings,771.0,2.2
+State,Rest,2007,"Earnings from Agricultural, Hunting and Fishing Actions",2357.0,6.8
+State,Rest,2007,Foreign Earnings,795.0,2.3
+State,Rest,2007,Real Estate Earnings,1129.0,3.3
+State,Rest,2007,Presents,271.0,0.8
+State,Rest,2007,Investment Interest,903.0,2.6
+State,Rest,2007,Rest,2439.0,7.0
+State,Rest,2007,Earnings in Labor,5144.0,14.8
+State,Rest,2007,Other Earnings in Labor,33.0,0.1
+Belgrade,Total,2007,Total Earnings,49720.0,100.0
+Belgrade,Total,2007,Earnings in Currency,48761.0,98.1
+Belgrade,Total,2007,Earnings from Orthodox Work Relations a.k.a. Job,27409.0,55.2
+Belgrade,Total,2007,Earnings from Unorthodox Work Relations,1725.0,3.5
+Belgrade,Total,2007,Pensions,14135.0,28.4
+Belgrade,Total,2007,Social Sequrity Earnings,809.0,1.6
+Belgrade,Total,2007,"Earnings from Agricultural, Hunting and Fishing Actions",141.0,0.3
+Belgrade,Total,2007,Foreign Earnings,363.0,0.7
+Belgrade,Total,2007,Real Estate Earnings,670.0,1.3
+Belgrade,Total,2007,Presents,622.0,1.3
+Belgrade,Total,2007,Investment Interest,1241.0,2.5
+Belgrade,Total,2007,Rest,1646.0,3.3
+Belgrade,Total,2007,Earnings in Labor,959.0,1.9
+Belgrade,Total,2007,Other Earnings in Labor,9.0,0.0
+Belgrade,City,2007,Total Earnings,50453.0,100.0
+Belgrade,City,2007,Earnings in Currency,50217.0,99.5
+Belgrade,City,2007,Earnings from Orthodox Work Relations a.k.a. Job,28813.0,57.1
+Belgrade,City,2007,Earnings from Unorthodox Work Relations,1636.0,3.2
+Belgrade,City,2007,Pensions,15063.0,29.9
+Belgrade,City,2007,Social Sequrity Earnings,716.0,1.4
+Belgrade,City,2007,"Earnings from Agricultural, Hunting and Fishing Actions",17.0,0.0
+Belgrade,City,2007,Foreign Earnings,363.0,0.7
+Belgrade,City,2007,Real Estate Earnings,552.0,1.1
+Belgrade,City,2007,Presents,581.0,1.2
+Belgrade,City,2007,Investment Interest,995.0,2.0
+Belgrade,City,2007,Rest,1481.0,2.9
+Belgrade,City,2007,Earnings in Labor,236.0,0.5
+Belgrade,City,2007,Other Earnings in Labor,7.0,0.0
+Belgrade,Rest,2007,Total Earnings,46032.0,100.0
+Belgrade,Rest,2007,Earnings in Currency,41453.0,90.1
+Belgrade,Rest,2007,Earnings from Orthodox Work Relations a.k.a. Job,20349.0,44.1
+Belgrade,Rest,2007,Earnings from Unorthodox Work Relations,2177.0,4.7
+Belgrade,Rest,2007,Pensions,9470.0,20.6
+Belgrade,Rest,2007,Social Sequrity Earnings,1281.0,2.8
+Belgrade,Rest,2007,"Earnings from Agricultural, Hunting and Fishing Actions",763.0,1.7
+Belgrade,Rest,2007,Foreign Earnings,363.0,0.8
+Belgrade,Rest,2007,Real Estate Earnings,1266.0,2.8
+Belgrade,Rest,2007,Presents,830.0,1.8
+Belgrade,Rest,2007,Investment Interest,2471.0,5.4
+Belgrade,Rest,2007,Rest,2483.0,5.4
+Belgrade,Rest,2007,Earnings in Labor,4579.0,9.9
+Belgrade,Rest,2007,Other Earnings in Labor,14.0,0.0
+Voyvodina/North,Total,2007,Total Earnings,35614.0,100.0
+Voyvodina/North,Total,2007,Earnings in Currency,33584.0,94.3
+Voyvodina/North,Total,2007,Earnings from Orthodox Work Relations a.k.a. Job,15120.0,42.5
+Voyvodina/North,Total,2007,Earnings from Unorthodox Work Relations,1395.0,3.9
+Voyvodina/North,Total,2007,Pensions,9335.0,26.2
+Voyvodina/North,Total,2007,Social Sequrity Earnings,827.0,2.3
+Voyvodina/North,Total,2007,"Earnings from Agricultural, Hunting and Fishing Actions",1503.0,4.2
+Voyvodina/North,Total,2007,Foreign Earnings,559.0,1.6
+Voyvodina/North,Total,2007,Real Estate Earnings,1212.0,3.4
+Voyvodina/North,Total,2007,Presents,127.0,0.4
+Voyvodina/North,Total,2007,Investment Interest,2457.0,6.9
+Voyvodina/North,Total,2007,Rest,1049.0,2.9
+Voyvodina/North,Total,2007,Earnings in Labor,2030.0,5.7
+Voyvodina/North,Total,2007,Other Earnings in Labor,18.0,0.1
+Voyvodina/North,City,2007,Total Earnings,38865.0,100.0
+Voyvodina/North,City,2007,Earnings in Currency,37892.0,97.5
+Voyvodina/North,City,2007,Earnings from Orthodox Work Relations a.k.a. Job,17805.0,45.8
+Voyvodina/North,City,2007,Earnings from Unorthodox Work Relations,1230.0,3.2
+Voyvodina/North,City,2007,Pensions,10943.0,28.2
+Voyvodina/North,City,2007,Social Sequrity Earnings,800.0,2.1
+Voyvodina/North,City,2007,"Earnings from Agricultural, Hunting and Fishing Actions",987.0,2.5
+Voyvodina/North,City,2007,Foreign Earnings,438.0,1.1
+Voyvodina/North,City,2007,Real Estate Earnings,1501.0,3.9
+Voyvodina/North,City,2007,Presents,132.0,0.3
+Voyvodina/North,City,2007,Investment Interest,3152.0,8.1
+Voyvodina/North,City,2007,Rest,904.0,2.3
+Voyvodina/North,City,2007,Earnings in Labor,973.0,2.5
+Voyvodina/North,City,2007,Other Earnings in Labor,23.0,0.1
+Voyvodina/North,Rest,2007,Total Earnings,31166.0,100.0
+Voyvodina/North,Rest,2007,Earnings in Currency,27682.0,88.8
+Voyvodina/North,Rest,2007,Earnings from Orthodox Work Relations a.k.a. Job,11434.0,36.7
+Voyvodina/North,Rest,2007,Earnings from Unorthodox Work Relations,1623.0,5.2
+Voyvodina/North,Rest,2007,Pensions,7128.0,22.9
+Voyvodina/North,Rest,2007,Social Sequrity Earnings,869.0,2.8
+Voyvodina/North,Rest,2007,"Earnings from Agricultural, Hunting and Fishing Actions",2212.0,7.1
+Voyvodina/North,Rest,2007,Foreign Earnings,725.0,2.3
+Voyvodina/North,Rest,2007,Real Estate Earnings,820.0,2.6
+Voyvodina/North,Rest,2007,Presents,120.0,0.4
+Voyvodina/North,Rest,2007,Investment Interest,1502.0,4.8
+Voyvodina/North,Rest,2007,Rest,1249.0,4.0
+Voyvodina/North,Rest,2007,Earnings in Labor,3484.0,11.2
+Voyvodina/North,Rest,2007,Other Earnings in Labor,12.0,0.1
+Central and West,Total,2007,Total Earnings,37495.0,100.0
+Central and West,Total,2007,Earnings in Currency,33950.0,90.5
+Central and West,Total,2007,Earnings from Orthodox Work Relations a.k.a. Job,16291.0,43.4
+Central and West,Total,2007,Earnings from Unorthodox Work Relations,410.0,1.1
+Central and West,Total,2007,Pensions,9598.0,25.6
+Central and West,Total,2007,Social Sequrity Earnings,745.0,2.0
+Central and West,Total,2007,"Earnings from Agricultural, Hunting and Fishing Actions",2078.0,5.5
+Central and West,Total,2007,Foreign Earnings,575.0,1.5
+Central and West,Total,2007,Real Estate Earnings,997.0,2.7
+Central and West,Total,2007,Presents,372.0,1.0
+Central and West,Total,2007,Investment Interest,681.0,1.8
+Central and West,Total,2007,Rest,2203.0,5.9
+Central and West,Total,2007,Earnings in Labor,3545.0,9.5
+Central and West,Total,2007,Other Earnings in Labor,36.0,0.1
+Central and West,City,2007,Total Earnings,38686.0,100.0
+Central and West,City,2007,Earnings in Currency,38311.0,99.0
+Central and West,City,2007,Earnings from Orthodox Work Relations a.k.a. Job,21375.0,55.2
+Central and West,City,2007,Earnings from Unorthodox Work Relations,503.0,1.3
+Central and West,City,2007,Pensions,11516.0,29.7
+Central and West,City,2007,Social Sequrity Earnings,775.0,2.0
+Central and West,City,2007,"Earnings from Agricultural, Hunting and Fishing Actions",392.0,1.0
+Central and West,City,2007,Foreign Earnings,302.0,0.8
+Central and West,City,2007,Real Estate Earnings,333.0,0.9
+Central and West,City,2007,Presents,378.0,1.0
+Central and West,City,2007,Investment Interest,999.0,2.6
+Central and West,City,2007,Rest,1738.0,4.5
+Central and West,City,2007,Earnings in Labor,375.0,1.0
+Central and West,City,2007,Other Earnings in Labor,59.0,0.2
+Central and West,Rest,2007,Total Earnings,36419.0,100.0
+Central and West,Rest,2007,Earnings in Currency,30054.0,82.5
+Central and West,Rest,2007,Earnings from Orthodox Work Relations a.k.a. Job,11770.0,32.3
+Central and West,Rest,2007,Earnings from Unorthodox Work Relations,327.0,0.9
+Central and West,Rest,2007,Pensions,7892.0,21.7
+Central and West,Rest,2007,Social Sequrity Earnings,716.0,2.0
+Central and West,Rest,2007,"Earnings from Agricultural, Hunting and Fishing Actions",3577.0,9.8
+Central and West,Rest,2007,Foreign Earnings,817.0,2.2
+Central and West,Rest,2007,Real Estate Earnings,1589.0,4.4
+Central and West,Rest,2007,Presents,367.0,1.0
+Central and West,Rest,2007,Investment Interest,401.0,1.1
+Central and West,Rest,2007,Rest,2598.0,7.1
+Central and West,Rest,2007,Earnings in Labor,6365.0,17.5
+Central and West,Rest,2007,Other Earnings in Labor,17.0,0.1
+South and East,Total,2007,Total Earnings,34924.0,100.0
+South and East,Total,2007,Earnings in Currency,31990.0,91.6
+South and East,Total,2007,Earnings from Orthodox Work Relations a.k.a. Job,14274.0,40.8
+South and East,Total,2007,Earnings from Unorthodox Work Relations,1212.0,3.5
+South and East,Total,2007,Pensions,9994.0,28.6
+South and East,Total,2007,Social Sequrity Earnings,666.0,1.9
+South and East,Total,2007,"Earnings from Agricultural, Hunting and Fishing Actions",762.0,2.2
+South and East,Total,2007,Foreign Earnings,693.0,2.0
+South and East,Total,2007,Real Estate Earnings,828.0,2.4
+South and East,Total,2007,Presents,223.0,0.6
+South and East,Total,2007,Investment Interest,552.0,1.6
+South and East,Total,2007,Rest,2786.0,8.0
+South and East,Total,2007,Earnings in Labor,2934.0,8.4
+South and East,Total,2007,Other Earnings in Labor,40.0,0.1
+South and East,City,2007,Total Earnings,37542.0,100.0
+South and East,City,2007,Earnings in Currency,37181.0,99.0
+South and East,City,2007,Earnings from Orthodox Work Relations a.k.a. Job,19514.0,52.0
+South and East,City,2007,Earnings from Unorthodox Work Relations,1021.0,2.7
+South and East,City,2007,Pensions,11462.0,30.5
+South and East,City,2007,Social Sequrity Earnings,758.0,2.0
+South and East,City,2007,"Earnings from Agricultural, Hunting and Fishing Actions",41.0,0.1
+South and East,City,2007,Foreign Earnings,401.0,1.1
+South and East,City,2007,Real Estate Earnings,838.0,2.2
+South and East,City,2007,Presents,329.0,0.9
+South and East,City,2007,Investment Interest,709.0,1.9
+South and East,City,2007,Rest,2108.0,5.6
+South and East,City,2007,Earnings in Labor,361.0,1.0
+South and East,City,2007,Other Earnings in Labor,1.0,0.0
+South and East,Rest,2007,Total Earnings,32261.0,100.0
+South and East,Rest,2007,Earnings in Currency,26756.0,82.9
+South and East,Rest,2007,Earnings from Orthodox Work Relations a.k.a. Job,9047.0,28.0
+South and East,Rest,2007,Earnings from Unorthodox Work Relations,1404.0,4.4
+South and East,Rest,2007,Pensions,8530.0,26.4
+South and East,Rest,2007,Social Sequrity Earnings,574.0,1.8
+South and East,Rest,2007,"Earnings from Agricultural, Hunting and Fishing Actions",1482.0,4.6
+South and East,Rest,2007,Foreign Earnings,984.0,3.1
+South and East,Rest,2007,Real Estate Earnings,819.0,2.5
+South and East,Rest,2007,Presents,118.0,0.4
+South and East,Rest,2007,Investment Interest,395.0,1.2
+South and East,Rest,2007,Rest,3403.0,10.5
+South and East,Rest,2007,Earnings in Labor,5505.0,17.1
+South and East,Rest,2007,Other Earnings in Labor,80.0,0.2
+State,Total,2008,Total Earnings,43518.0,100.0
+State,Total,2008,Earnings in Currency,41228.0,94.7
+State,Total,2008,Earnings from Orthodox Work Relations a.k.a. Job,21953.0,50.3
+State,Total,2008,Earnings from Unorthodox Work Relations,1221.0,2.8
+State,Total,2008,Pensions,11956.0,27.5
+State,Total,2008,Social Sequrity Earnings,740.0,1.7
+State,Total,2008,"Earnings from Agricultural, Hunting and Fishing Actions",1662.0,3.8
+State,Total,2008,Foreign Earnings,546.0,1.3
+State,Total,2008,Real Estate Earnings,241.0,0.6
+State,Total,2008,Presents,418.0,1.0
+State,Total,2008,Investment Interest,605.0,1.4
+State,Total,2008,Rest,1886.0,4.3
+State,Total,2008,Earnings in Labor,2290.0,5.3
+State,Total,2008,Other Earnings in Labor,38.0,0.1
+State,City,2008,Total Earnings,46236.0,100.0
+State,City,2008,Earnings in Currency,45829.0,99.1
+State,City,2008,Earnings from Orthodox Work Relations a.k.a. Job,26667.0,57.7
+State,City,2008,Earnings from Unorthodox Work Relations,1135.0,2.5
+State,City,2008,Pensions,13662.0,29.5
+State,City,2008,Social Sequrity Earnings,715.0,1.5
+State,City,2008,"Earnings from Agricultural, Hunting and Fishing Actions",535.0,1.2
+State,City,2008,Foreign Earnings,558.0,1.2
+State,City,2008,Real Estate Earnings,285.0,0.6
+State,City,2008,Presents,459.0,1.0
+State,City,2008,Investment Interest,608.0,1.3
+State,City,2008,Rest,1205.0,2.6
+State,City,2008,Earnings in Labor,407.0,0.9
+State,City,2008,Other Earnings in Labor,19.0,0.1
+State,Rest,2008,Total Earnings,39295.0,100.0
+State,Rest,2008,Earnings in Currency,34223.0,87.1
+State,Rest,2008,Earnings from Orthodox Work Relations a.k.a. Job,15184.0,38.7
+State,Rest,2008,Earnings from Unorthodox Work Relations,1346.0,3.4
+State,Rest,2008,Pensions,9506.0,24.2
+State,Rest,2008,Social Sequrity Earnings,775.0,2.0
+State,Rest,2008,"Earnings from Agricultural, Hunting and Fishing Actions",3280.0,8.3
+State,Rest,2008,Foreign Earnings,530.0,1.3
+State,Rest,2008,Real Estate Earnings,177.0,0.5
+State,Rest,2008,Presents,358.0,0.9
+State,Rest,2008,Investment Interest,202.0,0.5
+State,Rest,2008,Rest,2865.0,7.3
+State,Rest,2008,Earnings in Labor,5072.0,12.9
+State,Rest,2008,Other Earnings in Labor,65.0,0.2
+Belgrade,Total,2008,Total Earnings,53424.0,100.0
+Belgrade,Total,2008,Earnings in Currency,52942.0,99.1
+Belgrade,Total,2008,Earnings from Orthodox Work Relations a.k.a. Job,30720.0,57.6
+Belgrade,Total,2008,Earnings from Unorthodox Work Relations,1128.0,2.1
+Belgrade,Total,2008,Pensions,16339.0,30.6
+Belgrade,Total,2008,Social Sequrity Earnings,622.0,1.2
+Belgrade,Total,2008,"Earnings from Agricultural, Hunting and Fishing Actions",501.0,0.9
+Belgrade,Total,2008,Foreign Earnings,334.0,0.6
+Belgrade,Total,2008,Real Estate Earnings,187.0,0.4
+Belgrade,Total,2008,Presents,666.0,1.2
+Belgrade,Total,2008,Investment Interest,825.0,1.5
+Belgrade,Total,2008,Rest,1620.0,3.0
+Belgrade,Total,2008,Earnings in Labor,482.0,0.9
+Belgrade,Total,2008,Other Earnings in Labor,20.0,0.0
+Belgrade,City,2008,Total Earnings,52938.0,100.0
+Belgrade,City,2008,Earnings in Currency,52810.0,99.8
+Belgrade,City,2008,Earnings from Orthodox Work Relations a.k.a. Job,31659.0,59.8
+Belgrade,City,2008,Earnings from Unorthodox Work Relations,1073.0,2.0
+Belgrade,City,2008,Pensions,16865.0,31.9
+Belgrade,City,2008,Social Sequrity Earnings,471.0,0.9
+Belgrade,City,2008,"Earnings from Agricultural, Hunting and Fishing Actions",349.0,0.7
+Belgrade,City,2008,Foreign Earnings,354.0,0.7
+Belgrade,City,2008,Real Estate Earnings,159.0,0.3
+Belgrade,City,2008,Presents,554.0,1.0
+Belgrade,City,2008,Investment Interest,510.0,1.0
+Belgrade,City,2008,Rest,816.0,1.5
+Belgrade,City,2008,Earnings in Labor,128.0,0.2
+Belgrade,City,2008,Other Earnings in Labor,24.0,0.0
+Belgrade,Rest,2008,Total Earnings,53994.0,100.0
+Belgrade,Rest,2008,Earnings in Currency,51705.0,95.8
+Belgrade,Rest,2008,Earnings from Orthodox Work Relations a.k.a. Job,25997.0,48.1
+Belgrade,Rest,2008,Earnings from Unorthodox Work Relations,1402.0,2.6
+Belgrade,Rest,2008,Pensions,13694.0,25.4
+Belgrade,Rest,2008,Social Sequrity Earnings,1389.0,2.6
+Belgrade,Rest,2008,"Earnings from Agricultural, Hunting and Fishing Actions",1264.0,2.3
+Belgrade,Rest,2008,Foreign Earnings,231.0,0.4
+Belgrade,Rest,2008,Real Estate Earnings,327.0,0.6
+Belgrade,Rest,2008,Presents,1227.0,2.3
+Belgrade,Rest,2008,Investment Interest,514.0,1.0
+Belgrade,Rest,2008,Rest,5660.0,10.5
+Belgrade,Rest,2008,Earnings in Labor,2289.0,4.2
+Belgrade,Rest,2008,Other Earnings in Labor,0.0,0.0
+Voyvodina/North,Total,2008,Total Earnings,41949.0,100.0
+Voyvodina/North,Total,2008,Earnings in Currency,39992.0,95.3
+Voyvodina/North,Total,2008,Earnings from Orthodox Work Relations a.k.a. Job,20475.0,48.7
+Voyvodina/North,Total,2008,Earnings from Unorthodox Work Relations,1600.0,3.8
+Voyvodina/North,Total,2008,Pensions,11035.0,26.3
+Voyvodina/North,Total,2008,Social Sequrity Earnings,992.0,2.4
+Voyvodina/North,Total,2008,"Earnings from Agricultural, Hunting and Fishing Actions",3270.0,7.8
+Voyvodina/North,Total,2008,Foreign Earnings,473.0,1.1
+Voyvodina/North,Total,2008,Real Estate Earnings,320.0,0.8
+Voyvodina/North,Total,2008,Presents,358.0,0.9
+Voyvodina/North,Total,2008,Investment Interest,643.0,1.5
+Voyvodina/North,Total,2008,Rest,826.0,2.0
+Voyvodina/North,Total,2008,Earnings in Labor,1957.0,4.7
+Voyvodina/North,Total,2008,Other Earnings in Labor,20.0,0.0
+Voyvodina/North,City,2008,Total Earnings,43584.0,100.0
+Voyvodina/North,City,2008,Earnings in Currency,42822.0,98.3
+Voyvodina/North,City,2008,Earnings from Orthodox Work Relations a.k.a. Job,24067.0,55.4
+Voyvodina/North,City,2008,Earnings from Unorthodox Work Relations,1283.0,2.9
+Voyvodina/North,City,2008,Pensions,12752.0,29.3
+Voyvodina/North,City,2008,Social Sequrity Earnings,955.0,2.2
+Voyvodina/North,City,2008,"Earnings from Agricultural, Hunting and Fishing Actions",960.0,2.2
+Voyvodina/North,City,2008,Foreign Earnings,611.0,1.4
+Voyvodina/North,City,2008,Real Estate Earnings,400.0,0.9
+Voyvodina/North,City,2008,Presents,449.0,1.0
+Voyvodina/North,City,2008,Investment Interest,759.0,1.7
+Voyvodina/North,City,2008,Rest,586.0,1.3
+Voyvodina/North,City,2008,Earnings in Labor,762.0,1.7
+Voyvodina/North,City,2008,Other Earnings in Labor,3.0,0.0
+Voyvodina/North,Rest,2008,Total Earnings,39392.0,100.0
+Voyvodina/North,Rest,2008,Earnings in Currency,35759.0,90.8
+Voyvodina/North,Rest,2008,Earnings from Orthodox Work Relations a.k.a. Job,15544.0,39.6
+Voyvodina/North,Rest,2008,Earnings from Unorthodox Work Relations,2034.0,5.2
+Voyvodina/North,Rest,2008,Pensions,8676.0,22.0
+Voyvodina/North,Rest,2008,Social Sequrity Earnings,1041.0,2.6
+Voyvodina/North,Rest,2008,"Earnings from Agricultural, Hunting and Fishing Actions",6443.0,16.4
+Voyvodina/North,Rest,2008,Foreign Earnings,285.0,0.7
+Voyvodina/North,Rest,2008,Real Estate Earnings,210.0,0.5
+Voyvodina/North,Rest,2008,Presents,234.0,0.6
+Voyvodina/North,Rest,2008,Investment Interest,136.0,0.3
+Voyvodina/North,Rest,2008,Rest,1156.0,2.9
+Voyvodina/North,Rest,2008,Earnings in Labor,3633.0,9.2
+Voyvodina/North,Rest,2008,Other Earnings in Labor,44.0,0.1
+Central and West,Total,2008,Total Earnings,40628.0,100.0
+Central and West,Total,2008,Earnings in Currency,36897.0,90.8
+Central and West,Total,2008,Earnings from Orthodox Work Relations a.k.a. Job,20143.0,49.7
+Central and West,Total,2008,Earnings from Unorthodox Work Relations,544.0,1.3
+Central and West,Total,2008,Pensions,10320.0,25.5
+Central and West,Total,2008,Social Sequrity Earnings,629.0,1.5
+Central and West,Total,2008,"Earnings from Agricultural, Hunting and Fishing Actions",1703.0,4.2
+Central and West,Total,2008,Foreign Earnings,289.0,0.7
+Central and West,Total,2008,Real Estate Earnings,223.0,0.5
+Central and West,Total,2008,Presents,376.0,0.9
+Central and West,Total,2008,Investment Interest,623.0,1.5
+Central and West,Total,2008,Rest,2047.0,5.0
+Central and West,Total,2008,Earnings in Labor,3731.0,9.2
+Central and West,Total,2008,Other Earnings in Labor,35.0,0.1
+Central and West,City,2008,Total Earnings,43653.0,100.0
+Central and West,City,2008,Earnings in Currency,43294.0,99.2
+Central and West,City,2008,Earnings from Orthodox Work Relations a.k.a. Job,26061.0,59.7
+Central and West,City,2008,Earnings from Unorthodox Work Relations,581.0,1.3
+Central and West,City,2008,Pensions,12329.0,28.2
+Central and West,City,2008,Social Sequrity Earnings,617.0,1.4
+Central and West,City,2008,"Earnings from Agricultural, Hunting and Fishing Actions",116.0,0.3
+Central and West,City,2008,Foreign Earnings,399.0,0.9
+Central and West,City,2008,Real Estate Earnings,510.0,1.2
+Central and West,City,2008,Presents,372.0,0.9
+Central and West,City,2008,Investment Interest,740.0,1.7
+Central and West,City,2008,Rest,1569.0,3.6
+Central and West,City,2008,Earnings in Labor,359.0,0.8
+Central and West,City,2008,Other Earnings in Labor,28.0,0.1
+Central and West,Rest,2008,Total Earnings,38049.0,100.0
+Central and West,Rest,2008,Earnings in Currency,31320.0,82.3
+Central and West,Rest,2008,Earnings from Orthodox Work Relations a.k.a. Job,14880.0,39.1
+Central and West,Rest,2008,Earnings from Unorthodox Work Relations,512.0,1.3
+Central and West,Rest,2008,Pensions,8533.0,22.4
+Central and West,Rest,2008,Social Sequrity Earnings,640.0,1.7
+Central and West,Rest,2008,"Earnings from Agricultural, Hunting and Fishing Actions",3114.0,8.2
+Central and West,Rest,2008,Foreign Earnings,190.0,0.5
+Central and West,Rest,2008,Real Estate Earnings,79.0,0.2
+Central and West,Rest,2008,Presents,380.0,1.0
+Central and West,Rest,2008,Investment Interest,519.0,1.4
+Central and West,Rest,2008,Rest,2473.0,6.5
+Central and West,Rest,2008,Earnings in Labor,6729.0,17.7
+Central and West,Rest,2008,Other Earnings in Labor,42.0,0.1
+South and East,Total,2008,Total Earnings,39060.0,100.0
+South and East,Total,2008,Earnings in Currency,36155.0,92.6
+South and East,Total,2008,Earnings from Orthodox Work Relations a.k.a. Job,17115.0,43.8
+South and East,Total,2008,Earnings from Unorthodox Work Relations,1663.0,4.3
+South and East,Total,2008,Pensions,10645.0,27.3
+South and East,Total,2008,Social Sequrity Earnings,682.0,1.7
+South and East,Total,2008,"Earnings from Agricultural, Hunting and Fishing Actions",795.0,2.0
+South and East,Total,2008,Foreign Earnings,1162.0,3.0
+South and East,Total,2008,Real Estate Earnings,215.0,0.6
+South and East,Total,2008,Presents,291.0,0.7
+South and East,Total,2008,Investment Interest,312.0,0.8
+South and East,Total,2008,Rest,3275.0,8.4
+South and East,Total,2008,Earnings in Labor,2905.0,7.4
+South and East,Total,2008,Other Earnings in Labor,80.0,0.2
+South and East,City,2008,Total Earnings,41873.0,100.0
+South and East,City,2008,Earnings in Currency,41448.0,99.0
+South and East,City,2008,Earnings from Orthodox Work Relations a.k.a. Job,22664.0,54.1
+South and East,City,2008,Earnings from Unorthodox Work Relations,1653.0,3.9
+South and East,City,2008,Pensions,11080.0,26.5
+South and East,City,2008,Social Sequrity Earnings,896.0,2.1
+South and East,City,2008,"Earnings from Agricultural, Hunting and Fishing Actions",714.0,1.7
+South and East,City,2008,Foreign Earnings,1005.0,2.4
+South and East,City,2008,Real Estate Earnings,279.0,0.7
+South and East,City,2008,Presents,413.0,1.0
+South and East,City,2008,Investment Interest,407.0,1.0
+South and East,City,2008,Rest,2337.0,5.6
+South and East,City,2008,Earnings in Labor,425.0,1.0
+South and East,City,2008,Other Earnings in Labor,24.0,0.1
+South and East,Rest,2008,Total Earnings,37394.0,100.0
+South and East,Rest,2008,Earnings in Currency,32013.0,85.6
+South and East,Rest,2008,Earnings from Orthodox Work Relations a.k.a. Job,11581.0,30.9
+South and East,Rest,2008,Earnings from Unorthodox Work Relations,1674.0,4.5
+South and East,Rest,2008,Pensions,10212.0,27.3
+South and East,Rest,2008,Social Sequrity Earnings,470.0,1.3
+South and East,Rest,2008,"Earnings from Agricultural, Hunting and Fishing Actions",877.0,2.3
+South and East,Rest,2008,Foreign Earnings,1319.0,3.5
+South and East,Rest,2008,Real Estate Earnings,1280.0,3.4
+South and East,Rest,2008,Presents,170.0,0.5
+South and East,Rest,2008,Investment Interest,219.0,0.6
+South and East,Rest,2008,Rest,4211.0,11.3
+South and East,Rest,2008,Earnings in Labor,5381.0,14.4
+South and East,Rest,2008,Other Earnings in Labor,137.0,0.4
+State,Total,2009,Total Earnings,47639.0,100.0
+State,Total,2009,Earnings in Currency,45080.0,94.6
+State,Total,2009,Earnings from Orthodox Work Relations a.k.a. Job,21824.0,45.7
+State,Total,2009,Earnings from Unorthodox Work Relations,1502.0,3.2
+State,Total,2009,Pensions,14797.0,31.0
+State,Total,2009,Social Sequrity Earnings,848.0,1.8
+State,Total,2009,"Earnings from Agricultural, Hunting and Fishing Actions",1554.0,3.3
+State,Total,2009,Foreign Earnings,702.0,1.5
+State,Total,2009,Real Estate Earnings,240.0,0.5
+State,Total,2009,Presents,609.0,1.3
+State,Total,2009,Investment Interest,637.0,1.3
+State,Total,2009,Rest,2367.0,5.0
+State,Total,2009,Earnings in Labor,2559.0,5.4
+State,Total,2009,Other Earnings in Labor,37.0,0.1
+State,City,2009,Total Earnings,50326.0,100.0
+State,City,2009,Earnings in Currency,49841.0,99.0
+State,City,2009,Earnings from Orthodox Work Relations a.k.a. Job,25987.0,51.7
+State,City,2009,Earnings from Unorthodox Work Relations,1407.0,2.8
+State,City,2009,Pensions,17001.0,33.8
+State,City,2009,Social Sequrity Earnings,894.0,1.8
+State,City,2009,"Earnings from Agricultural, Hunting and Fishing Actions",550.0,1.1
+State,City,2009,Foreign Earnings,567.0,1.1
+State,City,2009,Real Estate Earnings,305.0,0.6
+State,City,2009,Presents,676.0,1.3
+State,City,2009,Investment Interest,722.0,1.4
+State,City,2009,Rest,1732.0,3.4
+State,City,2009,Earnings in Labor,485.0,1.0
+State,City,2009,Other Earnings in Labor,22.0,0.1
+State,Rest,2009,Total Earnings,43785.0,100.0
+State,Rest,2009,Earnings in Currency,38242.0,87.3
+State,Rest,2009,Earnings from Orthodox Work Relations a.k.a. Job,15847.0,36.2
+State,Rest,2009,Earnings from Unorthodox Work Relations,1640.0,3.7
+State,Rest,2009,Pensions,11631.0,26.6
+State,Rest,2009,Social Sequrity Earnings,779.0,1.8
+State,Rest,2009,"Earnings from Agricultural, Hunting and Fishing Actions",2995.0,6.8
+State,Rest,2009,Foreign Earnings,895.0,2.0
+State,Rest,2009,Real Estate Earnings,148.0,0.3
+State,Rest,2009,Presents,512.0,1.2
+State,Rest,2009,Investment Interest,515.0,1.2
+State,Rest,2009,Rest,3280.0,7.5
+State,Rest,2009,Earnings in Labor,5543.0,12.7
+State,Rest,2009,Other Earnings in Labor,60.0,0.1
+Belgrade,Total,2009,Total Earnings,56084.0,100.0
+Belgrade,Total,2009,Earnings in Currency,55499.0,99.0
+Belgrade,Total,2009,Earnings from Orthodox Work Relations a.k.a. Job,29724.0,53.1
+Belgrade,Total,2009,Earnings from Unorthodox Work Relations,1489.0,2.7
+Belgrade,Total,2009,Pensions,19630.0,35.0
+Belgrade,Total,2009,Social Sequrity Earnings,691.0,1.2
+Belgrade,Total,2009,"Earnings from Agricultural, Hunting and Fishing Actions",181.0,0.3
+Belgrade,Total,2009,Foreign Earnings,341.0,0.6
+Belgrade,Total,2009,Real Estate Earnings,168.0,0.3
+Belgrade,Total,2009,Presents,1241.0,2.2
+Belgrade,Total,2009,Investment Interest,570.0,1.0
+Belgrade,Total,2009,Rest,1464.0,2.6
+Belgrade,Total,2009,Earnings in Labor,585.0,1.0
+Belgrade,Total,2009,Other Earnings in Labor,94.0,0.2
+Belgrade,City,2009,Total Earnings,55788.0,100.0
+Belgrade,City,2009,Earnings in Currency,55688.0,99.8
+Belgrade,City,2009,Earnings from Orthodox Work Relations a.k.a. Job,30089.0,54.0
+Belgrade,City,2009,Earnings from Unorthodox Work Relations,1217.0,2.2
+Belgrade,City,2009,Pensions,20544.0,36.8
+Belgrade,City,2009,Social Sequrity Earnings,715.0,1.3
+Belgrade,City,2009,"Earnings from Agricultural, Hunting and Fishing Actions",14.0,0.0
+Belgrade,City,2009,Foreign Earnings,347.0,0.6
+Belgrade,City,2009,Real Estate Earnings,190.0,0.3
+Belgrade,City,2009,Presents,1024.0,1.8
+Belgrade,City,2009,Investment Interest,484.0,0.9
+Belgrade,City,2009,Rest,1064.0,1.9
+Belgrade,City,2009,Earnings in Labor,100.0,0.2
+Belgrade,City,2009,Other Earnings in Labor,38.0,0.1
+Belgrade,Rest,2009,Total Earnings,57334.0,100.0
+Belgrade,Rest,2009,Earnings in Currency,54301.0,94.7
+Belgrade,Rest,2009,Earnings from Orthodox Work Relations a.k.a. Job,27885.0,48.5
+Belgrade,Rest,2009,Earnings from Unorthodox Work Relations,2855.0,5.0
+Belgrade,Rest,2009,Pensions,15036.0,26.2
+Belgrade,Rest,2009,Social Sequrity Earnings,574.0,1.0
+Belgrade,Rest,2009,"Earnings from Agricultural, Hunting and Fishing Actions",775.0,1.4
+Belgrade,Rest,2009,Foreign Earnings,312.0,0.5
+Belgrade,Rest,2009,Real Estate Earnings,53.0,0.1
+Belgrade,Rest,2009,Presents,2336.0,4.1
+Belgrade,Rest,2009,Investment Interest,1004.0,1.8
+Belgrade,Rest,2009,Rest,3471.0,6.1
+Belgrade,Rest,2009,Earnings in Labor,3033.0,5.3
+Belgrade,Rest,2009,Other Earnings in Labor,379.0,0.7
+Voyvodina/North,Total,2009,Total Earnings,47654.0,100.0
+Voyvodina/North,Total,2009,Earnings in Currency,45276.0,95.0
+Voyvodina/North,Total,2009,Earnings from Orthodox Work Relations a.k.a. Job,21117.0,44.3
+Voyvodina/North,Total,2009,Earnings from Unorthodox Work Relations,2348.0,4.9
+Voyvodina/North,Total,2009,Pensions,14320.0,30.0
+Voyvodina/North,Total,2009,Social Sequrity Earnings,1168.0,2.5
+Voyvodina/North,Total,2009,"Earnings from Agricultural, Hunting and Fishing Actions",2915.0,6.1
+Voyvodina/North,Total,2009,Foreign Earnings,646.0,1.4
+Voyvodina/North,Total,2009,Real Estate Earnings,446.0,0.9
+Voyvodina/North,Total,2009,Presents,527.0,1.1
+Voyvodina/North,Total,2009,Investment Interest,891.0,1.9
+Voyvodina/North,Total,2009,Rest,898.0,1.9
+Voyvodina/North,Total,2009,Earnings in Labor,2378.0,5.0
+Voyvodina/North,Total,2009,Other Earnings in Labor,27.0,0.1
+Voyvodina/North,City,2009,Total Earnings,50641.0,100.0
+Voyvodina/North,City,2009,Earnings in Currency,49686.0,98.1
+Voyvodina/North,City,2009,Earnings from Orthodox Work Relations a.k.a. Job,24219.0,47.9
+Voyvodina/North,City,2009,Earnings from Unorthodox Work Relations,2450.0,4.8
+Voyvodina/North,City,2009,Pensions,16813.0,33.2
+Voyvodina/North,City,2009,Social Sequrity Earnings,1215.0,2.4
+Voyvodina/North,City,2009,"Earnings from Agricultural, Hunting and Fishing Actions",1562.0,3.1
+Voyvodina/North,City,2009,Foreign Earnings,552.0,1.1
+Voyvodina/North,City,2009,Real Estate Earnings,515.0,1.0
+Voyvodina/North,City,2009,Presents,613.0,1.2
+Voyvodina/North,City,2009,Investment Interest,1032.0,2.0
+Voyvodina/North,City,2009,Rest,715.0,1.4
+Voyvodina/North,City,2009,Earnings in Labor,955.0,1.9
+Voyvodina/North,City,2009,Other Earnings in Labor,9.0,0.0
+Voyvodina/North,Rest,2009,Total Earnings,43556.0,100.0
+Voyvodina/North,Rest,2009,Earnings in Currency,39222.0,90.0
+Voyvodina/North,Rest,2009,Earnings from Orthodox Work Relations a.k.a. Job,16858.0,38.7
+Voyvodina/North,Rest,2009,Earnings from Unorthodox Work Relations,2210.0,5.1
+Voyvodina/North,Rest,2009,Pensions,10897.0,25.0
+Voyvodina/North,Rest,2009,Social Sequrity Earnings,1103.0,2.5
+Voyvodina/North,Rest,2009,"Earnings from Agricultural, Hunting and Fishing Actions",4772.0,11.0
+Voyvodina/North,Rest,2009,Foreign Earnings,774.0,1.8
+Voyvodina/North,Rest,2009,Real Estate Earnings,353.0,0.8
+Voyvodina/North,Rest,2009,Presents,408.0,0.9
+Voyvodina/North,Rest,2009,Investment Interest,698.0,1.6
+Voyvodina/North,Rest,2009,Rest,1149.0,2.6
+Voyvodina/North,Rest,2009,Earnings in Labor,4334.0,10.0
+Voyvodina/North,Rest,2009,Other Earnings in Labor,52.0,0.1
+Central and West,Total,2009,Total Earnings,44791.0,100.0
+Central and West,Total,2009,Earnings in Currency,40858.0,91.2
+Central and West,Total,2009,Earnings from Orthodox Work Relations a.k.a. Job,20485.0,45.7
+Central and West,Total,2009,Earnings from Unorthodox Work Relations,859.0,1.9
+Central and West,Total,2009,Pensions,12424.0,27.7
+Central and West,Total,2009,Social Sequrity Earnings,692.0,1.5
+Central and West,Total,2009,"Earnings from Agricultural, Hunting and Fishing Actions",1323.0,3.0
+Central and West,Total,2009,Foreign Earnings,785.0,1.8
+Central and West,Total,2009,Real Estate Earnings,216.0,0.5
+Central and West,Total,2009,Presents,561.0,1.3
+Central and West,Total,2009,Investment Interest,683.0,1.5
+Central and West,Total,2009,Rest,2830.0,6.3
+Central and West,Total,2009,Earnings in Labor,3933.0,8.8
+Central and West,Total,2009,Other Earnings in Labor,2.0,0.0
+Central and West,City,2009,Total Earnings,48667.0,100.0
+Central and West,City,2009,Earnings in Currency,48322.0,99.3
+Central and West,City,2009,Earnings from Orthodox Work Relations a.k.a. Job,26144.0,53.7
+Central and West,City,2009,Earnings from Unorthodox Work Relations,635.0,1.3
+Central and West,City,2009,Pensions,14581.0,30.0
+Central and West,City,2009,Social Sequrity Earnings,808.0,1.7
+Central and West,City,2009,"Earnings from Agricultural, Hunting and Fishing Actions",425.0,0.9
+Central and West,City,2009,Foreign Earnings,847.0,1.7
+Central and West,City,2009,Real Estate Earnings,986.0,2.0
+Central and West,City,2009,Presents,686.0,1.4
+Central and West,City,2009,Investment Interest,841.0,1.7
+Central and West,City,2009,Rest,2369.0,4.9
+Central and West,City,2009,Earnings in Labor,345.0,0.7
+Central and West,City,2009,Other Earnings in Labor,0.0,0.0
+Central and West,Rest,2009,Total Earnings,43787.0,100.0
+Central and West,Rest,2009,Earnings in Currency,36663.0,83.7
+Central and West,Rest,2009,Earnings from Orthodox Work Relations a.k.a. Job,15452.0,35.2
+Central and West,Rest,2009,Earnings from Unorthodox Work Relations,1058.0,2.4
+Central and West,Rest,2009,Pensions,10505.0,24.0
+Central and West,Rest,2009,Social Sequrity Earnings,592.0,1.4
+Central and West,Rest,2009,"Earnings from Agricultural, Hunting and Fishing Actions",3804.0,8.7
+Central and West,Rest,2009,Foreign Earnings,730.0,1.7
+Central and West,Rest,2009,Real Estate Earnings,289.0,0.7
+Central and West,Rest,2009,Presents,451.0,1.0
+Central and West,Rest,2009,Investment Interest,542.0,1.2
+Central and West,Rest,2009,Rest,3240.0,7.4
+Central and West,Rest,2009,Earnings in Labor,7124.0,16.3
+Central and West,Rest,2009,Other Earnings in Labor,3.0,0.0
+South and East,Total,2009,Total Earnings,43277.0,100.0
+South and East,Total,2009,Earnings in Currency,40151.0,92.8
+South and East,Total,2009,Earnings from Orthodox Work Relations a.k.a. Job,16341.0,37.7
+South and East,Total,2009,Earnings from Unorthodox Work Relations,1246.0,2.9
+South and East,Total,2009,Pensions,13372.0,30.9
+South and East,Total,2009,Social Sequrity Earnings,793.0,1.8
+South and East,Total,2009,"Earnings from Agricultural, Hunting and Fishing Actions",2275.0,5.3
+South and East,Total,2009,Foreign Earnings,1034.0,2.4
+South and East,Total,2009,Real Estate Earnings,88.0,0.2
+South and East,Total,2009,Presents,130.0,0.3
+South and East,Total,2009,Investment Interest,334.0,0.8
+South and East,Total,2009,Rest,4538.0,10.5
+South and East,Total,2009,Earnings in Labor,3126.0,7.2
+South and East,Total,2009,Other Earnings in Labor,35.0,0.1
+South and East,City,2009,Total Earnings,43274.0,100.0
+South and East,City,2009,Earnings in Currency,42660.0,98.6
+South and East,City,2009,Earnings from Orthodox Work Relations a.k.a. Job,21423.0,49.5
+South and East,City,2009,Earnings from Unorthodox Work Relations,1110.0,2.6
+South and East,City,2009,Pensions,14051.0,32.5
+South and East,City,2009,Social Sequrity Earnings,838.0,1.9
+South and East,City,2009,"Earnings from Agricultural, Hunting and Fishing Actions",148.0,0.3
+South and East,City,2009,Foreign Earnings,639.0,1.5
+South and East,City,2009,Real Estate Earnings,148.0,0.3
+South and East,City,2009,Presents,171.0,0.4
+South and East,City,2009,Investment Interest,541.0,1.3
+South and East,City,2009,Rest,3591.0,8.3
+South and East,City,2009,Earnings in Labor,614.0,1.4
+South and East,City,2009,Other Earnings in Labor,36.0,0.1
+South and East,Rest,2009,Total Earnings,40845.0,100.0
+South and East,Rest,2009,Earnings in Currency,35221.0,86.2
+South and East,Rest,2009,Earnings from Orthodox Work Relations a.k.a. Job,11273.0,27.6
+South and East,Rest,2009,Earnings from Unorthodox Work Relations,1382.0,3.4
+South and East,Rest,2009,Pensions,12694.0,31.1
+South and East,Rest,2009,Social Sequrity Earnings,750.0,1.8
+South and East,Rest,2009,"Earnings from Agricultural, Hunting and Fishing Actions",857.0,2.1
+South and East,Rest,2009,Foreign Earnings,1428.0,3.5
+South and East,Rest,2009,Real Estate Earnings,1136.0,2.8
+South and East,Rest,2009,Presents,89.0,0.2
+South and East,Rest,2009,Investment Interest,128.0,0.3
+South and East,Rest,2009,Rest,5484.0,13.4
+South and East,Rest,2009,Earnings in Labor,5624.0,13.8
+South and East,Rest,2009,Other Earnings in Labor,33.0,0.1
+State,Total,2010,Total Earnings,47376.0,100.0
+State,Total,2010,Earnings in Currency,44801.0,94.6
+State,Total,2010,Earnings from Orthodox Work Relations a.k.a. Job,20587.0,43.5
+State,Total,2010,Earnings from Unorthodox Work Relations,1140.0,2.4
+State,Total,2010,Pensions,15930.0,33.6
+State,Total,2010,Social Sequrity Earnings,1009.0,2.1
+State,Total,2010,"Earnings from Agricultural, Hunting and Fishing Actions",1830.0,3.9
+State,Total,2010,Foreign Earnings,601.0,1.3
+State,Total,2010,Real Estate Earnings,264.0,0.6
+State,Total,2010,Presents,496.0,1.0
+State,Total,2010,Investment Interest,864.0,1.8
+State,Total,2010,Rest,2080.0,4.4
+State,Total,2010,Earnings in Labor,2575.0,5.4
+State,Total,2010,Other Earnings in Labor,42.0,0.1
+State,City,2010,Total Earnings,49189.0,100.0
+State,City,2010,Earnings in Currency,48714.0,99.0
+State,City,2010,Earnings from Orthodox Work Relations a.k.a. Job,24337.0,49.5
+State,City,2010,Earnings from Unorthodox Work Relations,1203.0,2.4
+State,City,2010,Pensions,17838.0,36.3
+State,City,2010,Social Sequrity Earnings,1065.0,2.2
+State,City,2010,"Earnings from Agricultural, Hunting and Fishing Actions",202.0,0.4
+State,City,2010,Foreign Earnings,655.0,1.3
+State,City,2010,Real Estate Earnings,291.0,0.6
+State,City,2010,Presents,614.0,1.2
+State,City,2010,Investment Interest,991.0,2.0
+State,City,2010,Rest,1518.0,3.1
+State,City,2010,Earnings in Labor,475.0,1.0
+State,City,2010,Other Earnings in Labor,37.0,0.1
+State,Rest,2010,Total Earnings,44765.0,100.0
+State,Rest,2010,Earnings in Currency,39176.0,87.5
+State,Rest,2010,Earnings from Orthodox Work Relations a.k.a. Job,15201.0,34.0
+State,Rest,2010,Earnings from Unorthodox Work Relations,1050.0,2.3
+State,Rest,2010,Pensions,13189.0,29.5
+State,Rest,2010,Social Sequrity Earnings,926.0,2.1
+State,Rest,2010,"Earnings from Agricultural, Hunting and Fishing Actions",4168.0,9.3
+State,Rest,2010,Foreign Earnings,524.0,1.2
+State,Rest,2010,Real Estate Earnings,224.0,0.5
+State,Rest,2010,Presents,327.0,0.7
+State,Rest,2010,Investment Interest,681.0,1.5
+State,Rest,2010,Rest,2886.0,6.4
+State,Rest,2010,Earnings in Labor,5589.0,12.5
+State,Rest,2010,Other Earnings in Labor,48.0,0.1
+Belgrade,Total,2010,Total Earnings,55373.0,100.0
+Belgrade,Total,2010,Earnings in Currency,54684.0,98.8
+Belgrade,Total,2010,Earnings from Orthodox Work Relations a.k.a. Job,28517.0,51.5
+Belgrade,Total,2010,Earnings from Unorthodox Work Relations,1080.0,2.0
+Belgrade,Total,2010,Pensions,20023.0,36.2
+Belgrade,Total,2010,Social Sequrity Earnings,788.0,1.4
+Belgrade,Total,2010,"Earnings from Agricultural, Hunting and Fishing Actions",228.0,0.4
+Belgrade,Total,2010,Foreign Earnings,390.0,0.7
+Belgrade,Total,2010,Real Estate Earnings,334.0,0.6
+Belgrade,Total,2010,Presents,1032.0,1.9
+Belgrade,Total,2010,Investment Interest,895.0,1.6
+Belgrade,Total,2010,Rest,1397.0,2.5
+Belgrade,Total,2010,Earnings in Labor,689.0,1.2
+Belgrade,Total,2010,Other Earnings in Labor,27.0,0.0
+Belgrade,City,2010,Total Earnings,54904.0,100.0
+Belgrade,City,2010,Earnings in Currency,54817.0,99.8
+Belgrade,City,2010,Earnings from Orthodox Work Relations a.k.a. Job,29165.0,53.1
+Belgrade,City,2010,Earnings from Unorthodox Work Relations,1147.0,2.1
+Belgrade,City,2010,Pensions,20215.0,36.8
+Belgrade,City,2010,Social Sequrity Earnings,782.0,1.4
+Belgrade,City,2010,"Earnings from Agricultural, Hunting and Fishing Actions",4.0,0.0
+Belgrade,City,2010,Foreign Earnings,467.0,0.9
+Belgrade,City,2010,Real Estate Earnings,284.0,0.5
+Belgrade,City,2010,Presents,1050.0,1.9
+Belgrade,City,2010,Investment Interest,675.0,1.2
+Belgrade,City,2010,Rest,1028.0,1.9
+Belgrade,City,2010,Earnings in Labor,87.0,0.2
+Belgrade,City,2010,Other Earnings in Labor,32.0,0.1
+Belgrade,Rest,2010,Total Earnings,57743.0,100.0
+Belgrade,Rest,2010,Earnings in Currency,54010.0,93.5
+Belgrade,Rest,2010,Earnings from Orthodox Work Relations a.k.a. Job,25261.0,43.8
+Belgrade,Rest,2010,Earnings from Unorthodox Work Relations,744.0,1.3
+Belgrade,Rest,2010,Pensions,19054.0,33.0
+Belgrade,Rest,2010,Social Sequrity Earnings,820.0,1.4
+Belgrade,Rest,2010,"Earnings from Agricultural, Hunting and Fishing Actions",1350.0,2.3
+Belgrade,Rest,2010,Foreign Earnings,0.0,0.0
+Belgrade,Rest,2010,Real Estate Earnings,585.0,1.0
+Belgrade,Rest,2010,Presents,944.0,1.6
+Belgrade,Rest,2010,Investment Interest,2001.0,3.5
+Belgrade,Rest,2010,Rest,3251.0,5.6
+Belgrade,Rest,2010,Earnings in Labor,3733.0,6.5
+Belgrade,Rest,2010,Other Earnings in Labor,0.0,0.0
+Voyvodina/North,Total,2010,Total Earnings,47466.0,100.0
+Voyvodina/North,Total,2010,Earnings in Currency,45249.0,95.3
+Voyvodina/North,Total,2010,Earnings from Orthodox Work Relations a.k.a. Job,19454.0,41.0
+Voyvodina/North,Total,2010,Earnings from Unorthodox Work Relations,1736.0,3.7
+Voyvodina/North,Total,2010,Pensions,15793.0,33.3
+Voyvodina/North,Total,2010,Social Sequrity Earnings,1251.0,2.6
+Voyvodina/North,Total,2010,"Earnings from Agricultural, Hunting and Fishing Actions",2878.0,6.1
+Voyvodina/North,Total,2010,Foreign Earnings,644.0,1.4
+Voyvodina/North,Total,2010,Real Estate Earnings,370.0,0.8
+Voyvodina/North,Total,2010,Presents,369.0,0.8
+Voyvodina/North,Total,2010,Investment Interest,1291.0,2.7
+Voyvodina/North,Total,2010,Rest,1463.0,3.1
+Voyvodina/North,Total,2010,Earnings in Labor,2217.0,4.7
+Voyvodina/North,Total,2010,Other Earnings in Labor,72.0,0.2
+Voyvodina/North,City,2010,Total Earnings,47682.0,100.0
+Voyvodina/North,City,2010,Earnings in Currency,46754.0,98.1
+Voyvodina/North,City,2010,Earnings from Orthodox Work Relations a.k.a. Job,21192.0,44.5
+Voyvodina/North,City,2010,Earnings from Unorthodox Work Relations,1832.0,3.8
+Voyvodina/North,City,2010,Pensions,17982.0,37.7
+Voyvodina/North,City,2010,Social Sequrity Earnings,1218.0,2.6
+Voyvodina/North,City,2010,"Earnings from Agricultural, Hunting and Fishing Actions",587.0,1.2
+Voyvodina/North,City,2010,Foreign Earnings,752.0,1.6
+Voyvodina/North,City,2010,Real Estate Earnings,275.0,0.6
+Voyvodina/North,City,2010,Presents,371.0,0.8
+Voyvodina/North,City,2010,Investment Interest,1438.0,3.0
+Voyvodina/North,City,2010,Rest,1107.0,2.3
+Voyvodina/North,City,2010,Earnings in Labor,928.0,1.9
+Voyvodina/North,City,2010,Other Earnings in Labor,63.0,0.1
+Voyvodina/North,Rest,2010,Total Earnings,47175.0,100.0
+Voyvodina/North,Rest,2010,Earnings in Currency,43185.0,91.5
+Voyvodina/North,Rest,2010,Earnings from Orthodox Work Relations a.k.a. Job,17068.0,36.1
+Voyvodina/North,Rest,2010,Earnings from Unorthodox Work Relations,1606.0,3.4
+Voyvodina/North,Rest,2010,Pensions,12787.0,27.1
+Voyvodina/North,Rest,2010,Social Sequrity Earnings,1295.0,2.7
+Voyvodina/North,Rest,2010,"Earnings from Agricultural, Hunting and Fishing Actions",6025.0,12.8
+Voyvodina/North,Rest,2010,Foreign Earnings,496.0,1.1
+Voyvodina/North,Rest,2010,Real Estate Earnings,503.0,1.1
+Voyvodina/North,Rest,2010,Presents,366.0,0.8
+Voyvodina/North,Rest,2010,Investment Interest,1090.0,2.3
+Voyvodina/North,Rest,2010,Rest,1949.0,4.1
+Voyvodina/North,Rest,2010,Earnings in Labor,3990.0,8.5
+Voyvodina/North,Rest,2010,Other Earnings in Labor,86.0,0.2
+Central and West,Total,2010,Total Earnings,45490.0,100.0
+Central and West,Total,2010,Earnings in Currency,41326.0,90.8
+Central and West,Total,2010,Earnings from Orthodox Work Relations a.k.a. Job,18811.0,41.3
+Central and West,Total,2010,Earnings from Unorthodox Work Relations,525.0,1.2
+Central and West,Total,2010,Pensions,13762.0,30.2
+Central and West,Total,2010,Social Sequrity Earnings,991.0,2.2
+Central and West,Total,2010,"Earnings from Agricultural, Hunting and Fishing Actions",3098.0,6.8
+Central and West,Total,2010,Foreign Earnings,456.0,1.0
+Central and West,Total,2010,Real Estate Earnings,290.0,0.6
+Central and West,Total,2010,Presents,481.0,1.1
+Central and West,Total,2010,Investment Interest,720.0,1.6
+Central and West,Total,2010,Rest,2192.0,4.8
+Central and West,Total,2010,Earnings in Labor,4164.0,9.2
+Central and West,Total,2010,Other Earnings in Labor,2.0,0.0
+Central and West,City,2010,Total Earnings,47689.0,100.0
+Central and West,City,2010,Earnings in Currency,47295.0,99.2
+Central and West,City,2010,Earnings from Orthodox Work Relations a.k.a. Job,24304.0,51.1
+Central and West,City,2010,Earnings from Unorthodox Work Relations,463.0,1.0
+Central and West,City,2010,Pensions,16011.0,33.6
+Central and West,City,2010,Social Sequrity Earnings,1299.0,2.7
+Central and West,City,2010,"Earnings from Agricultural, Hunting and Fishing Actions",148.0,0.3
+Central and West,City,2010,Foreign Earnings,677.0,1.4
+Central and West,City,2010,Real Estate Earnings,536.0,1.1
+Central and West,City,2010,Presents,638.0,1.3
+Central and West,City,2010,Investment Interest,1073.0,2.2
+Central and West,City,2010,Rest,2146.0,4.5
+Central and West,City,2010,Earnings in Labor,394.0,0.8
+Central and West,City,2010,Other Earnings in Labor,0.0,0.0
+Central and West,Rest,2010,Total Earnings,43558.0,100.0
+Central and West,Rest,2010,Earnings in Currency,36041.0,82.7
+Central and West,Rest,2010,Earnings from Orthodox Work Relations a.k.a. Job,13925.0,32.1
+Central and West,Rest,2010,Earnings from Unorthodox Work Relations,579.0,1.3
+Central and West,Rest,2010,Pensions,11762.0,27.0
+Central and West,Rest,2010,Social Sequrity Earnings,716.0,1.6
+Central and West,Rest,2010,"Earnings from Agricultural, Hunting and Fishing Actions",5723.0,13.1
+Central and West,Rest,2010,Foreign Earnings,259.0,0.6
+Central and West,Rest,2010,Real Estate Earnings,96.0,0.2
+Central and West,Rest,2010,Presents,341.0,0.8
+Central and West,Rest,2010,Investment Interest,405.0,0.9
+Central and West,Rest,2010,Rest,2235.0,5.1
+Central and West,Rest,2010,Earnings in Labor,7517.0,17.3
+Central and West,Rest,2010,Other Earnings in Labor,3.0,0.0
+South and East,Total,2010,Total Earnings,41461.0,100.0
+South and East,Total,2010,Earnings in Currency,38458.0,92.8
+South and East,Total,2010,Earnings from Orthodox Work Relations a.k.a. Job,16125.0,38.8
+South and East,Total,2010,Earnings from Unorthodox Work Relations,1207.0,2.9
+South and East,Total,2010,Pensions,14583.0,35.2
+South and East,Total,2010,Social Sequrity Earnings,951.0,2.3
+South and East,Total,2010,"Earnings from Agricultural, Hunting and Fishing Actions",622.0,1.5
+South and East,Total,2010,Foreign Earnings,935.0,2.3
+South and East,Total,2010,Real Estate Earnings,29.0,0.1
+South and East,Total,2010,Presents,131.0,0.3
+South and East,Total,2010,Investment Interest,479.0,1.2
+South and East,Total,2010,Rest,3396.0,8.2
+South and East,Total,2010,Earnings in Labor,3003.0,7.2
+South and East,Total,2010,Other Earnings in Labor,67.0,0.2
+South and East,City,2010,Total Earnings,43480.0,100.0
+South and East,City,2010,Earnings in Currency,42893.0,98.6
+South and East,City,2010,Earnings from Orthodox Work Relations a.k.a. Job,20740.0,47.7
+South and East,City,2010,Earnings from Unorthodox Work Relations,1238.0,2.8
+South and East,City,2010,Pensions,15701.0,36.1
+South and East,City,2010,Social Sequrity Earnings,1055.0,2.4
+South and East,City,2010,"Earnings from Agricultural, Hunting and Fishing Actions",48.0,0.1
+South and East,City,2010,Foreign Earnings,805.0,1.9
+South and East,City,2010,Real Estate Earnings,93.0,0.2
+South and East,City,2010,Presents,201.0,0.5
+South and East,City,2010,Investment Interest,792.0,1.8
+South and East,City,2010,Rest,2220.0,5.1
+South and East,City,2010,Earnings in Labor,587.0,1.4
+South and East,City,2010,Other Earnings in Labor,53.0,0.1
+South and East,Rest,2010,Total Earnings,40322.0,100.0
+South and East,Rest,2010,Earnings in Currency,34908.0,86.6
+South and East,Rest,2010,Earnings from Orthodox Work Relations a.k.a. Job,11523.0,28.6
+South and East,Rest,2010,Earnings from Unorthodox Work Relations,1175.0,2.9
+South and East,Rest,2010,Pensions,13468.0,33.4
+South and East,Rest,2010,Social Sequrity Earnings,845.0,2.1
+South and East,Rest,2010,"Earnings from Agricultural, Hunting and Fishing Actions",1194.0,3.0
+South and East,Rest,2010,Foreign Earnings,1066.0,2.6
+South and East,Rest,2010,Real Estate Earnings,841.0,2.1
+South and East,Rest,2010,Presents,61.0,0.2
+South and East,Rest,2010,Investment Interest,167.0,0.4
+South and East,Rest,2010,Rest,4568.0,11.3
+South and East,Rest,2010,Earnings in Labor,5414.0,13.4
+South and East,Rest,2010,Other Earnings in Labor,82.0,0.2
+State,Total,2011,Total Earnings,51641.0,100.0
+State,Total,2011,Earnings in Currency,48619.0,94.1
+State,Total,2011,Earnings from Orthodox Work Relations a.k.a. Job,22353.0,43.2
+State,Total,2011,Earnings from Unorthodox Work Relations,1411.0,2.7
+State,Total,2011,Pensions,16821.0,32.6
+State,Total,2011,Social Sequrity Earnings,827.0,1.6
+State,Total,2011,"Earnings from Agricultural, Hunting and Fishing Actions",1902.0,3.7
+State,Total,2011,Foreign Earnings,705.0,1.4
+State,Total,2011,Real Estate Earnings,685.0,1.3
+State,Total,2011,Presents,554.0,1.1
+State,Total,2011,Investment Interest,1103.0,2.1
+State,Total,2011,Rest,2258.0,4.4
+State,Total,2011,Earnings in Labor,3022.0,5.9
+State,Total,2011,Other Earnings in Labor,31.0,0.1
+State,City,2011,Total Earnings,54158.0,100.0
+State,City,2011,Earnings in Currency,53703.0,99.2
+State,City,2011,Earnings from Orthodox Work Relations a.k.a. Job,26640.0,49.2
+State,City,2011,Earnings from Unorthodox Work Relations,1307.0,2.4
+State,City,2011,Pensions,19601.0,36.2
+State,City,2011,Social Sequrity Earnings,761.0,1.4
+State,City,2011,"Earnings from Agricultural, Hunting and Fishing Actions",631.0,1.2
+State,City,2011,Foreign Earnings,671.0,1.2
+State,City,2011,Real Estate Earnings,756.0,1.4
+State,City,2011,Presents,719.0,1.3
+State,City,2011,Investment Interest,1117.0,2.1
+State,City,2011,Rest,1500.0,2.8
+State,City,2011,Earnings in Labor,455.0,0.8
+State,City,2011,Other Earnings in Labor,35.0,0.1
+State,Rest,2011,Total Earnings,47937.0,100.0
+State,Rest,2011,Earnings in Currency,41225.0,86.0
+State,Rest,2011,Earnings from Orthodox Work Relations a.k.a. Job,16197.0,33.6
+State,Rest,2011,Earnings from Unorthodox Work Relations,1559.0,3.3
+State,Rest,2011,Pensions,12829.0,26.8
+State,Rest,2011,Social Sequrity Earnings,923.0,1.9
+State,Rest,2011,"Earnings from Agricultural, Hunting and Fishing Actions",3726.0,7.8
+State,Rest,2011,Foreign Earnings,754.0,1.6
+State,Rest,2011,Real Estate Earnings,589.0,1.2
+State,Rest,2011,Presents,316.0,0.7
+State,Rest,2011,Investment Interest,1086.0,2.3
+State,Rest,2011,Rest,3246.0,6.8
+State,Rest,2011,Earnings in Labor,6712.0,14.0
+State,Rest,2011,Other Earnings in Labor,25.0,0.1
+Belgrade,Total,2011,Total Earnings,61736.0,100.0
+Belgrade,Total,2011,Earnings in Currency,61008.0,98.8
+Belgrade,Total,2011,Earnings from Orthodox Work Relations a.k.a. Job,31532.0,51.2
+Belgrade,Total,2011,Earnings from Unorthodox Work Relations,1577.0,2.6
+Belgrade,Total,2011,Pensions,22122.0,35.8
+Belgrade,Total,2011,Social Sequrity Earnings,509.0,0.8
+Belgrade,Total,2011,"Earnings from Agricultural, Hunting and Fishing Actions",204.0,0.3
+Belgrade,Total,2011,Foreign Earnings,388.0,0.6
+Belgrade,Total,2011,Real Estate Earnings,364.0,0.6
+Belgrade,Total,2011,Presents,1065.0,1.7
+Belgrade,Total,2011,Investment Interest,1375.0,2.2
+Belgrade,Total,2011,Rest,1872.0,3.0
+Belgrade,Total,2011,Earnings in Labor,728.0,1.2
+Belgrade,Total,2011,Other Earnings in Labor,8.0,0.0
+Belgrade,City,2011,Total Earnings,61396.0,100.0
+Belgrade,City,2011,Earnings in Currency,61332.0,99.9
+Belgrade,City,2011,Earnings from Orthodox Work Relations a.k.a. Job,32303.0,52.6
+Belgrade,City,2011,Earnings from Unorthodox Work Relations,1375.0,2.2
+Belgrade,City,2011,Pensions,22991.0,37.4
+Belgrade,City,2011,Social Sequrity Earnings,430.0,0.7
+Belgrade,City,2011,"Earnings from Agricultural, Hunting and Fishing Actions",0.0,0.0
+Belgrade,City,2011,Foreign Earnings,432.0,0.7
+Belgrade,City,2011,Real Estate Earnings,352.0,0.6
+Belgrade,City,2011,Presents,1146.0,1.9
+Belgrade,City,2011,Investment Interest,930.0,1.5
+Belgrade,City,2011,Rest,1373.0,2.2
+Belgrade,City,2011,Earnings in Labor,64.0,0.1
+Belgrade,City,2011,Other Earnings in Labor,10.0,0.0
+Belgrade,Rest,2011,Total Earnings,63459.0,100.0
+Belgrade,Rest,2011,Earnings in Currency,59391.0,93.6
+Belgrade,Rest,2011,Earnings from Orthodox Work Relations a.k.a. Job,27656.0,43.6
+Belgrade,Rest,2011,Earnings from Unorthodox Work Relations,2594.0,4.1
+Belgrade,Rest,2011,Pensions,17755.0,28.0
+Belgrade,Rest,2011,Social Sequrity Earnings,910.0,1.4
+Belgrade,Rest,2011,"Earnings from Agricultural, Hunting and Fishing Actions",1233.0,1.9
+Belgrade,Rest,2011,Foreign Earnings,167.0,0.3
+Belgrade,Rest,2011,Real Estate Earnings,432.0,0.7
+Belgrade,Rest,2011,Presents,656.0,1.0
+Belgrade,Rest,2011,Investment Interest,3604.0,5.7
+Belgrade,Rest,2011,Rest,4384.0,6.9
+Belgrade,Rest,2011,Earnings in Labor,4068.0,6.4
+Belgrade,Rest,2011,Other Earnings in Labor,0.0,0.0
+Voyvodina/North,Total,2011,Total Earnings,50482.0,100.0
+Voyvodina/North,Total,2011,Earnings in Currency,47996.0,95.1
+Voyvodina/North,Total,2011,Earnings from Orthodox Work Relations a.k.a. Job,19781.0,39.1
+Voyvodina/North,Total,2011,Earnings from Unorthodox Work Relations,1931.0,3.8
+Voyvodina/North,Total,2011,Pensions,16163.0,32.0
+Voyvodina/North,Total,2011,Social Sequrity Earnings,1051.0,2.1
+Voyvodina/North,Total,2011,"Earnings from Agricultural, Hunting and Fishing Actions",3586.0,7.1
+Voyvodina/North,Total,2011,Foreign Earnings,792.0,1.6
+Voyvodina/North,Total,2011,Real Estate Earnings,1425.0,2.8
+Voyvodina/North,Total,2011,Presents,432.0,0.9
+Voyvodina/North,Total,2011,Investment Interest,1645.0,3.3
+Voyvodina/North,Total,2011,Rest,1190.0,2.4
+Voyvodina/North,Total,2011,Earnings in Labor,2486.0,4.9
+Voyvodina/North,Total,2011,Other Earnings in Labor,63.0,0.1
+Voyvodina/North,City,2011,Total Earnings,53584.0,100.0
+Voyvodina/North,City,2011,Earnings in Currency,52658.0,98.3
+Voyvodina/North,City,2011,Earnings from Orthodox Work Relations a.k.a. Job,22290.0,41.6
+Voyvodina/North,City,2011,Earnings from Unorthodox Work Relations,1627.0,3.0
+Voyvodina/North,City,2011,Pensions,19511.0,36.4
+Voyvodina/North,City,2011,Social Sequrity Earnings,981.0,1.8
+Voyvodina/North,City,2011,"Earnings from Agricultural, Hunting and Fishing Actions",2174.0,4.1
+Voyvodina/North,City,2011,Foreign Earnings,632.0,1.2
+Voyvodina/North,City,2011,Real Estate Earnings,1805.0,3.4
+Voyvodina/North,City,2011,Presents,466.0,0.9
+Voyvodina/North,City,2011,Investment Interest,1860.0,3.5
+Voyvodina/North,City,2011,Rest,1312.0,2.4
+Voyvodina/North,City,2011,Earnings in Labor,926.0,1.7
+Voyvodina/North,City,2011,Other Earnings in Labor,81.0,0.2
+Voyvodina/North,Rest,2011,Total Earnings,46192.0,100.0
+Voyvodina/North,Rest,2011,Earnings in Currency,41565.0,90.0
+Voyvodina/North,Rest,2011,Earnings from Orthodox Work Relations a.k.a. Job,16335.0,35.3
+Voyvodina/North,Rest,2011,Earnings from Unorthodox Work Relations,2347.0,5.1
+Voyvodina/North,Rest,2011,Pensions,11566.0,25.0
+Voyvodina/North,Rest,2011,Social Sequrity Earnings,1145.0,2.5
+Voyvodina/North,Rest,2011,"Earnings from Agricultural, Hunting and Fishing Actions",5525.0,12.0
+Voyvodina/North,Rest,2011,Foreign Earnings,1012.0,2.2
+Voyvodina/North,Rest,2011,Real Estate Earnings,904.0,2.0
+Voyvodina/North,Rest,2011,Presents,385.0,0.8
+Voyvodina/North,Rest,2011,Investment Interest,1349.0,2.9
+Voyvodina/North,Rest,2011,Rest,997.0,2.2
+Voyvodina/North,Rest,2011,Earnings in Labor,4627.0,10.0
+Voyvodina/North,Rest,2011,Other Earnings in Labor,39.0,0.1
+Central and West,Total,2011,Total Earnings,50089.0,100.0
+Central and West,Total,2011,Earnings in Currency,45044.0,89.9
+Central and West,Total,2011,Earnings from Orthodox Work Relations a.k.a. Job,20915.0,41.7
+Central and West,Total,2011,Earnings from Unorthodox Work Relations,1095.0,2.2
+Central and West,Total,2011,Pensions,14999.0,29.9
+Central and West,Total,2011,Social Sequrity Earnings,938.0,1.9
+Central and West,Total,2011,"Earnings from Agricultural, Hunting and Fishing Actions",2436.0,4.9
+Central and West,Total,2011,Foreign Earnings,727.0,1.5
+Central and West,Total,2011,Real Estate Earnings,173.0,0.3
+Central and West,Total,2011,Presents,627.0,1.3
+Central and West,Total,2011,Investment Interest,963.0,1.9
+Central and West,Total,2011,Rest,2171.0,4.3
+Central and West,Total,2011,Earnings in Labor,5045.0,10.1
+Central and West,Total,2011,Other Earnings in Labor,0.0,0.0
+Central and West,City,2011,Total Earnings,50568.0,100.0
+Central and West,City,2011,Earnings in Currency,50156.0,99.2
+Central and West,City,2011,Earnings from Orthodox Work Relations a.k.a. Job,25902.0,51.3
+Central and West,City,2011,Earnings from Unorthodox Work Relations,1271.0,2.5
+Central and West,City,2011,Pensions,17711.0,35.0
+Central and West,City,2011,Social Sequrity Earnings,903.0,1.8
+Central and West,City,2011,"Earnings from Agricultural, Hunting and Fishing Actions",161.0,0.3
+Central and West,City,2011,Foreign Earnings,1036.0,2.0
+Central and West,City,2011,Real Estate Earnings,276.0,0.5
+Central and West,City,2011,Presents,888.0,1.8
+Central and West,City,2011,Investment Interest,1094.0,2.2
+Central and West,City,2011,Rest,914.0,1.8
+Central and West,City,2011,Earnings in Labor,412.0,0.8
+Central and West,City,2011,Other Earnings in Labor,0.0,0.0
+Central and West,Rest,2011,Total Earnings,49404.0,100.0
+Central and West,Rest,2011,Earnings in Currency,40233.0,81.4
+Central and West,Rest,2011,Earnings from Orthodox Work Relations a.k.a. Job,16479.0,33.3
+Central and West,Rest,2011,Earnings from Unorthodox Work Relations,939.0,1.9
+Central and West,Rest,2011,Pensions,12588.0,25.5
+Central and West,Rest,2011,Social Sequrity Earnings,967.0,2.0
+Central and West,Rest,2011,"Earnings from Agricultural, Hunting and Fishing Actions",4459.0,9.0
+Central and West,Rest,2011,Foreign Earnings,452.0,0.9
+Central and West,Rest,2011,Real Estate Earnings,81.0,0.2
+Central and West,Rest,2011,Presents,396.0,0.8
+Central and West,Rest,2011,Investment Interest,846.0,1.7
+Central and West,Rest,2011,Rest,3026.0,6.1
+Central and West,Rest,2011,Earnings in Labor,9171.0,18.6
+Central and West,Rest,2011,Other Earnings in Labor,0.0,0.0
+South and East,Total,2011,Total Earnings,44768.0,100.0
+South and East,Total,2011,Earnings in Currency,41206.0,92.0
+South and East,Total,2011,Earnings from Orthodox Work Relations a.k.a. Job,18003.0,40.1
+South and East,Total,2011,Earnings from Unorthodox Work Relations,980.0,2.2
+South and East,Total,2011,Pensions,14483.0,32.4
+South and East,Total,2011,Social Sequrity Earnings,742.0,1.7
+South and East,Total,2011,"Earnings from Agricultural, Hunting and Fishing Actions",889.0,2.0
+South and East,Total,2011,Foreign Earnings,892.0,2.0
+South and East,Total,2011,Real Estate Earnings,717.0,1.6
+South and East,Total,2011,Presents,99.0,0.2
+South and East,Total,2011,Investment Interest,332.0,0.7
+South and East,Total,2011,Rest,4069.0,9.1
+South and East,Total,2011,Earnings in Labor,3562.0,8.0
+South and East,Total,2011,Other Earnings in Labor,51.0,0.1
+South and East,City,2011,Total Earnings,46850.0,100.0
+South and East,City,2011,Earnings in Currency,46363.0,99.0
+South and East,City,2011,Earnings from Orthodox Work Relations a.k.a. Job,24161.0,51.6
+South and East,City,2011,Earnings from Unorthodox Work Relations,776.0,1.7
+South and East,City,2011,Pensions,16166.0,34.5
+South and East,City,2011,Social Sequrity Earnings,840.0,1.8
+South and East,City,2011,"Earnings from Agricultural, Hunting and Fishing Actions",20.0,0.0
+South and East,City,2011,Foreign Earnings,717.0,1.5
+South and East,City,2011,Real Estate Earnings,473.0,1.0
+South and East,City,2011,Presents,168.0,0.4
+South and East,City,2011,Investment Interest,388.0,0.8
+South and East,City,2011,Rest,2654.0,5.7
+South and East,City,2011,Earnings in Labor,487.0,1.0
+South and East,City,2011,Other Earnings in Labor,53.0,0.1
+South and East,Rest,2011,Total Earnings,42684.0,100.0
+South and East,Rest,2011,Earnings in Currency,36058.0,84.5
+South and East,Rest,2011,Earnings from Orthodox Work Relations a.k.a. Job,11862.0,27.9
+South and East,Rest,2011,Earnings from Unorthodox Work Relations,1185.0,2.8
+South and East,Rest,2011,Pensions,12805.0,30.0
+South and East,Rest,2011,Social Sequrity Earnings,642.0,1.5
+South and East,Rest,2011,"Earnings from Agricultural, Hunting and Fishing Actions",1754.0,4.1
+South and East,Rest,2011,Foreign Earnings,1066.0,2.5
+South and East,Rest,2011,Real Estate Earnings,959.0,2.2
+South and East,Rest,2011,Presents,30.0,0.1
+South and East,Rest,2011,Investment Interest,274.0,0.6
+South and East,Rest,2011,Rest,5481.0,12.8
+South and East,Rest,2011,Earnings in Labor,6626.0,15.5
+South and East,Rest,2011,Other Earnings in Labor,49.0,0.1
+State,Total,2012,Total Earnings,51504.0,100.0
+State,Total,2012,Earnings in Currency,48563.0,94.3
+State,Total,2012,Earnings from Orthodox Work Relations a.k.a. Job,21237.0,41.3
+State,Total,2012,Earnings from Unorthodox Work Relations,1452.0,2.8
+State,Total,2012,Pensions,18378.0,35.8
+State,Total,2012,Social Sequrity Earnings,1138.0,2.2
+State,Total,2012,"Earnings from Agricultural, Hunting and Fishing Actions",1776.0,3.4
+State,Total,2012,Foreign Earnings,835.0,1.6
+State,Total,2012,Real Estate Earnings,213.0,0.4
+State,Total,2012,Presents,540.0,1.0
+State,Total,2012,Investment Interest,600.0,1.2
+State,Total,2012,Rest,2394.0,4.6
+State,Total,2012,Earnings in Labor,2941.0,5.7
+State,Total,2012,Other Earnings in Labor,27.0,0.1
+State,City,2012,Total Earnings,53666.0,100.0
+State,City,2012,Earnings in Currency,53174.0,99.1
+State,City,2012,Earnings from Orthodox Work Relations a.k.a. Job,24881.0,46.4
+State,City,2012,Earnings from Unorthodox Work Relations,1562.0,2.9
+State,City,2012,Pensions,21008.0,39.1
+State,City,2012,Social Sequrity Earnings,1063.0,2.0
+State,City,2012,"Earnings from Agricultural, Hunting and Fishing Actions",464.0,0.9
+State,City,2012,Foreign Earnings,694.0,1.3
+State,City,2012,Real Estate Earnings,274.0,0.5
+State,City,2012,Presents,735.0,1.4
+State,City,2012,Investment Interest,654.0,1.2
+State,City,2012,Rest,1839.0,3.4
+State,City,2012,Earnings in Labor,492.0,0.9
+State,City,2012,Other Earnings in Labor,4.0,0.0
+State,Rest,2012,Total Earnings,48399.0,100.0
+State,Rest,2012,Earnings in Currency,41940.0,86.7
+State,Rest,2012,Earnings from Orthodox Work Relations a.k.a. Job,16006.0,33.0
+State,Rest,2012,Earnings from Unorthodox Work Relations,1294.0,2.7
+State,Rest,2012,Pensions,14602.0,30.2
+State,Rest,2012,Social Sequrity Earnings,1243.0,2.6
+State,Rest,2012,"Earnings from Agricultural, Hunting and Fishing Actions",3661.0,7.6
+State,Rest,2012,Foreign Earnings,1037.0,2.1
+State,Rest,2012,Real Estate Earnings,123.0,0.3
+State,Rest,2012,Presents,261.0,0.5
+State,Rest,2012,Investment Interest,522.0,1.1
+State,Rest,2012,Rest,3191.0,6.6
+State,Rest,2012,Earnings in Labor,6459.0,13.3
+State,Rest,2012,Other Earnings in Labor,59.0,0.1
+Belgrade,Total,2012,Total Earnings,59898.0,100.0
+Belgrade,Total,2012,Earnings in Currency,59444.0,99.2
+Belgrade,Total,2012,Earnings from Orthodox Work Relations a.k.a. Job,28259.0,47.1
+Belgrade,Total,2012,Earnings from Unorthodox Work Relations,1253.0,2.1
+Belgrade,Total,2012,Pensions,23499.0,39.1
+Belgrade,Total,2012,Social Sequrity Earnings,846.0,1.4
+Belgrade,Total,2012,"Earnings from Agricultural, Hunting and Fishing Actions",335.0,0.6
+Belgrade,Total,2012,Foreign Earnings,515.0,0.9
+Belgrade,Total,2012,Real Estate Earnings,159.0,0.3
+Belgrade,Total,2012,Presents,1352.0,2.3
+Belgrade,Total,2012,Investment Interest,689.0,1.2
+Belgrade,Total,2012,Rest,2537.0,4.2
+Belgrade,Total,2012,Earnings in Labor,454.0,0.8
+Belgrade,Total,2012,Other Earnings in Labor,0.0,0.0
+Belgrade,City,2012,Total Earnings,60250.0,100.0
+Belgrade,City,2012,Earnings in Currency,60168.0,99.9
+Belgrade,City,2012,Earnings from Orthodox Work Relations a.k.a. Job,28892.0,48.1
+Belgrade,City,2012,Earnings from Unorthodox Work Relations,1408.0,2.3
+Belgrade,City,2012,Pensions,23853.0,39.6
+Belgrade,City,2012,Social Sequrity Earnings,903.0,1.5
+Belgrade,City,2012,"Earnings from Agricultural, Hunting and Fishing Actions",19.0,0.0
+Belgrade,City,2012,Foreign Earnings,602.0,1.0
+Belgrade,City,2012,Real Estate Earnings,171.0,0.3
+Belgrade,City,2012,Presents,1510.0,2.5
+Belgrade,City,2012,Investment Interest,564.0,0.9
+Belgrade,City,2012,Rest,2246.0,3.7
+Belgrade,City,2012,Earnings in Labor,82.0,0.1
+Belgrade,City,2012,Other Earnings in Labor,0.0,0.0
+Belgrade,Rest,2012,Total Earnings,58137.0,100.0
+Belgrade,Rest,2012,Earnings in Currency,55813.0,96.0
+Belgrade,Rest,2012,Earnings from Orthodox Work Relations a.k.a. Job,25080.0,43.0
+Belgrade,Rest,2012,Earnings from Unorthodox Work Relations,472.0,0.8
+Belgrade,Rest,2012,Pensions,21717.0,37.4
+Belgrade,Rest,2012,Social Sequrity Earnings,559.0,1.0
+Belgrade,Rest,2012,"Earnings from Agricultural, Hunting and Fishing Actions",1929.0,3.3
+Belgrade,Rest,2012,Foreign Earnings,80.0,0.1
+Belgrade,Rest,2012,Real Estate Earnings,100.0,0.2
+Belgrade,Rest,2012,Presents,556.0,1.0
+Belgrade,Rest,2012,Investment Interest,1318.0,2.3
+Belgrade,Rest,2012,Rest,4002.0,6.9
+Belgrade,Rest,2012,Earnings in Labor,2324.0,4.0
+Belgrade,Rest,2012,Other Earnings in Labor,0.0,0.0
+Voyvodina/North,Total,2012,Total Earnings,52544.0,100.0
+Voyvodina/North,Total,2012,Earnings in Currency,49838.0,94.9
+Voyvodina/North,Total,2012,Earnings from Orthodox Work Relations a.k.a. Job,21197.0,40.3
+Voyvodina/North,Total,2012,Earnings from Unorthodox Work Relations,2453.0,4.7
+Voyvodina/North,Total,2012,Pensions,17854.0,34.0
+Voyvodina/North,Total,2012,Social Sequrity Earnings,1484.0,2.8
+Voyvodina/North,Total,2012,"Earnings from Agricultural, Hunting and Fishing Actions",3292.0,6.3
+Voyvodina/North,Total,2012,Foreign Earnings,834.0,1.6
+Voyvodina/North,Total,2012,Real Estate Earnings,307.0,0.6
+Voyvodina/North,Total,2012,Presents,397.0,0.8
+Voyvodina/North,Total,2012,Investment Interest,793.0,1.5
+Voyvodina/North,Total,2012,Rest,1227.0,2.3
+Voyvodina/North,Total,2012,Earnings in Labor,2706.0,5.1
+Voyvodina/North,Total,2012,Other Earnings in Labor,46.0,0.1
+Voyvodina/North,City,2012,Total Earnings,53150.0,100.0
+Voyvodina/North,City,2012,Earnings in Currency,52045.0,97.9
+Voyvodina/North,City,2012,Earnings from Orthodox Work Relations a.k.a. Job,23695.0,44.5
+Voyvodina/North,City,2012,Earnings from Unorthodox Work Relations,2211.0,4.2
+Voyvodina/North,City,2012,Pensions,19936.0,37.5
+Voyvodina/North,City,2012,Social Sequrity Earnings,1290.0,2.4
+Voyvodina/North,City,2012,"Earnings from Agricultural, Hunting and Fishing Actions",1492.0,2.8
+Voyvodina/North,City,2012,Foreign Earnings,827.0,1.6
+Voyvodina/North,City,2012,Real Estate Earnings,277.0,0.5
+Voyvodina/North,City,2012,Presents,400.0,0.8
+Voyvodina/North,City,2012,Investment Interest,983.0,1.8
+Voyvodina/North,City,2012,Rest,934.0,1.8
+Voyvodina/North,City,2012,Earnings in Labor,1105.0,2.1
+Voyvodina/North,City,2012,Other Earnings in Labor,14.0,0.0
+Voyvodina/North,Rest,2012,Total Earnings,51716.0,100.0
+Voyvodina/North,Rest,2012,Earnings in Currency,46810.0,90.5
+Voyvodina/North,Rest,2012,Earnings from Orthodox Work Relations a.k.a. Job,17767.0,34.4
+Voyvodina/North,Rest,2012,Earnings from Unorthodox Work Relations,2785.0,5.4
+Voyvodina/North,Rest,2012,Pensions,14994.0,29.0
+Voyvodina/North,Rest,2012,Social Sequrity Earnings,1754.0,3.4
+Voyvodina/North,Rest,2012,"Earnings from Agricultural, Hunting and Fishing Actions",5764.0,11.1
+Voyvodina/North,Rest,2012,Foreign Earnings,843.0,1.6
+Voyvodina/North,Rest,2012,Real Estate Earnings,348.0,0.7
+Voyvodina/North,Rest,2012,Presents,393.0,0.8
+Voyvodina/North,Rest,2012,Investment Interest,533.0,1.0
+Voyvodina/North,Rest,2012,Rest,1629.0,3.1
+Voyvodina/North,Rest,2012,Earnings in Labor,4906.0,9.5
+Voyvodina/North,Rest,2012,Other Earnings in Labor,90.0,0.2
+Central and West,Total,2012,Total Earnings,47018.0,100.0
+Central and West,Total,2012,Earnings in Currency,42243.0,89.8
+Central and West,Total,2012,Earnings from Orthodox Work Relations a.k.a. Job,18291.0,38.8
+Central and West,Total,2012,Earnings from Unorthodox Work Relations,682.0,1.5
+Central and West,Total,2012,Pensions,15666.0,33.2
+Central and West,Total,2012,Social Sequrity Earnings,1020.0,2.2
+Central and West,Total,2012,"Earnings from Agricultural, Hunting and Fishing Actions",2245.0,4.8
+Central and West,Total,2012,Foreign Earnings,529.0,1.1
+Central and West,Total,2012,Real Estate Earnings,176.0,0.4
+Central and West,Total,2012,Presents,259.0,0.6
+Central and West,Total,2012,Investment Interest,604.0,1.3
+Central and West,Total,2012,Rest,2771.0,5.9
+Central and West,Total,2012,Earnings in Labor,4775.0,10.2
+Central and West,Total,2012,Other Earnings in Labor,8.0,0.1
+Central and West,City,2012,Total Earnings,47733.0,100.0
+Central and West,City,2012,Earnings in Currency,47289.0,99.1
+Central and West,City,2012,Earnings from Orthodox Work Relations a.k.a. Job,22400.0,47.0
+Central and West,City,2012,Earnings from Unorthodox Work Relations,703.0,1.5
+Central and West,City,2012,Pensions,19766.0,41.4
+Central and West,City,2012,Social Sequrity Earnings,996.0,2.1
+Central and West,City,2012,"Earnings from Agricultural, Hunting and Fishing Actions",200.0,0.4
+Central and West,City,2012,Foreign Earnings,452.0,0.9
+Central and West,City,2012,Real Estate Earnings,330.0,0.7
+Central and West,City,2012,Presents,300.0,0.6
+Central and West,City,2012,Investment Interest,626.0,1.3
+Central and West,City,2012,Rest,1516.0,3.2
+Central and West,City,2012,Earnings in Labor,444.0,0.9
+Central and West,City,2012,Other Earnings in Labor,0.0,0.0
+Central and West,Rest,2012,Total Earnings,45924.0,100.0
+Central and West,Rest,2012,Earnings in Currency,37298.0,81.2
+Central and West,Rest,2012,Earnings from Orthodox Work Relations a.k.a. Job,14637.0,31.8
+Central and West,Rest,2012,Earnings from Unorthodox Work Relations,663.0,1.4
+Central and West,Rest,2012,Pensions,12020.0,26.2
+Central and West,Rest,2012,Social Sequrity Earnings,1041.0,2.3
+Central and West,Rest,2012,"Earnings from Agricultural, Hunting and Fishing Actions",4064.0,8.8
+Central and West,Rest,2012,Foreign Earnings,597.0,1.3
+Central and West,Rest,2012,Real Estate Earnings,4.0,0.0
+Central and West,Rest,2012,Presents,221.0,0.5
+Central and West,Rest,2012,Investment Interest,166.0,0.4
+Central and West,Rest,2012,Rest,3885.0,8.5
+Central and West,Rest,2012,Earnings in Labor,8626.0,18.8
+Central and West,Rest,2012,Other Earnings in Labor,16.0,0.1
+South and East,Total,2012,Total Earnings,47159.0,100.0
+South and East,Total,2012,Earnings in Currency,43633.0,92.5
+South and East,Total,2012,Earnings from Orthodox Work Relations a.k.a. Job,17755.0,37.6
+South and East,Total,2012,Earnings from Unorthodox Work Relations,1346.0,2.9
+South and East,Total,2012,Pensions,17131.0,36.3
+South and East,Total,2012,Social Sequrity Earnings,1145.0,2.4
+South and East,Total,2012,"Earnings from Agricultural, Hunting and Fishing Actions",791.0,1.7
+South and East,Total,2012,Foreign Earnings,1528.0,3.2
+South and East,Total,2012,Real Estate Earnings,192.0,0.4
+South and East,Total,2012,Presents,239.0,0.5
+South and East,Total,2012,Investment Interest,267.0,0.6
+South and East,Total,2012,Rest,3239.0,6.9
+South and East,Total,2012,Earnings in Labor,3526.0,7.5
+South and East,Total,2012,Other Earnings in Labor,51.0,0.1
+South and East,City,2012,Total Earnings,50055.0,100.0
+South and East,City,2012,Earnings in Currency,49697.0,99.3
+South and East,City,2012,Earnings from Orthodox Work Relations a.k.a. Job,22639.0,45.2
+South and East,City,2012,Earnings from Unorthodox Work Relations,1869.0,3.7
+South and East,City,2012,Pensions,19160.0,38.3
+South and East,City,2012,Social Sequrity Earnings,1087.0,2.2
+South and East,City,2012,"Earnings from Agricultural, Hunting and Fishing Actions",41.0,0.1
+South and East,City,2012,Foreign Earnings,936.0,1.9
+South and East,City,2012,Real Estate Earnings,381.0,0.8
+South and East,City,2012,Presents,402.0,0.8
+South and East,City,2012,Investment Interest,368.0,0.7
+South and East,City,2012,Rest,2814.0,5.6
+South and East,City,2012,Earnings in Labor,358.0,0.7
+South and East,City,2012,Other Earnings in Labor,0.0,0.0
+South and East,Rest,2012,Total Earnings,44724.0,100.0
+South and East,Rest,2012,Earnings in Currency,38039.0,85.1
+South and East,Rest,2012,Earnings from Orthodox Work Relations a.k.a. Job,12884.0,28.9
+South and East,Rest,2012,Earnings from Unorthodox Work Relations,825.0,1.8
+South and East,Rest,2012,Pensions,15108.0,33.8
+South and East,Rest,2012,Social Sequrity Earnings,1203.0,2.7
+South and East,Rest,2012,"Earnings from Agricultural, Hunting and Fishing Actions",1539.0,3.4
+South and East,Rest,2012,Foreign Earnings,2119.0,4.7
+South and East,Rest,2012,Real Estate Earnings,40.0,0.1
+South and East,Rest,2012,Presents,75.0,0.2
+South and East,Rest,2012,Investment Interest,585.0,1.3
+South and East,Rest,2012,Rest,3661.0,8.2
+South and East,Rest,2012,Earnings in Labor,6685.0,14.9
+South and East,Rest,2012,Other Earnings in Labor,102.0,0.2
+State,Total,2013,Total Earnings,56073.0,100.0
+State,Total,2013,Earnings in Currency,53493.0,95.4
+State,Total,2013,Earnings from Orthodox Work Relations a.k.a. Job,24617.0,43.8
+State,Total,2013,Earnings from Unorthodox Work Relations,1795.0,3.2
+State,Total,2013,Pensions,18264.0,32.6
+State,Total,2013,Social Sequrity Earnings,1377.0,2.5
+State,Total,2013,"Earnings from Agricultural, Hunting and Fishing Actions",2799.0,5.0
+State,Total,2013,Foreign Earnings,895.0,1.6
+State,Total,2013,Real Estate Earnings,251.0,0.4
+State,Total,2013,Presents,656.0,1.2
+State,Total,2013,Investment Interest,725.0,1.3
+State,Total,2013,Rest,2114.0,3.8
+State,Total,2013,Earnings in Labor,2580.0,4.6
+State,Total,2013,Other Earnings in Labor,67.0,0.1
+State,City,2013,Total Earnings,58534.0,100.0
+State,City,2013,Earnings in Currency,58034.0,99.1
+State,City,2013,Earnings from Orthodox Work Relations a.k.a. Job,29258.0,50.0
+State,City,2013,Earnings from Unorthodox Work Relations,1871.0,3.2
+State,City,2013,Pensions,20280.0,34.6
+State,City,2013,Social Sequrity Earnings,1401.0,2.4
+State,City,2013,"Earnings from Agricultural, Hunting and Fishing Actions",866.0,1.5
+State,City,2013,Foreign Earnings,754.0,1.3
+State,City,2013,Real Estate Earnings,289.0,0.5
+State,City,2013,Presents,790.0,1.3
+State,City,2013,Investment Interest,880.0,1.5
+State,City,2013,Rest,1645.0,2.8
+State,City,2013,Earnings in Labor,500.0,0.9
+State,City,2013,Other Earnings in Labor,45.0,0.1
+State,Rest,2013,Total Earnings,52062.0,100.0
+State,Rest,2013,Earnings in Currency,46103.0,88.6
+State,Rest,2013,Earnings from Orthodox Work Relations a.k.a. Job,17065.0,32.8
+State,Rest,2013,Earnings from Unorthodox Work Relations,1672.0,3.2
+State,Rest,2013,Pensions,14983.0,28.8
+State,Rest,2013,Social Sequrity Earnings,1338.0,2.6
+State,Rest,2013,"Earnings from Agricultural, Hunting and Fishing Actions",5945.0,11.4
+State,Rest,2013,Foreign Earnings,1124.0,2.2
+State,Rest,2013,Real Estate Earnings,191.0,0.4
+State,Rest,2013,Presents,439.0,0.8
+State,Rest,2013,Investment Interest,473.0,0.9
+State,Rest,2013,Rest,2873.0,5.5
+State,Rest,2013,Earnings in Labor,5959.0,11.4
+State,Rest,2013,Other Earnings in Labor,102.0,0.2
+Belgrade,Total,2013,Total Earnings,64535.0,100.0
+Belgrade,Total,2013,Earnings in Currency,63788.0,98.8
+Belgrade,Total,2013,Earnings from Orthodox Work Relations a.k.a. Job,32104.0,49.7
+Belgrade,Total,2013,Earnings from Unorthodox Work Relations,2270.0,3.5
+Belgrade,Total,2013,Pensions,22367.0,34.7
+Belgrade,Total,2013,Social Sequrity Earnings,1196.0,1.9
+Belgrade,Total,2013,"Earnings from Agricultural, Hunting and Fishing Actions",16.0,0.0
+Belgrade,Total,2013,Foreign Earnings,588.0,0.9
+Belgrade,Total,2013,Real Estate Earnings,182.0,0.3
+Belgrade,Total,2013,Presents,1475.0,2.3
+Belgrade,Total,2013,Investment Interest,1050.0,1.6
+Belgrade,Total,2013,Rest,2540.0,3.9
+Belgrade,Total,2013,Earnings in Labor,747.0,1.2
+Belgrade,Total,2013,Other Earnings in Labor,78.0,0.1
+Belgrade,City,2013,Total Earnings,65864.0,100.0
+Belgrade,City,2013,Earnings in Currency,65523.0,99.5
+Belgrade,City,2013,Earnings from Orthodox Work Relations a.k.a. Job,33196.0,50.4
+Belgrade,City,2013,Earnings from Unorthodox Work Relations,2463.0,3.7
+Belgrade,City,2013,Pensions,22959.0,34.9
+Belgrade,City,2013,Social Sequrity Earnings,1156.0,1.8
+Belgrade,City,2013,"Earnings from Agricultural, Hunting and Fishing Actions",5.0,0.0
+Belgrade,City,2013,Foreign Earnings,641.0,1.0
+Belgrade,City,2013,Real Estate Earnings,218.0,0.3
+Belgrade,City,2013,Presents,1531.0,2.3
+Belgrade,City,2013,Investment Interest,1106.0,1.7
+Belgrade,City,2013,Rest,2248.0,3.4
+Belgrade,City,2013,Earnings in Labor,341.0,0.5
+Belgrade,City,2013,Other Earnings in Labor,92.0,0.1
+Belgrade,Rest,2013,Total Earnings,57735.0,100.0
+Belgrade,Rest,2013,Earnings in Currency,54916.0,95.1
+Belgrade,Rest,2013,Earnings from Orthodox Work Relations a.k.a. Job,26523.0,45.9
+Belgrade,Rest,2013,Earnings from Unorthodox Work Relations,1286.0,2.2
+Belgrade,Rest,2013,Pensions,19346.0,33.5
+Belgrade,Rest,2013,Social Sequrity Earnings,1384.0,2.4
+Belgrade,Rest,2013,"Earnings from Agricultural, Hunting and Fishing Actions",72.0,0.1
+Belgrade,Rest,2013,Foreign Earnings,318.0,0.6
+Belgrade,Rest,2013,Real Estate Earnings,0.0,0.0
+Belgrade,Rest,2013,Presents,1190.0,2.1
+Belgrade,Rest,2013,Investment Interest,764.0,1.3
+Belgrade,Rest,2013,Rest,4033.0,7.0
+Belgrade,Rest,2013,Earnings in Labor,2819.0,4.9
+Belgrade,Rest,2013,Other Earnings in Labor,11.0,0.0
+Voyvodina/North,Total,2013,Total Earnings,57862.0,100.0
+Voyvodina/North,Total,2013,Earnings in Currency,55462.0,95.9
+Voyvodina/North,Total,2013,Earnings from Orthodox Work Relations a.k.a. Job,23777.0,41.2
+Voyvodina/North,Total,2013,Earnings from Unorthodox Work Relations,2301.0,4.0
+Voyvodina/North,Total,2013,Pensions,16545.0,28.6
+Voyvodina/North,Total,2013,Social Sequrity Earnings,1987.0,3.4
+Voyvodina/North,Total,2013,"Earnings from Agricultural, Hunting and Fishing Actions",6504.0,11.2
+Voyvodina/North,Total,2013,Foreign Earnings,1384.0,2.4
+Voyvodina/North,Total,2013,Real Estate Earnings,609.0,1.1
+Voyvodina/North,Total,2013,Presents,358.0,0.6
+Voyvodina/North,Total,2013,Investment Interest,640.0,1.1
+Voyvodina/North,Total,2013,Rest,1357.0,2.3
+Voyvodina/North,Total,2013,Earnings in Labor,2400.0,4.1
+Voyvodina/North,Total,2013,Other Earnings in Labor,60.0,0.1
+Voyvodina/North,City,2013,Total Earnings,57792.0,100.0
+Voyvodina/North,City,2013,Earnings in Currency,57004.0,98.6
+Voyvodina/North,City,2013,Earnings from Orthodox Work Relations a.k.a. Job,27860.0,48.2
+Voyvodina/North,City,2013,Earnings from Unorthodox Work Relations,1911.0,3.3
+Voyvodina/North,City,2013,Pensions,19196.0,33.2
+Voyvodina/North,City,2013,Social Sequrity Earnings,2132.0,3.7
+Voyvodina/North,City,2013,"Earnings from Agricultural, Hunting and Fishing Actions",2347.0,4.1
+Voyvodina/North,City,2013,Foreign Earnings,921.0,1.6
+Voyvodina/North,City,2013,Real Estate Earnings,600.0,1.0
+Voyvodina/North,City,2013,Presents,415.0,0.7
+Voyvodina/North,City,2013,Investment Interest,651.0,1.1
+Voyvodina/North,City,2013,Rest,971.0,1.7
+Voyvodina/North,City,2013,Earnings in Labor,788.0,1.4
+Voyvodina/North,City,2013,Other Earnings in Labor,39.0,0.1
+Voyvodina/North,Rest,2013,Total Earnings,57976.0,100.0
+Voyvodina/North,Rest,2013,Earnings in Currency,53061.0,91.5
+Voyvodina/North,Rest,2013,Earnings from Orthodox Work Relations a.k.a. Job,17400.0,30.0
+Voyvodina/North,Rest,2013,Earnings from Unorthodox Work Relations,2909.0,5.0
+Voyvodina/North,Rest,2013,Pensions,12407.0,21.4
+Voyvodina/North,Rest,2013,Social Sequrity Earnings,1759.0,3.0
+Voyvodina/North,Rest,2013,"Earnings from Agricultural, Hunting and Fishing Actions",12997.0,22.4
+Voyvodina/North,Rest,2013,Foreign Earnings,2108.0,3.6
+Voyvodina/North,Rest,2013,Real Estate Earnings,625.0,1.1
+Voyvodina/North,Rest,2013,Presents,270.0,0.5
+Voyvodina/North,Rest,2013,Investment Interest,622.0,1.1
+Voyvodina/North,Rest,2013,Rest,1964.0,3.4
+Voyvodina/North,Rest,2013,Earnings in Labor,4915.0,8.5
+Voyvodina/North,Rest,2013,Other Earnings in Labor,92.0,0.2
+Central and West,Total,2013,Total Earnings,50956.0,100.0
+Central and West,Total,2013,Earnings in Currency,46966.0,92.2
+Central and West,Total,2013,Earnings from Orthodox Work Relations a.k.a. Job,21966.0,43.1
+Central and West,Total,2013,Earnings from Unorthodox Work Relations,954.0,1.9
+Central and West,Total,2013,Pensions,16720.0,32.8
+Central and West,Total,2013,Social Sequrity Earnings,1161.0,2.3
+Central and West,Total,2013,"Earnings from Agricultural, Hunting and Fishing Actions",2642.0,5.2
+Central and West,Total,2013,Foreign Earnings,464.0,0.9
+Central and West,Total,2013,Real Estate Earnings,58.0,0.1
+Central and West,Total,2013,Presents,451.0,0.9
+Central and West,Total,2013,Investment Interest,773.0,1.5
+Central and West,Total,2013,Rest,1777.0,3.5
+Central and West,Total,2013,Earnings in Labor,3990.0,7.8
+Central and West,Total,2013,Other Earnings in Labor,15.0,0.0
+Central and West,City,2013,Total Earnings,53169.0,100.0
+Central and West,City,2013,Earnings in Currency,52775.0,99.3
+Central and West,City,2013,Earnings from Orthodox Work Relations a.k.a. Job,27211.0,51.2
+Central and West,City,2013,Earnings from Unorthodox Work Relations,844.0,1.6
+Central and West,City,2013,Pensions,19225.0,36.2
+Central and West,City,2013,Social Sequrity Earnings,1052.0,2.0
+Central and West,City,2013,"Earnings from Agricultural, Hunting and Fishing Actions",1012.0,1.9
+Central and West,City,2013,Foreign Earnings,537.0,1.0
+Central and West,City,2013,Real Estate Earnings,102.0,0.2
+Central and West,City,2013,Presents,482.0,0.9
+Central and West,City,2013,Investment Interest,1225.0,2.3
+Central and West,City,2013,Rest,1085.0,2.0
+Central and West,City,2013,Earnings in Labor,394.0,0.7
+Central and West,City,2013,Other Earnings in Labor,0.0,0.0
+Central and West,Rest,2013,Total Earnings,48806.0,100.0
+Central and West,Rest,2013,Earnings in Currency,41335.0,84.7
+Central and West,Rest,2013,Earnings from Orthodox Work Relations a.k.a. Job,16887.0,34.6
+Central and West,Rest,2013,Earnings from Unorthodox Work Relations,1061.0,2.2
+Central and West,Rest,2013,Pensions,14294.0,29.3
+Central and West,Rest,2013,Social Sequrity Earnings,1262.0,2.6
+Central and West,Rest,2013,"Earnings from Agricultural, Hunting and Fishing Actions",4219.0,8.6
+Central and West,Rest,2013,Foreign Earnings,393.0,0.8
+Central and West,Rest,2013,Real Estate Earnings,15.0,0.0
+Central and West,Rest,2013,Presents,422.0,0.9
+Central and West,Rest,2013,Investment Interest,335.0,0.7
+Central and West,Rest,2013,Rest,2447.0,5.0
+Central and West,Rest,2013,Earnings in Labor,7471.0,15.3
+Central and West,Rest,2013,Other Earnings in Labor,30.0,0.1
+South and East,Total,2013,Total Earnings,50243.0,100.0
+South and East,Total,2013,Earnings in Currency,47069.0,93.7
+South and East,Total,2013,Earnings from Orthodox Work Relations a.k.a. Job,20318.0,40.4
+South and East,Total,2013,Earnings from Unorthodox Work Relations,1631.0,3.2
+South and East,Total,2013,Pensions,17714.0,35.3
+South and East,Total,2013,Social Sequrity Earnings,1047.0,2.1
+South and East,Total,2013,"Earnings from Agricultural, Hunting and Fishing Actions",1300.0,2.6
+South and East,Total,2013,Foreign Earnings,1151.0,2.3
+South and East,Total,2013,Real Estate Earnings,102.0,0.2
+South and East,Total,2013,Presents,355.0,0.7
+South and East,Total,2013,Investment Interest,395.0,0.8
+South and East,Total,2013,Rest,3056.0,6.1
+South and East,Total,2013,Earnings in Labor,3174.0,6.3
+South and East,Total,2013,Other Earnings in Labor,129.0,0.2
+South and East,City,2013,Total Earnings,52540.0,100.0
+South and East,City,2013,Earnings in Currency,52059.0,99.1
+South and East,City,2013,Earnings from Orthodox Work Relations a.k.a. Job,26577.0,50.6
+South and East,City,2013,Earnings from Unorthodox Work Relations,1926.0,3.7
+South and East,City,2013,Pensions,18267.0,34.8
+South and East,City,2013,Social Sequrity Earnings,1136.0,2.2
+South and East,City,2013,"Earnings from Agricultural, Hunting and Fishing Actions",20.0,0.0
+South and East,City,2013,Foreign Earnings,962.0,1.8
+South and East,City,2013,Real Estate Earnings,167.0,0.3
+South and East,City,2013,Presents,365.0,0.7
+South and East,City,2013,Investment Interest,413.0,0.8
+South and East,City,2013,Rest,2226.0,4.2
+South and East,City,2013,Earnings in Labor,481.0,0.9
+South and East,City,2013,Other Earnings in Labor,22.0,0.0
+South and East,Rest,2013,Total Earnings,47551.0,100.0
+South and East,Rest,2013,Earnings in Currency,41214.0,86.7
+South and East,Rest,2013,Earnings from Orthodox Work Relations a.k.a. Job,12972.0,27.3
+South and East,Rest,2013,Earnings from Unorthodox Work Relations,1286.0,2.7
+South and East,Rest,2013,Pensions,17065.0,35.8
+South and East,Rest,2013,Social Sequrity Earnings,945.0,2.0
+South and East,Rest,2013,"Earnings from Agricultural, Hunting and Fishing Actions",2801.0,5.9
+South and East,Rest,2013,Foreign Earnings,1372.0,2.9
+South and East,Rest,2013,Real Estate Earnings,25.0,0.1
+South and East,Rest,2013,Presents,343.0,0.7
+South and East,Rest,2013,Investment Interest,374.0,0.8
+South and East,Rest,2013,Rest,4031.0,8.5
+South and East,Rest,2013,Earnings in Labor,6337.0,13.3
+South and East,Rest,2013,Other Earnings in Labor,254.0,0.5
+State,Total,2014,Total Earnings,57054.0,100.0
+State,Total,2014,Earnings in Currency,54593.0,95.7
+State,Total,2014,Earnings from Orthodox Work Relations a.k.a. Job,26136.0,45.8
+State,Total,2014,Earnings from Unorthodox Work Relations,1540.0,2.7
+State,Total,2014,Pensions,18117.0,31.8
+State,Total,2014,Social Sequrity Earnings,2113.0,3.7
+State,Total,2014,"Earnings from Agricultural, Hunting and Fishing Actions",3095.0,5.4
+State,Total,2014,Foreign Earnings,717.0,1.3
+State,Total,2014,Real Estate Earnings,363.0,0.6
+State,Total,2014,Presents,500.0,0.9
+State,Total,2014,Investment Interest,0.0,0.0
+State,Total,2014,Rest,2012.0,3.5
+State,Total,2014,Earnings in Labor,2461.0,4.3
+State,Total,2014,Other Earnings in Labor,24.0,0.0
+State,City,2014,Total Earnings,59376.0,100.0
+State,City,2014,Earnings in Currency,58934.0,99.3
+State,City,2014,Earnings from Orthodox Work Relations a.k.a. Job,32035.0,54.1
+State,City,2014,Earnings from Unorthodox Work Relations,1543.0,2.6
+State,City,2014,Pensions,19616.0,33.0
+State,City,2014,Social Sequrity Earnings,2185.0,3.7
+State,City,2014,"Earnings from Agricultural, Hunting and Fishing Actions",382.0,0.6
+State,City,2014,Foreign Earnings,645.0,1.1
+State,City,2014,Real Estate Earnings,351.0,0.6
+State,City,2014,Presents,606.0,1.0
+State,City,2014,Investment Interest,0.0,0.0
+State,City,2014,Rest,1571.0,2.6
+State,City,2014,Earnings in Labor,442.0,0.7
+State,City,2014,Other Earnings in Labor,31.0,0.1
+State,Rest,2014,Total Earnings,53274.0,100.0
+State,Rest,2014,Earnings in Currency,47526.0,89.2
+State,Rest,2014,Earnings from Orthodox Work Relations a.k.a. Job,16539.0,31.1
+State,Rest,2014,Earnings from Unorthodox Work Relations,1534.0,2.9
+State,Rest,2014,Pensions,15679.0,29.4
+State,Rest,2014,Social Sequrity Earnings,1994.0,3.7
+State,Rest,2014,"Earnings from Agricultural, Hunting and Fishing Actions",7509.0,14.1
+State,Rest,2014,Foreign Earnings,835.0,1.6
+State,Rest,2014,Real Estate Earnings,383.0,0.7
+State,Rest,2014,Presents,327.0,0.6
+State,Rest,2014,Investment Interest,0.0,0.0
+State,Rest,2014,Rest,2726.0,5.1
+State,Rest,2014,Earnings in Labor,5748.0,10.8
+State,Rest,2014,Other Earnings in Labor,13.0,0.0
+Belgrade,Total,2014,Total Earnings,67462.0,100.0
+Belgrade,Total,2014,Earnings in Currency,66905.0,99.2
+Belgrade,Total,2014,Earnings from Orthodox Work Relations a.k.a. Job,37576.0,55.7
+Belgrade,Total,2014,Earnings from Unorthodox Work Relations,1638.0,2.4
+Belgrade,Total,2014,Pensions,21242.0,31.5
+Belgrade,Total,2014,Social Sequrity Earnings,2840.0,4.2
+Belgrade,Total,2014,"Earnings from Agricultural, Hunting and Fishing Actions",276.0,0.4
+Belgrade,Total,2014,Foreign Earnings,650.0,1.0
+Belgrade,Total,2014,Real Estate Earnings,425.0,0.6
+Belgrade,Total,2014,Presents,797.0,1.2
+Belgrade,Total,2014,Investment Interest,0.0,0.0
+Belgrade,Total,2014,Rest,1461.0,2.2
+Belgrade,Total,2014,Earnings in Labor,557.0,0.8
+Belgrade,Total,2014,Other Earnings in Labor,87.0,0.1
+Belgrade,City,2014,Total Earnings,69573.0,100.0
+Belgrade,City,2014,Earnings in Currency,69413.0,99.8
+Belgrade,City,2014,Earnings from Orthodox Work Relations a.k.a. Job,39686.0,57.1
+Belgrade,City,2014,Earnings from Unorthodox Work Relations,1825.0,2.6
+Belgrade,City,2014,Pensions,21666.0,31.2
+Belgrade,City,2014,Social Sequrity Earnings,2842.0,4.1
+Belgrade,City,2014,"Earnings from Agricultural, Hunting and Fishing Actions",217.0,0.3
+Belgrade,City,2014,Foreign Earnings,705.0,1.0
+Belgrade,City,2014,Real Estate Earnings,432.0,0.6
+Belgrade,City,2014,Presents,828.0,1.2
+Belgrade,City,2014,Investment Interest,0.0,0.0
+Belgrade,City,2014,Rest,1212.0,1.7
+Belgrade,City,2014,Earnings in Labor,160.0,0.2
+Belgrade,City,2014,Other Earnings in Labor,94.0,0.1
+Belgrade,Rest,2014,Total Earnings,56678.0,100.0
+Belgrade,Rest,2014,Earnings in Currency,54103.0,95.5
+Belgrade,Rest,2014,Earnings from Orthodox Work Relations a.k.a. Job,26795.0,47.4
+Belgrade,Rest,2014,Earnings from Unorthodox Work Relations,677.0,1.2
+Belgrade,Rest,2014,Pensions,19082.0,33.7
+Belgrade,Rest,2014,Social Sequrity Earnings,2843.0,5.0
+Belgrade,Rest,2014,"Earnings from Agricultural, Hunting and Fishing Actions",573.0,1.0
+Belgrade,Rest,2014,Foreign Earnings,366.0,0.6
+Belgrade,Rest,2014,Real Estate Earnings,397.0,0.7
+Belgrade,Rest,2014,Presents,635.0,1.1
+Belgrade,Rest,2014,Investment Interest,0.0,0.0
+Belgrade,Rest,2014,Rest,2735.0,4.8
+Belgrade,Rest,2014,Earnings in Labor,2575.0,4.5
+Belgrade,Rest,2014,Other Earnings in Labor,48.0,0.1
+Voyvodina/North,Total,2014,Total Earnings,56405.0,100.0
+Voyvodina/North,Total,2014,Earnings in Currency,54348.0,96.4
+Voyvodina/North,Total,2014,Earnings from Orthodox Work Relations a.k.a. Job,24421.0,43.3
+Voyvodina/North,Total,2014,Earnings from Unorthodox Work Relations,2050.0,3.6
+Voyvodina/North,Total,2014,Pensions,18403.0,32.6
+Voyvodina/North,Total,2014,Social Sequrity Earnings,1778.0,3.2
+Voyvodina/North,Total,2014,"Earnings from Agricultural, Hunting and Fishing Actions",4899.0,8.7
+Voyvodina/North,Total,2014,Foreign Earnings,774.0,1.4
+Voyvodina/North,Total,2014,Real Estate Earnings,654.0,1.2
+Voyvodina/North,Total,2014,Presents,363.0,0.6
+Voyvodina/North,Total,2014,Investment Interest,0.0,0.0
+Voyvodina/North,Total,2014,Rest,1006.0,1.8
+Voyvodina/North,Total,2014,Earnings in Labor,2057.0,3.6
+Voyvodina/North,Total,2014,Other Earnings in Labor,4.0,0.0
+Voyvodina/North,City,2014,Total Earnings,55845.0,100.0
+Voyvodina/North,City,2014,Earnings in Currency,55135.0,98.7
+Voyvodina/North,City,2014,Earnings from Orthodox Work Relations a.k.a. Job,28292.0,50.7
+Voyvodina/North,City,2014,Earnings from Unorthodox Work Relations,1891.0,3.4
+Voyvodina/North,City,2014,Pensions,20528.0,36.8
+Voyvodina/North,City,2014,Social Sequrity Earnings,1588.0,2.8
+Voyvodina/North,City,2014,"Earnings from Agricultural, Hunting and Fishing Actions",689.0,1.2
+Voyvodina/North,City,2014,Foreign Earnings,627.0,1.1
+Voyvodina/North,City,2014,Real Estate Earnings,460.0,0.8
+Voyvodina/North,City,2014,Presents,451.0,0.8
+Voyvodina/North,City,2014,Investment Interest,0.0,0.0
+Voyvodina/North,City,2014,Rest,609.0,1.1
+Voyvodina/North,City,2014,Earnings in Labor,710.0,1.3
+Voyvodina/North,City,2014,Other Earnings in Labor,0.0,0.0
+Voyvodina/North,Rest,2014,Total Earnings,57279.0,100.0
+Voyvodina/North,Rest,2014,Earnings in Currency,53119.0,92.7
+Voyvodina/North,Rest,2014,Earnings from Orthodox Work Relations a.k.a. Job,18377.0,32.1
+Voyvodina/North,Rest,2014,Earnings from Unorthodox Work Relations,2298.0,4.0
+Voyvodina/North,Rest,2014,Pensions,15082.0,26.3
+Voyvodina/North,Rest,2014,Social Sequrity Earnings,2075.0,3.6
+Voyvodina/North,Rest,2014,"Earnings from Agricultural, Hunting and Fishing Actions",11472.0,20.0
+Voyvodina/North,Rest,2014,Foreign Earnings,1004.0,1.8
+Voyvodina/North,Rest,2014,Real Estate Earnings,957.0,1.7
+Voyvodina/North,Rest,2014,Presents,226.0,0.4
+Voyvodina/North,Rest,2014,Investment Interest,0.0,0.0
+Voyvodina/North,Rest,2014,Rest,1628.0,2.8
+Voyvodina/North,Rest,2014,Earnings in Labor,4160.0,7.3
+Voyvodina/North,Rest,2014,Other Earnings in Labor,11.0,0.0
+Central and West,Total,2014,Total Earnings,54142.0,100.0
+Central and West,Total,2014,Earnings in Currency,49990.0,92.3
+Central and West,Total,2014,Earnings from Orthodox Work Relations a.k.a. Job,22722.0,42.0
+Central and West,Total,2014,Earnings from Unorthodox Work Relations,1199.0,2.2
+Central and West,Total,2014,Pensions,16245.0,30.0
+Central and West,Total,2014,Social Sequrity Earnings,1611.0,3.0
+Central and West,Total,2014,"Earnings from Agricultural, Hunting and Fishing Actions",4886.0,9.0
+Central and West,Total,2014,Foreign Earnings,673.0,1.2
+Central and West,Total,2014,Real Estate Earnings,112.0,0.2
+Central and West,Total,2014,Presents,359.0,0.7
+Central and West,Total,2014,Investment Interest,0.0,0.0
+Central and West,Total,2014,Rest,2183.0,4.0
+Central and West,Total,2014,Earnings in Labor,4152.0,7.7
+Central and West,Total,2014,Other Earnings in Labor,0.0,0.0
+Central and West,City,2014,Total Earnings,54613.0,100.0
+Central and West,City,2014,Earnings in Currency,54231.0,99.3
+Central and West,City,2014,Earnings from Orthodox Work Relations a.k.a. Job,29856.0,54.6
+Central and West,City,2014,Earnings from Unorthodox Work Relations,1032.0,1.9
+Central and West,City,2014,Pensions,18085.0,33.1
+Central and West,City,2014,Social Sequrity Earnings,1657.0,3.0
+Central and West,City,2014,"Earnings from Agricultural, Hunting and Fishing Actions",440.0,0.8
+Central and West,City,2014,Foreign Earnings,744.0,1.4
+Central and West,City,2014,Real Estate Earnings,192.0,0.4
+Central and West,City,2014,Presents,427.0,0.8
+Central and West,City,2014,Investment Interest,0.0,0.0
+Central and West,City,2014,Rest,1798.0,3.3
+Central and West,City,2014,Earnings in Labor,382.0,0.7
+Central and West,City,2014,Other Earnings in Labor,0.0,0.0
+Central and West,Rest,2014,Total Earnings,53688.0,100.0
+Central and West,Rest,2014,Earnings in Currency,45887.0,85.5
+Central and West,Rest,2014,Earnings from Orthodox Work Relations a.k.a. Job,15816.0,29.6
+Central and West,Rest,2014,Earnings from Unorthodox Work Relations,1360.0,2.5
+Central and West,Rest,2014,Pensions,14466.0,26.9
+Central and West,Rest,2014,Social Sequrity Earnings,1567.0,2.9
+Central and West,Rest,2014,"Earnings from Agricultural, Hunting and Fishing Actions",9190.0,17.1
+Central and West,Rest,2014,Foreign Earnings,604.0,1.1
+Central and West,Rest,2014,Real Estate Earnings,35.0,0.1
+Central and West,Rest,2014,Presents,293.0,0.5
+Central and West,Rest,2014,Investment Interest,0.0,0.0
+Central and West,Rest,2014,Rest,2556.0,4.8
+Central and West,Rest,2014,Earnings in Labor,7801.0,14.5
+Central and West,Rest,2014,Other Earnings in Labor,0.0,0.0
+South and East,Total,2014,Total Earnings,49392.0,100.0
+South and East,Total,2014,Earnings in Currency,46302.0,93.7
+South and East,Total,2014,Earnings from Orthodox Work Relations a.k.a. Job,19337.0,39.2
+South and East,Total,2014,Earnings from Unorthodox Work Relations,1175.0,2.4
+South and East,Total,2014,Pensions,16447.0,33.3
+South and East,Total,2014,Social Sequrity Earnings,2341.0,4.7
+South and East,Total,2014,"Earnings from Agricultural, Hunting and Fishing Actions",1702.0,3.4
+South and East,Total,2014,Foreign Earnings,778.0,1.6
+South and East,Total,2014,Real Estate Earnings,219.0,0.4
+South and East,Total,2014,Presents,513.0,1.0
+South and East,Total,2014,Investment Interest,0.0,0.0
+South and East,Total,2014,Rest,3790.0,7.7
+South and East,Total,2014,Earnings in Labor,3090.0,6.3
+South and East,Total,2014,Other Earnings in Labor,8.0,0.0
+South and East,City,2014,Total Earnings,51680.0,100.0
+South and East,City,2014,Earnings in Currency,51063.0,98.8
+South and East,City,2014,Earnings from Orthodox Work Relations a.k.a. Job,26299.0,51.0
+South and East,City,2014,Earnings from Unorthodox Work Relations,1096.0,2.1
+South and East,City,2014,Pensions,16277.0,31.5
+South and East,City,2014,Social Sequrity Earnings,2506.0,4.8
+South and East,City,2014,"Earnings from Agricultural, Hunting and Fishing Actions",149.0,0.3
+South and East,City,2014,Foreign Earnings,447.0,0.9
+South and East,City,2014,Real Estate Earnings,220.0,0.4
+South and East,City,2014,Presents,643.0,1.2
+South and East,City,2014,Investment Interest,0.0,0.0
+South and East,City,2014,Rest,3426.0,6.6
+South and East,City,2014,Earnings in Labor,617.0,1.2
+South and East,City,2014,Other Earnings in Labor,0.0,0.0
+South and East,Rest,2014,Total Earnings,46709.0,100.0
+South and East,Rest,2014,Earnings in Currency,40715.0,87.2
+South and East,Rest,2014,Earnings from Orthodox Work Relations a.k.a. Job,11167.0,23.9
+South and East,Rest,2014,Earnings from Unorthodox Work Relations,1266.0,2.7
+South and East,Rest,2014,Pensions,16647.0,35.7
+South and East,Rest,2014,Social Sequrity Earnings,2150.0,4.6
+South and East,Rest,2014,"Earnings from Agricultural, Hunting and Fishing Actions",3524.0,7.5
+South and East,Rest,2014,Foreign Earnings,1166.0,2.5
+South and East,Rest,2014,Real Estate Earnings,218.0,0.5
+South and East,Rest,2014,Presents,361.0,0.8
+South and East,Rest,2014,Investment Interest,0.0,0.0
+South and East,Rest,2014,Rest,4216.0,9.0
+South and East,Rest,2014,Earnings in Labor,5994.0,12.8
+South and East,Rest,2014,Other Earnings in Labor,17.0,0.0
+State,Total,2015,Total Earnings,57814.0,100.0
+State,Total,2015,Earnings in Currency,55211.0,95.5
+State,Total,2015,Earnings from Orthodox Work Relations a.k.a. Job,27784.0,47.9
+State,Total,2015,Earnings from Unorthodox Work Relations,1712.0,3.0
+State,Total,2015,Pensions,17902.0,31.0
+State,Total,2015,Social Sequrity Earnings,1881.0,3.3
+State,Total,2015,"Earnings from Agricultural, Hunting and Fishing Actions",2899.0,5.0
+State,Total,2015,Foreign Earnings,591.0,1.0
+State,Total,2015,Real Estate Earnings,349.0,0.6
+State,Total,2015,Presents,502.0,0.9
+State,Total,2015,Investment Interest,0.0,0.0
+State,Total,2015,Rest,1591.0,2.8
+State,Total,2015,Earnings in Labor,2603.0,4.5
+State,Total,2015,Other Earnings in Labor,50.0,0.1
+State,City,2015,Total Earnings,60564.0,100.0
+State,City,2015,Earnings in Currency,60048.0,99.1
+State,City,2015,Earnings from Orthodox Work Relations a.k.a. Job,33487.0,55.1
+State,City,2015,Earnings from Unorthodox Work Relations,1728.0,2.9
+State,City,2015,Pensions,19355.0,32.0
+State,City,2015,Social Sequrity Earnings,1823.0,3.0
+State,City,2015,"Earnings from Agricultural, Hunting and Fishing Actions",600.0,1.0
+State,City,2015,Foreign Earnings,675.0,1.1
+State,City,2015,Real Estate Earnings,433.0,0.7
+State,City,2015,Presents,584.0,1.0
+State,City,2015,Investment Interest,0.0,0.0
+State,City,2015,Rest,1363.0,2.3
+State,City,2015,Earnings in Labor,516.0,0.9
+State,City,2015,Other Earnings in Labor,67.0,0.1
+State,Rest,2015,Total Earnings,53342.0,100.0
+State,Rest,2015,Earnings in Currency,47344.0,88.8
+State,Rest,2015,Earnings from Orthodox Work Relations a.k.a. Job,18504.0,34.7
+State,Rest,2015,Earnings from Unorthodox Work Relations,1686.0,3.2
+State,Rest,2015,Pensions,15539.0,29.1
+State,Rest,2015,Social Sequrity Earnings,1979.0,3.7
+State,Rest,2015,"Earnings from Agricultural, Hunting and Fishing Actions",6639.0,12.4
+State,Rest,2015,Foreign Earnings,456.0,0.9
+State,Rest,2015,Real Estate Earnings,212.0,0.4
+State,Rest,2015,Presents,369.0,0.7
+State,Rest,2015,Investment Interest,0.0,0.0
+State,Rest,2015,Rest,1960.0,3.7
+State,Rest,2015,Earnings in Labor,5998.0,11.2
+State,Rest,2015,Other Earnings in Labor,23.0,0.0
+Belgrade,Total,2015,Total Earnings,69503.0,100.0
+Belgrade,Total,2015,Earnings in Currency,68906.0,99.1
+Belgrade,Total,2015,Earnings from Orthodox Work Relations a.k.a. Job,39909.0,57.4
+Belgrade,Total,2015,Earnings from Unorthodox Work Relations,1760.0,2.5
+Belgrade,Total,2015,Pensions,21099.0,30.4
+Belgrade,Total,2015,Social Sequrity Earnings,2041.0,2.9
+Belgrade,Total,2015,"Earnings from Agricultural, Hunting and Fishing Actions",212.0,0.3
+Belgrade,Total,2015,Foreign Earnings,523.0,0.8
+Belgrade,Total,2015,Real Estate Earnings,659.0,0.9
+Belgrade,Total,2015,Presents,763.0,1.1
+Belgrade,Total,2015,Investment Interest,0.0,0.0
+Belgrade,Total,2015,Rest,1940.0,2.8
+Belgrade,Total,2015,Earnings in Labor,597.0,0.9
+Belgrade,Total,2015,Other Earnings in Labor,134.0,0.2
+Belgrade,City,2015,Total Earnings,71402.0,100.0
+Belgrade,City,2015,Earnings in Currency,71166.0,99.7
+Belgrade,City,2015,Earnings from Orthodox Work Relations a.k.a. Job,42125.0,59.0
+Belgrade,City,2015,Earnings from Unorthodox Work Relations,1850.0,2.6
+Belgrade,City,2015,Pensions,21829.0,30.6
+Belgrade,City,2015,Social Sequrity Earnings,1890.0,2.6
+Belgrade,City,2015,"Earnings from Agricultural, Hunting and Fishing Actions",49.0,0.1
+Belgrade,City,2015,Foreign Earnings,620.0,0.9
+Belgrade,City,2015,Real Estate Earnings,679.0,1.0
+Belgrade,City,2015,Presents,746.0,1.0
+Belgrade,City,2015,Investment Interest,0.0,0.0
+Belgrade,City,2015,Rest,1378.0,1.9
+Belgrade,City,2015,Earnings in Labor,236.0,0.3
+Belgrade,City,2015,Other Earnings in Labor,158.0,0.2
+Belgrade,Rest,2015,Total Earnings,59802.0,100.0
+Belgrade,Rest,2015,Earnings in Currency,57358.0,95.9
+Belgrade,Rest,2015,Earnings from Orthodox Work Relations a.k.a. Job,28585.0,47.9
+Belgrade,Rest,2015,Earnings from Unorthodox Work Relations,1302.0,2.2
+Belgrade,Rest,2015,Pensions,17363.0,29.1
+Belgrade,Rest,2015,Social Sequrity Earnings,2813.0,4.7
+Belgrade,Rest,2015,"Earnings from Agricultural, Hunting and Fishing Actions",1045.0,1.7
+Belgrade,Rest,2015,Foreign Earnings,29.0,0.0
+Belgrade,Rest,2015,Real Estate Earnings,561.0,0.9
+Belgrade,Rest,2015,Presents,851.0,1.4
+Belgrade,Rest,2015,Investment Interest,0.0,0.0
+Belgrade,Rest,2015,Rest,4809.0,8.0
+Belgrade,Rest,2015,Earnings in Labor,2444.0,4.1
+Belgrade,Rest,2015,Other Earnings in Labor,14.0,0.0
+Voyvodina/North,Total,2015,Total Earnings,54641.0,100.0
+Voyvodina/North,Total,2015,Earnings in Currency,52843.0,96.7
+Voyvodina/North,Total,2015,Earnings from Orthodox Work Relations a.k.a. Job,26712.0,48.9
+Voyvodina/North,Total,2015,Earnings from Unorthodox Work Relations,2041.0,3.7
+Voyvodina/North,Total,2015,Pensions,16150.0,29.6
+Voyvodina/North,Total,2015,Social Sequrity Earnings,1769.0,3.2
+Voyvodina/North,Total,2015,"Earnings from Agricultural, Hunting and Fishing Actions",3630.0,6.6
+Voyvodina/North,Total,2015,Foreign Earnings,751.0,1.4
+Voyvodina/North,Total,2015,Real Estate Earnings,334.0,0.6
+Voyvodina/North,Total,2015,Presents,410.0,0.8
+Voyvodina/North,Total,2015,Investment Interest,0.0,0.0
+Voyvodina/North,Total,2015,Rest,1046.0,1.9
+Voyvodina/North,Total,2015,Earnings in Labor,1798.0,3.3
+Voyvodina/North,Total,2015,Other Earnings in Labor,36.0,0.1
+Voyvodina/North,City,2015,Total Earnings,57897.0,100.0
+Voyvodina/North,City,2015,Earnings in Currency,57133.0,98.7
+Voyvodina/North,City,2015,Earnings from Orthodox Work Relations a.k.a. Job,31233.0,54.0
+Voyvodina/North,City,2015,Earnings from Unorthodox Work Relations,2111.0,3.6
+Voyvodina/North,City,2015,Pensions,18451.0,32.0
+Voyvodina/North,City,2015,Social Sequrity Earnings,1581.0,2.7
+Voyvodina/North,City,2015,"Earnings from Agricultural, Hunting and Fishing Actions",1237.0,2.1
+Voyvodina/North,City,2015,Foreign Earnings,846.0,1.5
+Voyvodina/North,City,2015,Real Estate Earnings,307.0,0.5
+Voyvodina/North,City,2015,Presents,428.0,0.7
+Voyvodina/North,City,2015,Investment Interest,0.0,0.0
+Voyvodina/North,City,2015,Rest,939.0,1.6
+Voyvodina/North,City,2015,Earnings in Labor,764.0,1.3
+Voyvodina/North,City,2015,Other Earnings in Labor,44.0,0.1
+Voyvodina/North,Rest,2015,Total Earnings,49550.0,100.0
+Voyvodina/North,Rest,2015,Earnings in Currency,46135.0,93.1
+Voyvodina/North,Rest,2015,Earnings from Orthodox Work Relations a.k.a. Job,19652.0,39.7
+Voyvodina/North,Rest,2015,Earnings from Unorthodox Work Relations,1934.0,3.9
+Voyvodina/North,Rest,2015,Pensions,12556.0,25.3
+Voyvodina/North,Rest,2015,Social Sequrity Earnings,2054.0,4.1
+Voyvodina/North,Rest,2015,"Earnings from Agricultural, Hunting and Fishing Actions",7368.0,14.9
+Voyvodina/North,Rest,2015,Foreign Earnings,602.0,1.2
+Voyvodina/North,Rest,2015,Real Estate Earnings,377.0,0.8
+Voyvodina/North,Rest,2015,Presents,381.0,0.8
+Voyvodina/North,Rest,2015,Investment Interest,0.0,0.0
+Voyvodina/North,Rest,2015,Rest,1211.0,2.4
+Voyvodina/North,Rest,2015,Earnings in Labor,3415.0,6.9
+Voyvodina/North,Rest,2015,Other Earnings in Labor,25.0,0.1
+Central and West,Total,2015,Total Earnings,53088.0,100.0
+Central and West,Total,2015,Earnings in Currency,48573.0,91.5
+Central and West,Total,2015,Earnings from Orthodox Work Relations a.k.a. Job,21686.0,40.8
+Central and West,Total,2015,Earnings from Unorthodox Work Relations,1095.0,2.1
+Central and West,Total,2015,Pensions,16824.0,31.7
+Central and West,Total,2015,Social Sequrity Earnings,1716.0,3.2
+Central and West,Total,2015,"Earnings from Agricultural, Hunting and Fishing Actions",4557.0,8.6
+Central and West,Total,2015,Foreign Earnings,359.0,0.7
+Central and West,Total,2015,Real Estate Earnings,157.0,0.3
+Central and West,Total,2015,Presents,455.0,0.9
+Central and West,Total,2015,Investment Interest,0.0,0.0
+Central and West,Total,2015,Rest,1724.0,3.2
+Central and West,Total,2015,Earnings in Labor,4515.0,8.5
+Central and West,Total,2015,Other Earnings in Labor,16.0,0.0
+Central and West,City,2015,Total Earnings,53092.0,100.0
+Central and West,City,2015,Earnings in Currency,52645.0,99.2
+Central and West,City,2015,Earnings from Orthodox Work Relations a.k.a. Job,27633.0,52.1
+Central and West,City,2015,Earnings from Unorthodox Work Relations,986.0,1.9
+Central and West,City,2015,Pensions,18407.0,34.7
+Central and West,City,2015,Social Sequrity Earnings,1878.0,3.5
+Central and West,City,2015,"Earnings from Agricultural, Hunting and Fishing Actions",887.0,1.7
+Central and West,City,2015,Foreign Earnings,438.0,0.8
+Central and West,City,2015,Real Estate Earnings,312.0,0.6
+Central and West,City,2015,Presents,557.0,1.0
+Central and West,City,2015,Investment Interest,0.0,0.0
+Central and West,City,2015,Rest,1547.0,2.9
+Central and West,City,2015,Earnings in Labor,447.0,0.8
+Central and West,City,2015,Other Earnings in Labor,0.0,0.0
+Central and West,Rest,2015,Total Earnings,53086.0,100.0
+Central and West,Rest,2015,Earnings in Currency,44632.0,84.1
+Central and West,Rest,2015,Earnings from Orthodox Work Relations a.k.a. Job,15929.0,30.0
+Central and West,Rest,2015,Earnings from Unorthodox Work Relations,1201.0,2.3
+Central and West,Rest,2015,Pensions,15292.0,28.8
+Central and West,Rest,2015,Social Sequrity Earnings,1561.0,2.9
+Central and West,Rest,2015,"Earnings from Agricultural, Hunting and Fishing Actions",8109.0,15.3
+Central and West,Rest,2015,Foreign Earnings,282.0,0.5
+Central and West,Rest,2015,Real Estate Earnings,7.0,0.0
+Central and West,Rest,2015,Presents,355.0,0.7
+Central and West,Rest,2015,Investment Interest,0.0,0.0
+Central and West,Rest,2015,Rest,1896.0,3.6
+Central and West,Rest,2015,Earnings in Labor,8454.0,15.9
+Central and West,Rest,2015,Other Earnings in Labor,32.0,0.1
+South and East,Total,2015,Total Earnings,54357.0,100.0
+South and East,Total,2015,Earnings in Currency,50758.0,93.4
+South and East,Total,2015,Earnings from Orthodox Work Relations a.k.a. Job,22745.0,41.8
+South and East,Total,2015,Earnings from Unorthodox Work Relations,2002.0,3.7
+South and East,Total,2015,Pensions,17872.0,32.9
+South and East,Total,2015,Social Sequrity Earnings,2058.0,3.8
+South and East,Total,2015,"Earnings from Agricultural, Hunting and Fishing Actions",2959.0,5.4
+South and East,Total,2015,Foreign Earnings,753.0,1.4
+South and East,Total,2015,Real Estate Earnings,247.0,0.5
+South and East,Total,2015,Presents,381.0,0.7
+South and East,Total,2015,Investment Interest,0.0,0.0
+South and East,Total,2015,Rest,1741.0,3.2
+South and East,Total,2015,Earnings in Labor,3599.0,6.6
+South and East,Total,2015,Other Earnings in Labor,13.0,0.0
+South and East,City,2015,Total Earnings,53550.0,100.0
+South and East,City,2015,Earnings in Currency,52820.0,98.6
+South and East,City,2015,Earnings from Orthodox Work Relations a.k.a. Job,27974.0,52.3
+South and East,City,2015,Earnings from Unorthodox Work Relations,1790.0,3.3
+South and East,City,2015,Pensions,17318.0,32.3
+South and East,City,2015,Social Sequrity Earnings,2002.0,3.7
+South and East,City,2015,"Earnings from Agricultural, Hunting and Fishing Actions",304.0,0.6
+South and East,City,2015,Foreign Earnings,789.0,1.5
+South and East,City,2015,Real Estate Earnings,314.0,0.6
+South and East,City,2015,Presents,559.0,1.0
+South and East,City,2015,Investment Interest,0.0,0.0
+South and East,City,2015,Rest,1770.0,3.3
+South and East,City,2015,Earnings in Labor,730.0,1.4
+South and East,City,2015,Other Earnings in Labor,13.0,0.0
+South and East,Rest,2015,Total Earnings,55306.0,100.0
+South and East,Rest,2015,Earnings in Currency,48340.0,87.4
+South and East,Rest,2015,Earnings from Orthodox Work Relations a.k.a. Job,16607.0,30.0
+South and East,Rest,2015,Earnings from Unorthodox Work Relations,2250.0,4.1
+South and East,Rest,2015,Pensions,18523.0,33.5
+South and East,Rest,2015,Social Sequrity Earnings,2123.0,3.8
+South and East,Rest,2015,"Earnings from Agricultural, Hunting and Fishing Actions",6076.0,11.0
+South and East,Rest,2015,Foreign Earnings,712.0,1.3
+South and East,Rest,2015,Real Estate Earnings,168.0,0.3
+South and East,Rest,2015,Presents,172.0,0.3
+South and East,Rest,2015,Investment Interest,0.0,0.0
+South and East,Rest,2015,Rest,1709.0,3.1
+South and East,Rest,2015,Earnings in Labor,6966.0,12.6
+South and East,Rest,2015,Other Earnings in Labor,13.0,0.0
+State,Total,2016,Total Earnings,59624.0,100.0
+State,Total,2016,Earnings in Currency,57028.0,95.6
+State,Total,2016,Earnings from Orthodox Work Relations a.k.a. Job,29310.0,49.2
+State,Total,2016,Earnings from Unorthodox Work Relations,1512.0,2.5
+State,Total,2016,Pensions,18444.0,30.9
+State,Total,2016,Social Sequrity Earnings,1806.0,3.0
+State,Total,2016,"Earnings from Agricultural, Hunting and Fishing Actions",2688.0,4.5
+State,Total,2016,Foreign Earnings,652.0,1.1
+State,Total,2016,Real Estate Earnings,416.0,0.7
+State,Total,2016,Presents,574.0,1.0
+State,Total,2016,Investment Interest,0.0,0.0
+State,Total,2016,Rest,1626.0,2.7
+State,Total,2016,Earnings in Labor,2596.0,4.4
+State,Total,2016,Other Earnings in Labor,57.0,0.1
+State,City,2016,Total Earnings,62336.0,100.0
+State,City,2016,Earnings in Currency,61792.0,99.1
+State,City,2016,Earnings from Orthodox Work Relations a.k.a. Job,34782.0,55.9
+State,City,2016,Earnings from Unorthodox Work Relations,1521.0,2.4
+State,City,2016,Pensions,19993.0,32.1
+State,City,2016,Social Sequrity Earnings,1763.0,2.8
+State,City,2016,"Earnings from Agricultural, Hunting and Fishing Actions",581.0,0.9
+State,City,2016,Foreign Earnings,700.0,1.1
+State,City,2016,Real Estate Earnings,463.0,0.7
+State,City,2016,Presents,666.0,1.1
+State,City,2016,Investment Interest,0.0,0.0
+State,City,2016,Rest,1323.0,2.1
+State,City,2016,Earnings in Labor,544.0,0.9
+State,City,2016,Other Earnings in Labor,62.0,0.1
+State,Rest,2016,Total Earnings,55210.0,100.0
+State,Rest,2016,Earnings in Currency,49280.0,89.3
+State,Rest,2016,Earnings from Orthodox Work Relations a.k.a. Job,20406.0,37.1
+State,Rest,2016,Earnings from Unorthodox Work Relations,1497.0,2.7
+State,Rest,2016,Pensions,15923.0,28.8
+State,Rest,2016,Social Sequrity Earnings,1874.0,3.4
+State,Rest,2016,"Earnings from Agricultural, Hunting and Fishing Actions",6118.0,11.1
+State,Rest,2016,Foreign Earnings,573.0,1.0
+State,Rest,2016,Real Estate Earnings,341.0,0.6
+State,Rest,2016,Presents,425.0,0.8
+State,Rest,2016,Investment Interest,0.0,0.0
+State,Rest,2016,Rest,2123.0,3.8
+State,Rest,2016,Earnings in Labor,5930.0,10.7
+State,Rest,2016,Other Earnings in Labor,48.0,0.1
+Belgrade,Total,2016,Total Earnings,71611.0,100.0
+Belgrade,Total,2016,Earnings in Currency,70804.0,98.9
+Belgrade,Total,2016,Earnings from Orthodox Work Relations a.k.a. Job,41817.0,58.5
+Belgrade,Total,2016,Earnings from Unorthodox Work Relations,1799.0,2.5
+Belgrade,Total,2016,Pensions,21703.0,30.3
+Belgrade,Total,2016,Social Sequrity Earnings,1591.0,2.2
+Belgrade,Total,2016,"Earnings from Agricultural, Hunting and Fishing Actions",242.0,0.3
+Belgrade,Total,2016,Foreign Earnings,499.0,0.7
+Belgrade,Total,2016,Real Estate Earnings,769.0,1.1
+Belgrade,Total,2016,Presents,708.0,1.0
+Belgrade,Total,2016,Investment Interest,0.0,0.0
+Belgrade,Total,2016,Rest,1676.0,2.3
+Belgrade,Total,2016,Earnings in Labor,807.0,1.1
+Belgrade,Total,2016,Other Earnings in Labor,126.0,0.2
+Belgrade,City,2016,Total Earnings,73405.0,100.0
+Belgrade,City,2016,Earnings in Currency,73092.0,99.6
+Belgrade,City,2016,Earnings from Orthodox Work Relations a.k.a. Job,44459.0,60.5
+Belgrade,City,2016,Earnings from Unorthodox Work Relations,1807.0,2.5
+Belgrade,City,2016,Pensions,21865.0,29.8
+Belgrade,City,2016,Social Sequrity Earnings,1476.0,2.0
+Belgrade,City,2016,"Earnings from Agricultural, Hunting and Fishing Actions",39.0,0.1
+Belgrade,City,2016,Foreign Earnings,536.0,0.7
+Belgrade,City,2016,Real Estate Earnings,787.0,1.1
+Belgrade,City,2016,Presents,698.0,1.0
+Belgrade,City,2016,Investment Interest,0.0,0.0
+Belgrade,City,2016,Rest,1425.0,1.9
+Belgrade,City,2016,Earnings in Labor,313.0,0.4
+Belgrade,City,2016,Other Earnings in Labor,144.0,0.2
+Belgrade,Rest,2016,Total Earnings,62444.0,100.0
+Belgrade,Rest,2016,Earnings in Currency,59096.0,94.6
+Belgrade,Rest,2016,Earnings from Orthodox Work Relations a.k.a. Job,28315.0,45.4
+Belgrade,Rest,2016,Earnings from Unorthodox Work Relations,1758.0,2.8
+Belgrade,Rest,2016,Pensions,20880.0,33.4
+Belgrade,Rest,2016,Social Sequrity Earnings,2165.0,3.5
+Belgrade,Rest,2016,"Earnings from Agricultural, Hunting and Fishing Actions",1277.0,2.0
+Belgrade,Rest,2016,Foreign Earnings,312.0,0.5
+Belgrade,Rest,2016,Real Estate Earnings,678.0,1.1
+Belgrade,Rest,2016,Presents,760.0,1.2
+Belgrade,Rest,2016,Investment Interest,0.0,0.0
+Belgrade,Rest,2016,Rest,2951.0,4.7
+Belgrade,Rest,2016,Earnings in Labor,3348.0,5.4
+Belgrade,Rest,2016,Other Earnings in Labor,36.0,0.1
+Voyvodina/North,Total,2016,Total Earnings,56468.0,100.0
+Voyvodina/North,Total,2016,Earnings in Currency,54584.0,96.7
+Voyvodina/North,Total,2016,Earnings from Orthodox Work Relations a.k.a. Job,27649.0,49.0
+Voyvodina/North,Total,2016,Earnings from Unorthodox Work Relations,1742.0,3.1
+Voyvodina/North,Total,2016,Pensions,17259.0,30.6
+Voyvodina/North,Total,2016,Social Sequrity Earnings,1775.0,3.1
+Voyvodina/North,Total,2016,"Earnings from Agricultural, Hunting and Fishing Actions",3241.0,5.7
+Voyvodina/North,Total,2016,Foreign Earnings,846.0,1.5
+Voyvodina/North,Total,2016,Real Estate Earnings,484.0,0.9
+Voyvodina/North,Total,2016,Presents,658.0,1.2
+Voyvodina/North,Total,2016,Investment Interest,0.0,0.0
+Voyvodina/North,Total,2016,Rest,930.0,1.6
+Voyvodina/North,Total,2016,Earnings in Labor,1884.0,3.3
+Voyvodina/North,Total,2016,Other Earnings in Labor,38.0,0.1
+Voyvodina/North,City,2016,Total Earnings,57567.0,100.0
+Voyvodina/North,City,2016,Earnings in Currency,56762.0,98.6
+Voyvodina/North,City,2016,Earnings from Orthodox Work Relations a.k.a. Job,30145.0,52.4
+Voyvodina/North,City,2016,Earnings from Unorthodox Work Relations,1629.0,2.8
+Voyvodina/North,City,2016,Pensions,19300.0,33.5
+Voyvodina/North,City,2016,Social Sequrity Earnings,1675.0,2.9
+Voyvodina/North,City,2016,"Earnings from Agricultural, Hunting and Fishing Actions",1311.0,2.3
+Voyvodina/North,City,2016,Foreign Earnings,968.0,1.7
+Voyvodina/North,City,2016,Real Estate Earnings,430.0,0.7
+Voyvodina/North,City,2016,Presents,683.0,1.2
+Voyvodina/North,City,2016,Investment Interest,0.0,0.0
+Voyvodina/North,City,2016,Rest,621.0,1.1
+Voyvodina/North,City,2016,Earnings in Labor,805.0,1.4
+Voyvodina/North,City,2016,Other Earnings in Labor,32.0,0.1
+Voyvodina/North,Rest,2016,Total Earnings,54745.0,100.0
+Voyvodina/North,Rest,2016,Earnings in Currency,51176.0,93.5
+Voyvodina/North,Rest,2016,Earnings from Orthodox Work Relations a.k.a. Job,23752.0,43.5
+Voyvodina/North,Rest,2016,Earnings from Unorthodox Work Relations,1918.0,3.5
+Voyvodina/North,Rest,2016,Pensions,14074.0,25.7
+Voyvodina/North,Rest,2016,Social Sequrity Earnings,1925.0,3.5
+Voyvodina/North,Rest,2016,"Earnings from Agricultural, Hunting and Fishing Actions",6253.0,11.4
+Voyvodina/North,Rest,2016,Foreign Earnings,656.0,1.2
+Voyvodina/North,Rest,2016,Real Estate Earnings,568.0,1.0
+Voyvodina/North,Rest,2016,Presents,618.0,1.1
+Voyvodina/North,Rest,2016,Investment Interest,0.0,0.0
+Voyvodina/North,Rest,2016,Rest,1412.0,2.6
+Voyvodina/North,Rest,2016,Earnings in Labor,3569.0,6.5
+Voyvodina/North,Rest,2016,Other Earnings in Labor,47.0,0.1
+Central and West,Total,2016,Total Earnings,55917.0,100.0
+Central and West,Total,2016,Earnings in Currency,51710.0,92.5
+Central and West,Total,2016,Earnings from Orthodox Work Relations a.k.a. Job,24106.0,43.1
+Central and West,Total,2016,Earnings from Unorthodox Work Relations,1028.0,1.8
+Central and West,Total,2016,Pensions,16810.0,30.1
+Central and West,Total,2016,Social Sequrity Earnings,2058.0,3.7
+Central and West,Total,2016,"Earnings from Agricultural, Hunting and Fishing Actions",4428.0,7.9
+Central and West,Total,2016,Foreign Earnings,511.0,0.9
+Central and West,Total,2016,Real Estate Earnings,204.0,0.4
+Central and West,Total,2016,Presents,460.0,0.8
+Central and West,Total,2016,Investment Interest,0.0,0.0
+Central and West,Total,2016,Rest,2105.0,3.8
+Central and West,Total,2016,Earnings in Labor,4207.0,7.5
+Central and West,Total,2016,Other Earnings in Labor,34.0,0.1
+Central and West,City,2016,Total Earnings,56871.0,100.0
+Central and West,City,2016,Earnings in Currency,56190.0,98.8
+Central and West,City,2016,Earnings from Orthodox Work Relations a.k.a. Job,30063.0,52.9
+Central and West,City,2016,Earnings from Unorthodox Work Relations,804.0,1.4
+Central and West,City,2016,Pensions,19196.0,33.8
+Central and West,City,2016,Social Sequrity Earnings,2303.0,4.0
+Central and West,City,2016,"Earnings from Agricultural, Hunting and Fishing Actions",729.0,1.3
+Central and West,City,2016,Foreign Earnings,443.0,0.8
+Central and West,City,2016,Real Estate Earnings,192.0,0.3
+Central and West,City,2016,Presents,691.0,1.2
+Central and West,City,2016,Investment Interest,0.0,0.0
+Central and West,City,2016,Rest,1769.0,3.1
+Central and West,City,2016,Earnings in Labor,681.0,1.2
+Central and West,City,2016,Other Earnings in Labor,29.0,0.1
+Central and West,Rest,2016,Total Earnings,54991.0,100.0
+Central and West,Rest,2016,Earnings in Currency,47371.0,86.1
+Central and West,Rest,2016,Earnings from Orthodox Work Relations a.k.a. Job,18339.0,33.3
+Central and West,Rest,2016,Earnings from Unorthodox Work Relations,1245.0,2.3
+Central and West,Rest,2016,Pensions,14500.0,26.4
+Central and West,Rest,2016,Social Sequrity Earnings,1820.0,3.3
+Central and West,Rest,2016,"Earnings from Agricultural, Hunting and Fishing Actions",8010.0,14.6
+Central and West,Rest,2016,Foreign Earnings,575.0,1.0
+Central and West,Rest,2016,Real Estate Earnings,215.0,0.4
+Central and West,Rest,2016,Presents,237.0,0.4
+Central and West,Rest,2016,Investment Interest,0.0,0.0
+Central and West,Rest,2016,Rest,2430.0,4.4
+Central and West,Rest,2016,Earnings in Labor,7620.0,13.9
+Central and West,Rest,2016,Other Earnings in Labor,39.0,0.1
+South and East,Total,2016,Total Earnings,54496.0,100.0
+South and East,Total,2016,Earnings in Currency,50899.0,93.4
+South and East,Total,2016,Earnings from Orthodox Work Relations a.k.a. Job,23467.0,43.0
+South and East,Total,2016,Earnings from Unorthodox Work Relations,1483.0,2.7
+South and East,Total,2016,Pensions,18286.0,33.6
+South and East,Total,2016,Social Sequrity Earnings,1782.0,3.3
+South and East,Total,2016,"Earnings from Agricultural, Hunting and Fishing Actions",2603.0,4.8
+South and East,Total,2016,Foreign Earnings,750.0,1.4
+South and East,Total,2016,Real Estate Earnings,181.0,0.3
+South and East,Total,2016,Presents,450.0,0.8
+South and East,Total,2016,Investment Interest,0.0,0.0
+South and East,Total,2016,Rest,1897.0,3.5
+South and East,Total,2016,Earnings in Labor,3597.0,6.6
+South and East,Total,2016,Other Earnings in Labor,31.0,0.1
+South and East,City,2016,Total Earnings,55750.0,100.0
+South and East,City,2016,Earnings in Currency,55324.0,99.2
+South and East,City,2016,Earnings from Orthodox Work Relations a.k.a. Job,29662.0,53.2
+South and East,City,2016,Earnings from Unorthodox Work Relations,1670.0,3.0
+South and East,City,2016,Pensions,18559.0,33.3
+South and East,City,2016,Social Sequrity Earnings,1790.0,3.2
+South and East,City,2016,"Earnings from Agricultural, Hunting and Fishing Actions",289.0,0.5
+South and East,City,2016,Foreign Earnings,889.0,1.6
+South and East,City,2016,Real Estate Earnings,235.0,0.4
+South and East,City,2016,Presents,551.0,1.0
+South and East,City,2016,Investment Interest,0.0,0.0
+South and East,City,2016,Rest,1679.0,3.0
+South and East,City,2016,Earnings in Labor,426.0,0.8
+South and East,City,2016,Other Earnings in Labor,0.0,0.0
+South and East,Rest,2016,Total Earnings,53020.0,100.0
+South and East,Rest,2016,Earnings in Currency,45704.0,86.2
+South and East,Rest,2016,Earnings from Orthodox Work Relations a.k.a. Job,16196.0,30.6
+South and East,Rest,2016,Earnings from Unorthodox Work Relations,1263.0,2.4
+South and East,Rest,2016,Pensions,17966.0,33.9
+South and East,Rest,2016,Social Sequrity Earnings,1774.0,3.3
+South and East,Rest,2016,"Earnings from Agricultural, Hunting and Fishing Actions",5320.0,10.0
+South and East,Rest,2016,Foreign Earnings,586.0,1.1
+South and East,Rest,2016,Real Estate Earnings,117.0,0.2
+South and East,Rest,2016,Presents,331.0,0.6
+South and East,Rest,2016,Investment Interest,0.0,0.0
+South and East,Rest,2016,Rest,2151.0,4.1
+South and East,Rest,2016,Earnings in Labor,7316.0,13.8
+South and East,Rest,2016,Other Earnings in Labor,67.0,0.1
+State,Total,2017,Total Earnings,61407.0,100.0
+State,Total,2017,Earnings in Currency,59128.0,96.3
+State,Total,2017,Earnings from Orthodox Work Relations a.k.a. Job,30422.0,49.6
+State,Total,2017,Earnings from Unorthodox Work Relations,1731.0,2.8
+State,Total,2017,Pensions,19536.0,31.9
+State,Total,2017,Social Sequrity Earnings,1613.0,2.6
+State,Total,2017,"Earnings from Agricultural, Hunting and Fishing Actions",2628.0,4.3
+State,Total,2017,Foreign Earnings,688.0,1.1
+State,Total,2017,Real Estate Earnings,388.0,0.6
+State,Total,2017,Presents,454.0,0.7
+State,Total,2017,Investment Interest,0.0,0.0
+State,Total,2017,Rest,1668.0,2.7
+State,Total,2017,Earnings in Labor,2279.0,3.7
+State,Total,2017,Other Earnings in Labor,53.0,0.1
+State,City,2017,Total Earnings,63906.0,100.0
+State,City,2017,Earnings in Currency,63437.0,99.3
+State,City,2017,Earnings from Orthodox Work Relations a.k.a. Job,35523.0,55.7
+State,City,2017,Earnings from Unorthodox Work Relations,1757.0,2.7
+State,City,2017,Pensions,20936.0,32.8
+State,City,2017,Social Sequrity Earnings,1444.0,2.3
+State,City,2017,"Earnings from Agricultural, Hunting and Fishing Actions",714.0,1.1
+State,City,2017,Foreign Earnings,656.0,1.0
+State,City,2017,Real Estate Earnings,411.0,0.6
+State,City,2017,Presents,511.0,0.8
+State,City,2017,Investment Interest,0.0,0.0
+State,City,2017,Rest,1485.0,2.3
+State,City,2017,Earnings in Labor,469.0,0.7
+State,City,2017,Other Earnings in Labor,53.0,0.1
+State,Rest,2017,Total Earnings,57343.0,100.0
+State,Rest,2017,Earnings in Currency,52118.0,90.9
+State,Rest,2017,Earnings from Orthodox Work Relations a.k.a. Job,22123.0,38.7
+State,Rest,2017,Earnings from Unorthodox Work Relations,1689.0,2.9
+State,Rest,2017,Pensions,17258.0,30.1
+State,Rest,2017,Social Sequrity Earnings,1887.0,3.3
+State,Rest,2017,"Earnings from Agricultural, Hunting and Fishing Actions",5744.0,10.0
+State,Rest,2017,Foreign Earnings,739.0,1.3
+State,Rest,2017,Real Estate Earnings,350.0,0.6
+State,Rest,2017,Presents,361.0,0.6
+State,Rest,2017,Investment Interest,0.0,0.0
+State,Rest,2017,Rest,1967.0,3.4
+State,Rest,2017,Earnings in Labor,5225.0,9.1
+State,Rest,2017,Other Earnings in Labor,53.0,0.1
+Belgrade,Total,2017,Total Earnings,72818.0,100.0
+Belgrade,Total,2017,Earnings in Currency,72210.0,99.2
+Belgrade,Total,2017,Earnings from Orthodox Work Relations a.k.a. Job,41943.0,57.6
+Belgrade,Total,2017,Earnings from Unorthodox Work Relations,2054.0,2.8
+Belgrade,Total,2017,Pensions,23285.0,32.0
+Belgrade,Total,2017,Social Sequrity Earnings,1313.0,1.8
+Belgrade,Total,2017,"Earnings from Agricultural, Hunting and Fishing Actions",208.0,0.3
+Belgrade,Total,2017,Foreign Earnings,474.0,0.7
+Belgrade,Total,2017,Real Estate Earnings,513.0,0.7
+Belgrade,Total,2017,Presents,731.0,1.0
+Belgrade,Total,2017,Investment Interest,0.0,0.0
+Belgrade,Total,2017,Rest,1689.0,2.3
+Belgrade,Total,2017,Earnings in Labor,608.0,0.8
+Belgrade,Total,2017,Other Earnings in Labor,79.0,0.1
+Belgrade,City,2017,Total Earnings,73838.0,100.0
+Belgrade,City,2017,Earnings in Currency,73629.0,99.7
+Belgrade,City,2017,Earnings from Orthodox Work Relations a.k.a. Job,43678.0,59.1
+Belgrade,City,2017,Earnings from Unorthodox Work Relations,1959.0,2.7
+Belgrade,City,2017,Pensions,23728.0,32.0
+Belgrade,City,2017,Social Sequrity Earnings,1157.0,1.6
+Belgrade,City,2017,"Earnings from Agricultural, Hunting and Fishing Actions",27.0,0.0
+Belgrade,City,2017,Foreign Earnings,501.0,0.7
+Belgrade,City,2017,Real Estate Earnings,574.0,0.8
+Belgrade,City,2017,Presents,702.0,1.0
+Belgrade,City,2017,Investment Interest,0.0,0.0
+Belgrade,City,2017,Rest,1303.0,1.8
+Belgrade,City,2017,Earnings in Labor,209.0,0.3
+Belgrade,City,2017,Other Earnings in Labor,79.0,0.1
+Belgrade,Rest,2017,Total Earnings,67613.0,100.0
+Belgrade,Rest,2017,Earnings in Currency,64966.0,96.1
+Belgrade,Rest,2017,Earnings from Orthodox Work Relations a.k.a. Job,33080.0,48.9
+Belgrade,Rest,2017,Earnings from Unorthodox Work Relations,2538.0,3.8
+Belgrade,Rest,2017,Pensions,21021.0,31.1
+Belgrade,Rest,2017,Social Sequrity Earnings,2113.0,3.1
+Belgrade,Rest,2017,"Earnings from Agricultural, Hunting and Fishing Actions",1134.0,1.7
+Belgrade,Rest,2017,Foreign Earnings,333.0,0.5
+Belgrade,Rest,2017,Real Estate Earnings,203.0,0.3
+Belgrade,Rest,2017,Presents,879.0,1.3
+Belgrade,Rest,2017,Investment Interest,0.0,0.0
+Belgrade,Rest,2017,Rest,3665.0,5.4
+Belgrade,Rest,2017,Earnings in Labor,2647.0,3.9
+Belgrade,Rest,2017,Other Earnings in Labor,81.0,0.1
+Voyvodina/North,Total,2017,Total Earnings,58018.0,100.0
+Voyvodina/North,Total,2017,Earnings in Currency,56591.0,97.5
+Voyvodina/North,Total,2017,Earnings from Orthodox Work Relations a.k.a. Job,28612.0,49.3
+Voyvodina/North,Total,2017,Earnings from Unorthodox Work Relations,2074.0,3.6
+Voyvodina/North,Total,2017,Pensions,18637.0,32.1
+Voyvodina/North,Total,2017,Social Sequrity Earnings,1633.0,2.8
+Voyvodina/North,Total,2017,"Earnings from Agricultural, Hunting and Fishing Actions",2989.0,5.2
+Voyvodina/North,Total,2017,Foreign Earnings,918.0,1.6
+Voyvodina/North,Total,2017,Real Estate Earnings,543.0,0.9
+Voyvodina/North,Total,2017,Presents,254.0,0.4
+Voyvodina/North,Total,2017,Investment Interest,0.0,0.0
+Voyvodina/North,Total,2017,Rest,931.0,1.6
+Voyvodina/North,Total,2017,Earnings in Labor,1427.0,2.5
+Voyvodina/North,Total,2017,Other Earnings in Labor,44.0,0.1
+Voyvodina/North,City,2017,Total Earnings,59555.0,100.0
+Voyvodina/North,City,2017,Earnings in Currency,58886.0,98.9
+Voyvodina/North,City,2017,Earnings from Orthodox Work Relations a.k.a. Job,31448.0,52.9
+Voyvodina/North,City,2017,Earnings from Unorthodox Work Relations,1994.0,3.3
+Voyvodina/North,City,2017,Pensions,20406.0,34.3
+Voyvodina/North,City,2017,Social Sequrity Earnings,1390.0,2.3
+Voyvodina/North,City,2017,"Earnings from Agricultural, Hunting and Fishing Actions",1231.0,2.1
+Voyvodina/North,City,2017,Foreign Earnings,914.0,1.5
+Voyvodina/North,City,2017,Real Estate Earnings,389.0,0.7
+Voyvodina/North,City,2017,Presents,259.0,0.4
+Voyvodina/North,City,2017,Investment Interest,0.0,0.0
+Voyvodina/North,City,2017,Rest,855.0,1.4
+Voyvodina/North,City,2017,Earnings in Labor,669.0,1.1
+Voyvodina/North,City,2017,Other Earnings in Labor,38.0,0.1
+Voyvodina/North,Rest,2017,Total Earnings,55616.0,100.0
+Voyvodina/North,Rest,2017,Earnings in Currency,53006.0,95.3
+Voyvodina/North,Rest,2017,Earnings from Orthodox Work Relations a.k.a. Job,24184.0,43.5
+Voyvodina/North,Rest,2017,Earnings from Unorthodox Work Relations,2198.0,4.0
+Voyvodina/North,Rest,2017,Pensions,15877.0,28.5
+Voyvodina/North,Rest,2017,Social Sequrity Earnings,2013.0,3.6
+Voyvodina/North,Rest,2017,"Earnings from Agricultural, Hunting and Fishing Actions",5734.0,10.3
+Voyvodina/North,Rest,2017,Foreign Earnings,923.0,1.7
+Voyvodina/North,Rest,2017,Real Estate Earnings,783.0,1.4
+Voyvodina/North,Rest,2017,Presents,245.0,0.4
+Voyvodina/North,Rest,2017,Investment Interest,0.0,0.0
+Voyvodina/North,Rest,2017,Rest,1049.0,1.9
+Voyvodina/North,Rest,2017,Earnings in Labor,2610.0,4.7
+Voyvodina/North,Rest,2017,Other Earnings in Labor,53.0,0.1
+Central and West,Total,2017,Total Earnings,58252.0,100.0
+Central and West,Total,2017,Earnings in Currency,54469.0,93.5
+Central and West,Total,2017,Earnings from Orthodox Work Relations a.k.a. Job,26154.0,44.9
+Central and West,Total,2017,Earnings from Unorthodox Work Relations,1151.0,2.0
+Central and West,Total,2017,Pensions,17576.0,30.2
+Central and West,Total,2017,Social Sequrity Earnings,1764.0,3.0
+Central and West,Total,2017,"Earnings from Agricultural, Hunting and Fishing Actions",4540.0,7.8
+Central and West,Total,2017,Foreign Earnings,539.0,0.9
+Central and West,Total,2017,Real Estate Earnings,242.0,0.4
+Central and West,Total,2017,Presents,413.0,0.7
+Central and West,Total,2017,Investment Interest,0.0,0.0
+Central and West,Total,2017,Rest,2090.0,3.6
+Central and West,Total,2017,Earnings in Labor,3783.0,6.5
+Central and West,Total,2017,Other Earnings in Labor,53.0,0.1
+Central and West,City,2017,Total Earnings,59329.0,100.0
+Central and West,City,2017,Earnings in Currency,58824.0,99.1
+Central and West,City,2017,Earnings from Orthodox Work Relations a.k.a. Job,32280.0,54.3
+Central and West,City,2017,Earnings from Unorthodox Work Relations,1193.0,2.0
+Central and West,City,2017,Pensions,18691.0,31.5
+Central and West,City,2017,Social Sequrity Earnings,1705.0,2.9
+Central and West,City,2017,"Earnings from Agricultural, Hunting and Fishing Actions",1346.0,2.3
+Central and West,City,2017,Foreign Earnings,582.0,1.0
+Central and West,City,2017,Real Estate Earnings,281.0,0.5
+Central and West,City,2017,Presents,470.0,0.8
+Central and West,City,2017,Investment Interest,0.0,0.0
+Central and West,City,2017,Rest,2276.0,3.8
+Central and West,City,2017,Earnings in Labor,505.0,0.9
+Central and West,City,2017,Other Earnings in Labor,38.0,0.1
+Central and West,Rest,2017,Total Earnings,57199.0,100.0
+Central and West,Rest,2017,Earnings in Currency,50246.0,87.8
+Central and West,Rest,2017,Earnings from Orthodox Work Relations a.k.a. Job,20223.0,35.4
+Central and West,Rest,2017,Earnings from Unorthodox Work Relations,1110.0,1.9
+Central and West,Rest,2017,Pensions,16497.0,28.8
+Central and West,Rest,2017,Social Sequrity Earnings,1821.0,3.2
+Central and West,Rest,2017,"Earnings from Agricultural, Hunting and Fishing Actions",7632.0,13.3
+Central and West,Rest,2017,Foreign Earnings,496.0,0.9
+Central and West,Rest,2017,Real Estate Earnings,203.0,0.4
+Central and West,Rest,2017,Presents,357.0,0.6
+Central and West,Rest,2017,Investment Interest,0.0,0.0
+Central and West,Rest,2017,Rest,1907.0,3.3
+Central and West,Rest,2017,Earnings in Labor,6953.0,12.2
+Central and West,Rest,2017,Other Earnings in Labor,66.0,0.1
+South and East,Total,2017,Total Earnings,56566.0,100.0
+South and East,Total,2017,Earnings in Currency,53092.0,93.9
+South and East,Total,2017,Earnings from Orthodox Work Relations a.k.a. Job,24747.0,43.8
+South and East,Total,2017,Earnings from Unorthodox Work Relations,1632.0,2.9
+South and East,Total,2017,Pensions,18834.0,33.3
+South and East,Total,2017,Social Sequrity Earnings,1744.0,3.1
+South and East,Total,2017,"Earnings from Agricultural, Hunting and Fishing Actions",2550.0,4.5
+South and East,Total,2017,Foreign Earnings,820.0,1.4
+South and East,Total,2017,Real Estate Earnings,219.0,0.4
+South and East,Total,2017,Presents,448.0,0.8
+South and East,Total,2017,Investment Interest,0.0,0.0
+South and East,Total,2017,Rest,2098.0,3.7
+South and East,Total,2017,Earnings in Labor,3474.0,6.1
+South and East,Total,2017,Other Earnings in Labor,36.0,0.1
+South and East,City,2017,Total Earnings,57717.0,100.0
+South and East,City,2017,Earnings in Currency,57119.0,99.0
+South and East,City,2017,Earnings from Orthodox Work Relations a.k.a. Job,30610.0,53.1
+South and East,City,2017,Earnings from Unorthodox Work Relations,1684.0,2.9
+South and East,City,2017,Pensions,19261.0,33.4
+South and East,City,2017,Social Sequrity Earnings,1744.0,3.0
+South and East,City,2017,"Earnings from Agricultural, Hunting and Fishing Actions",444.0,0.8
+South and East,City,2017,Foreign Earnings,633.0,1.1
+South and East,City,2017,Real Estate Earnings,299.0,0.5
+South and East,City,2017,Presents,590.0,1.0
+South and East,City,2017,Investment Interest,0.0,0.0
+South and East,City,2017,Rest,1854.0,3.2
+South and East,City,2017,Earnings in Labor,598.0,1.0
+South and East,City,2017,Other Earnings in Labor,47.0,0.1
+South and East,Rest,2017,Total Earnings,55211.0,100.0
+South and East,Rest,2017,Earnings in Currency,48362.0,87.6
+South and East,Rest,2017,Earnings from Orthodox Work Relations a.k.a. Job,17866.0,32.4
+South and East,Rest,2017,Earnings from Unorthodox Work Relations,1570.0,2.8
+South and East,Rest,2017,Pensions,18332.0,33.2
+South and East,Rest,2017,Social Sequrity Earnings,1745.0,3.2
+South and East,Rest,2017,"Earnings from Agricultural, Hunting and Fishing Actions",5020.0,9.1
+South and East,Rest,2017,Foreign Earnings,1041.0,1.9
+South and East,Rest,2017,Real Estate Earnings,124.0,0.2
+South and East,Rest,2017,Presents,281.0,0.5
+South and East,Rest,2017,Investment Interest,0.0,0.0
+South and East,Rest,2017,Rest,2383.0,4.3
+South and East,Rest,2017,Earnings in Labor,6849.0,12.4
+South and East,Rest,2017,Other Earnings in Labor,24.0,0.0

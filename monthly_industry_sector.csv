@@ -1,0 +1,1441 @@
+Month,Year,SectorPurpose,ProductionIndex(2015=100)
+1,2000,Total,77.7
+1,2000,Energy,97.2
+1,2000,Intermediate Products,64.0
+1,2000,Capital Products,127.0
+1,2000,Durable Consumer Goods,86.8
+1,2000,Temporary Consumer Goods,66.0
+1,2001,Total,86.0
+1,2001,Energy,92.8
+1,2001,Intermediate Products,77.4
+1,2001,Capital Products,140.7
+1,2001,Durable Consumer Goods,111.2
+1,2001,Temporary Consumer Goods,78.5
+1,2002,Total,81.9
+1,2002,Energy,93.6
+1,2002,Intermediate Products,70.3
+1,2002,Capital Products,145.6
+1,2002,Durable Consumer Goods,92.7
+1,2002,Temporary Consumer Goods,73.4
+1,2003,Total,76.8
+1,2003,Energy,93.4
+1,2003,Intermediate Products,66.2
+1,2003,Capital Products,107.8
+1,2003,Durable Consumer Goods,92.1
+1,2003,Temporary Consumer Goods,66.0
+1,2004,Total,79.6
+1,2004,Energy,104.6
+1,2004,Intermediate Products,66.5
+1,2004,Capital Products,98.7
+1,2004,Durable Consumer Goods,82.9
+1,2004,Temporary Consumer Goods,70.1
+1,2005,Total,82.1
+1,2005,Energy,106.8
+1,2005,Intermediate Products,79.4
+1,2005,Capital Products,86.6
+1,2005,Durable Consumer Goods,54.1
+1,2005,Temporary Consumer Goods,65.7
+1,2006,Total,82.4
+1,2006,Energy,106.0
+1,2006,Intermediate Products,75.6
+1,2006,Capital Products,82.8
+1,2006,Durable Consumer Goods,60.0
+1,2006,Temporary Consumer Goods,70.7
+1,2007,Total,92.8
+1,2007,Energy,107.2
+1,2007,Intermediate Products,93.4
+1,2007,Capital Products,83.1
+1,2007,Durable Consumer Goods,117.2
+1,2007,Temporary Consumer Goods,80.2
+1,2008,Total,96.7
+1,2008,Energy,114.1
+1,2008,Intermediate Products,95.7
+1,2008,Capital Products,83.9
+1,2008,Durable Consumer Goods,100.4
+1,2008,Temporary Consumer Goods,85.1
+1,2009,Total,80.1
+1,2009,Energy,113.0
+1,2009,Intermediate Products,60.6
+1,2009,Capital Products,66.1
+1,2009,Durable Consumer Goods,87.5
+1,2009,Temporary Consumer Goods,72.4
+1,2010,Total,82.0
+1,2010,Energy,104.5
+1,2010,Intermediate Products,75.0
+1,2010,Capital Products,66.2
+1,2010,Durable Consumer Goods,73.8
+1,2010,Temporary Consumer Goods,71.3
+1,2011,Total,86.2
+1,2011,Energy,105.5
+1,2011,Intermediate Products,80.5
+1,2011,Capital Products,85.5
+1,2011,Durable Consumer Goods,54.7
+1,2011,Temporary Consumer Goods,74.3
+1,2012,Total,83.6
+1,2012,Energy,110.5
+1,2012,Intermediate Products,79.1
+1,2012,Capital Products,61.0
+1,2012,Durable Consumer Goods,51.7
+1,2012,Temporary Consumer Goods,68.6
+1,2013,Total,85.7
+1,2013,Energy,105.7
+1,2013,Intermediate Products,71.7
+1,2013,Capital Products,95.0
+1,2013,Durable Consumer Goods,67.5
+1,2013,Temporary Consumer Goods,76.8
+1,2014,Total,84.3
+1,2014,Energy,107.0
+1,2014,Intermediate Products,79.5
+1,2014,Capital Products,77.7
+1,2014,Durable Consumer Goods,76.2
+1,2014,Temporary Consumer Goods,71.6
+1,2015,Total,84.1
+1,2015,Energy,101.9
+1,2015,Intermediate Products,75.4
+1,2015,Capital Products,75.1
+1,2015,Durable Consumer Goods,73.7
+1,2015,Temporary Consumer Goods,78.0
+1,2016,Total,89.8
+1,2016,Energy,112.8
+1,2016,Intermediate Products,83.5
+1,2016,Capital Products,84.3
+1,2016,Durable Consumer Goods,72.9
+1,2016,Temporary Consumer Goods,76.3
+1,2017,Total,92.7
+1,2017,Energy,104.8
+1,2017,Intermediate Products,89.5
+1,2017,Capital Products,92.8
+1,2017,Durable Consumer Goods,75.0
+1,2017,Temporary Consumer Goods,84.7
+1,2018,Total,102.6
+1,2018,Energy,115.6
+1,2018,Intermediate Products,107.6
+1,2018,Capital Products,89.4
+1,2018,Durable Consumer Goods,98.0
+1,2018,Temporary Consumer Goods,88.3
+1,2019,Total,98.0
+1,2019,Energy,109.8
+1,2019,Intermediate Products,99.9
+1,2019,Capital Products,94.8
+1,2019,Durable Consumer Goods,87.5
+1,2019,Temporary Consumer Goods,84.5
+2,2000,Total,94.5
+2,2000,Energy,93.5
+2,2000,Intermediate Products,88.1
+2,2000,Capital Products,192.9
+2,2000,Durable Consumer Goods,122.4
+2,2000,Temporary Consumer Goods,86.4
+2,2001,Total,87.5
+2,2001,Energy,80.2
+2,2001,Intermediate Products,84.9
+2,2001,Capital Products,165.7
+2,2001,Durable Consumer Goods,122.3
+2,2001,Temporary Consumer Goods,83.0
+2,2002,Total,86.1
+2,2002,Energy,83.9
+2,2002,Intermediate Products,83.2
+2,2002,Capital Products,175.0
+2,2002,Durable Consumer Goods,108.2
+2,2002,Temporary Consumer Goods,76.7
+2,2003,Total,84.6
+2,2003,Energy,91.7
+2,2003,Intermediate Products,76.1
+2,2003,Capital Products,161.0
+2,2003,Durable Consumer Goods,96.0
+2,2003,Temporary Consumer Goods,75.4
+2,2004,Total,87.2
+2,2004,Energy,92.4
+2,2004,Intermediate Products,85.2
+2,2004,Capital Products,147.2
+2,2004,Durable Consumer Goods,88.7
+2,2004,Temporary Consumer Goods,76.9
+2,2005,Total,83.5
+2,2005,Energy,95.9
+2,2005,Intermediate Products,79.9
+2,2005,Capital Products,109.4
+2,2005,Durable Consumer Goods,76.0
+2,2005,Temporary Consumer Goods,73.6
+2,2006,Total,92.1
+2,2006,Energy,101.2
+2,2006,Intermediate Products,93.1
+2,2006,Capital Products,105.5
+2,2006,Durable Consumer Goods,77.1
+2,2006,Temporary Consumer Goods,83.2
+2,2007,Total,93.0
+2,2007,Energy,89.6
+2,2007,Intermediate Products,102.0
+2,2007,Capital Products,102.1
+2,2007,Durable Consumer Goods,127.3
+2,2007,Temporary Consumer Goods,84.4
+2,2008,Total,104.5
+2,2008,Energy,103.6
+2,2008,Intermediate Products,113.0
+2,2008,Capital Products,113.1
+2,2008,Durable Consumer Goods,119.8
+2,2008,Temporary Consumer Goods,96.0
+2,2009,Total,84.7
+2,2009,Energy,95.1
+2,2009,Intermediate Products,78.7
+2,2009,Capital Products,79.7
+2,2009,Durable Consumer Goods,81.7
+2,2009,Temporary Consumer Goods,83.6
+2,2010,Total,84.7
+2,2010,Energy,96.1
+2,2010,Intermediate Products,80.8
+2,2010,Capital Products,78.4
+2,2010,Durable Consumer Goods,87.9
+2,2010,Temporary Consumer Goods,78.8
+2,2011,Total,91.0
+2,2011,Energy,102.1
+2,2011,Intermediate Products,89.8
+2,2011,Capital Products,118.8
+2,2011,Durable Consumer Goods,61.1
+2,2011,Temporary Consumer Goods,76.0
+2,2012,Total,79.2
+2,2012,Energy,94.3
+2,2012,Intermediate Products,72.5
+2,2012,Capital Products,73.3
+2,2012,Durable Consumer Goods,61.4
+2,2012,Temporary Consumer Goods,73.0
+2,2013,Total,90.0
+2,2013,Energy,103.8
+2,2013,Intermediate Products,79.5
+2,2013,Capital Products,114.9
+2,2013,Durable Consumer Goods,81.6
+2,2013,Temporary Consumer Goods,79.2
+2,2014,Total,87.4
+2,2014,Energy,99.6
+2,2014,Intermediate Products,87.1
+2,2014,Capital Products,90.9
+2,2014,Durable Consumer Goods,81.9
+2,2014,Temporary Consumer Goods,76.7
+2,2015,Total,88.5
+2,2015,Energy,93.9
+2,2015,Intermediate Products,85.7
+2,2015,Capital Products,99.9
+2,2015,Durable Consumer Goods,81.0
+2,2015,Temporary Consumer Goods,82.2
+2,2016,Total,98.4
+2,2016,Energy,109.0
+2,2016,Intermediate Products,99.2
+2,2016,Capital Products,95.8
+2,2016,Durable Consumer Goods,87.3
+2,2016,Temporary Consumer Goods,88.9
+2,2017,Total,96.8
+2,2017,Energy,98.3
+2,2017,Intermediate Products,102.2
+2,2017,Capital Products,102.6
+2,2017,Durable Consumer Goods,91.6
+2,2017,Temporary Consumer Goods,88.9
+2,2018,Total,100.2
+2,2018,Energy,97.1
+2,2018,Intermediate Products,115.2
+2,2018,Capital Products,104.6
+2,2018,Durable Consumer Goods,95.6
+2,2018,Temporary Consumer Goods,88.4
+2,2019,Total,102.7
+2,2019,Energy,104.3
+2,2019,Intermediate Products,112.7
+2,2019,Capital Products,106.4
+2,2019,Durable Consumer Goods,98.3
+2,2019,Temporary Consumer Goods,90.4
+3,2000,Total,103.6
+3,2000,Energy,98.6
+3,2000,Intermediate Products,98.4
+3,2000,Capital Products,236.9
+3,2000,Durable Consumer Goods,115.8
+3,2000,Temporary Consumer Goods,94.6
+3,2001,Total,98.2
+3,2001,Energy,90.2
+3,2001,Intermediate Products,100.7
+3,2001,Capital Products,179.8
+3,2001,Durable Consumer Goods,118.1
+3,2001,Temporary Consumer Goods,88.9
+3,2002,Total,97.3
+3,2002,Energy,93.2
+3,2002,Intermediate Products,97.5
+3,2002,Capital Products,179.4
+3,2002,Durable Consumer Goods,116.9
+3,2002,Temporary Consumer Goods,86.9
+3,2003,Total,90.8
+3,2003,Energy,93.9
+3,2003,Intermediate Products,86.3
+3,2003,Capital Products,155.8
+3,2003,Durable Consumer Goods,104.8
+3,2003,Temporary Consumer Goods,81.8
+3,2004,Total,104.4
+3,2004,Energy,91.7
+3,2004,Intermediate Products,105.7
+3,2004,Capital Products,248.8
+3,2004,Durable Consumer Goods,104.3
+3,2004,Temporary Consumer Goods,92.6
+3,2005,Total,97.5
+3,2005,Energy,99.8
+3,2005,Intermediate Products,101.7
+3,2005,Capital Products,119.2
+3,2005,Durable Consumer Goods,81.4
+3,2005,Temporary Consumer Goods,91.0
+3,2006,Total,103.7
+3,2006,Energy,104.5
+3,2006,Intermediate Products,113.8
+3,2006,Capital Products,118.4
+3,2006,Durable Consumer Goods,95.7
+3,2006,Temporary Consumer Goods,92.9
+3,2007,Total,107.5
+3,2007,Energy,89.9
+3,2007,Intermediate Products,126.1
+3,2007,Capital Products,122.6
+3,2007,Durable Consumer Goods,158.3
+3,2007,Temporary Consumer Goods,100.3
+3,2008,Total,110.6
+3,2008,Energy,100.4
+3,2008,Intermediate Products,129.6
+3,2008,Capital Products,116.4
+3,2008,Durable Consumer Goods,128.2
+3,2008,Temporary Consumer Goods,100.5
+3,2009,Total,94.9
+3,2009,Energy,103.9
+3,2009,Intermediate Products,89.0
+3,2009,Capital Products,93.5
+3,2009,Durable Consumer Goods,98.6
+3,2009,Temporary Consumer Goods,93.5
+3,2010,Total,95.3
+3,2010,Energy,97.3
+3,2010,Intermediate Products,93.0
+3,2010,Capital Products,96.2
+3,2010,Durable Consumer Goods,113.9
+3,2010,Temporary Consumer Goods,94.8
+3,2011,Total,101.6
+3,2011,Energy,99.6
+3,2011,Intermediate Products,109.3
+3,2011,Capital Products,124.2
+3,2011,Durable Consumer Goods,94.2
+3,2011,Temporary Consumer Goods,91.6
+3,2012,Total,98.6
+3,2012,Energy,88.6
+3,2012,Intermediate Products,105.6
+3,2012,Capital Products,127.7
+3,2012,Durable Consumer Goods,89.0
+3,2012,Temporary Consumer Goods,96.5
+3,2013,Total,98.7
+3,2013,Energy,107.7
+3,2013,Intermediate Products,94.4
+3,2013,Capital Products,121.5
+3,2013,Durable Consumer Goods,107.3
+3,2013,Temporary Consumer Goods,86.2
+3,2014,Total,100.6
+3,2014,Energy,102.5
+3,2014,Intermediate Products,105.6
+3,2014,Capital Products,109.3
+3,2014,Durable Consumer Goods,105.3
+3,2014,Temporary Consumer Goods,92.0
+3,2015,Total,103.7
+3,2015,Energy,102.1
+3,2015,Intermediate Products,106.9
+3,2015,Capital Products,117.7
+3,2015,Durable Consumer Goods,93.7
+3,2015,Temporary Consumer Goods,98.1
+3,2016,Total,110.3
+3,2016,Energy,113.9
+3,2016,Intermediate Products,117.9
+3,2016,Capital Products,109.7
+3,2016,Durable Consumer Goods,95.7
+3,2016,Temporary Consumer Goods,101.1
+3,2017,Total,112.3
+3,2017,Energy,96.1
+3,2017,Intermediate Products,130.6
+3,2017,Capital Products,127.3
+3,2017,Durable Consumer Goods,113.5
+3,2017,Temporary Consumer Goods,106.8
+3,2018,Total,116.8
+3,2018,Energy,111.6
+3,2018,Intermediate Products,131.9
+3,2018,Capital Products,121.7
+3,2018,Durable Consumer Goods,114.9
+3,2018,Temporary Consumer Goods,106.8
+3,2019,Total,114.0
+3,2019,Energy,100.0
+3,2019,Intermediate Products,136.8
+3,2019,Capital Products,127.9
+3,2019,Durable Consumer Goods,100.9
+3,2019,Temporary Consumer Goods,104.4
+4,2000,Total,92.7
+4,2000,Energy,77.1
+4,2000,Intermediate Products,95.3
+4,2000,Capital Products,205.6
+4,2000,Durable Consumer Goods,110.4
+4,2000,Temporary Consumer Goods,87.2
+4,2001,Total,90.2
+4,2001,Energy,87.5
+4,2001,Intermediate Products,88.8
+4,2001,Capital Products,147.9
+4,2001,Durable Consumer Goods,107.2
+4,2001,Temporary Consumer Goods,83.4
+4,2002,Total,95.2
+4,2002,Energy,82.5
+4,2002,Intermediate Products,95.8
+4,2002,Capital Products,200.1
+4,2002,Durable Consumer Goods,110.4
+4,2002,Temporary Consumer Goods,89.9
+4,2003,Total,91.3
+4,2003,Energy,89.4
+4,2003,Intermediate Products,91.7
+4,2003,Capital Products,178.6
+4,2003,Durable Consumer Goods,96.6
+4,2003,Temporary Consumer Goods,79.4
+4,2004,Total,93.8
+4,2004,Energy,73.9
+4,2004,Intermediate Products,105.8
+4,2004,Capital Products,187.6
+4,2004,Durable Consumer Goods,98.2
+4,2004,Temporary Consumer Goods,85.5
+4,2005,Total,94.2
+4,2005,Energy,83.3
+4,2005,Intermediate Products,107.1
+4,2005,Capital Products,132.5
+4,2005,Durable Consumer Goods,73.2
+4,2005,Temporary Consumer Goods,88.9
+4,2006,Total,95.9
+4,2006,Energy,86.4
+4,2006,Intermediate Products,110.1
+4,2006,Capital Products,114.8
+4,2006,Durable Consumer Goods,77.4
+4,2006,Temporary Consumer Goods,90.4
+4,2007,Total,102.2
+4,2007,Energy,84.9
+4,2007,Intermediate Products,123.2
+4,2007,Capital Products,99.7
+4,2007,Durable Consumer Goods,131.9
+4,2007,Temporary Consumer Goods,97.0
+4,2008,Total,106.4
+4,2008,Energy,85.5
+4,2008,Intermediate Products,133.0
+4,2008,Capital Products,125.2
+4,2008,Durable Consumer Goods,125.6
+4,2008,Temporary Consumer Goods,96.5
+4,2009,Total,83.0
+4,2009,Energy,73.2
+4,2009,Intermediate Products,87.6
+4,2009,Capital Products,82.3
+4,2009,Durable Consumer Goods,83.3
+4,2009,Temporary Consumer Goods,88.7
+4,2010,Total,92.1
+4,2010,Energy,90.0
+4,2010,Intermediate Products,98.7
+4,2010,Capital Products,90.4
+4,2010,Durable Consumer Goods,86.0
+4,2010,Temporary Consumer Goods,90.0
+4,2011,Total,93.1
+4,2011,Energy,91.3
+4,2011,Intermediate Products,104.6
+4,2011,Capital Products,87.8
+4,2011,Durable Consumer Goods,75.0
+4,2011,Temporary Consumer Goods,88.0
+4,2012,Total,92.0
+4,2012,Energy,84.8
+4,2012,Intermediate Products,102.8
+4,2012,Capital Products,83.3
+4,2012,Durable Consumer Goods,86.3
+4,2012,Temporary Consumer Goods,92.7
+4,2013,Total,97.5
+4,2013,Energy,88.4
+4,2013,Intermediate Products,98.0
+4,2013,Capital Products,133.2
+4,2013,Durable Consumer Goods,113.6
+4,2013,Temporary Consumer Goods,95.6
+4,2014,Total,98.2
+4,2014,Energy,96.9
+4,2014,Intermediate Products,100.8
+4,2014,Capital Products,99.2
+4,2014,Durable Consumer Goods,107.5
+4,2014,Temporary Consumer Goods,96.2
+4,2015,Total,98.9
+4,2015,Energy,99.6
+4,2015,Intermediate Products,100.2
+4,2015,Capital Products,95.9
+4,2015,Durable Consumer Goods,91.9
+4,2015,Temporary Consumer Goods,98.6
+4,2016,Total,106.7
+4,2016,Energy,103.2
+4,2016,Intermediate Products,114.6
+4,2016,Capital Products,107.7
+4,2016,Durable Consumer Goods,97.3
+4,2016,Temporary Consumer Goods,103.3
+4,2017,Total,104.2
+4,2017,Energy,90.8
+4,2017,Intermediate Products,122.6
+4,2017,Capital Products,108.0
+4,2017,Durable Consumer Goods,103.6
+4,2017,Temporary Consumer Goods,99.6
+4,2018,Total,106.8
+4,2018,Energy,98.0
+4,2018,Intermediate Products,124.2
+4,2018,Capital Products,105.0
+4,2018,Durable Consumer Goods,106.8
+4,2018,Temporary Consumer Goods,100.4
+4,2019,Total,105.8
+4,2019,Energy,84.5
+4,2019,Intermediate Products,129.1
+4,2019,Capital Products,117.2
+4,2019,Durable Consumer Goods,102.1
+4,2019,Temporary Consumer Goods,103.6
+5,2000,Total,96.2
+5,2000,Energy,71.9
+5,2000,Intermediate Products,101.8
+5,2000,Capital Products,203.8
+5,2000,Durable Consumer Goods,105.8
+5,2000,Temporary Consumer Goods,96.3
+5,2001,Total,89.7
+5,2001,Energy,70.9
+5,2001,Intermediate Products,90.5
+5,2001,Capital Products,154.0
+5,2001,Durable Consumer Goods,116.7
+5,2001,Temporary Consumer Goods,93.9
+5,2002,Total,91.6
+5,2002,Energy,72.6
+5,2002,Intermediate Products,94.2
+5,2002,Capital Products,199.4
+5,2002,Durable Consumer Goods,108.4
+5,2002,Temporary Consumer Goods,89.5
+5,2003,Total,91.4
+5,2003,Energy,73.0
+5,2003,Intermediate Products,92.4
+5,2003,Capital Products,178.8
+5,2003,Durable Consumer Goods,104.2
+5,2003,Temporary Consumer Goods,93.2
+5,2004,Total,95.5
+5,2004,Energy,68.9
+5,2004,Intermediate Products,104.4
+5,2004,Capital Products,234.9
+5,2004,Durable Consumer Goods,94.3
+5,2004,Temporary Consumer Goods,88.9
+5,2005,Total,91.1
+5,2005,Energy,69.8
+5,2005,Intermediate Products,106.0
+5,2005,Capital Products,130.5
+5,2005,Durable Consumer Goods,81.7
+5,2005,Temporary Consumer Goods,92.0
+5,2006,Total,100.6
+5,2006,Energy,77.6
+5,2006,Intermediate Products,117.0
+5,2006,Capital Products,116.7
+5,2006,Durable Consumer Goods,111.5
+5,2006,Temporary Consumer Goods,103.1
+5,2007,Total,106.5
+5,2007,Energy,83.1
+5,2007,Intermediate Products,129.1
+5,2007,Capital Products,111.6
+5,2007,Durable Consumer Goods,128.9
+5,2007,Temporary Consumer Goods,104.5
+5,2008,Total,108.5
+5,2008,Energy,78.9
+5,2008,Intermediate Products,136.9
+5,2008,Capital Products,128.3
+5,2008,Durable Consumer Goods,129.5
+5,2008,Temporary Consumer Goods,104.0
+5,2009,Total,86.8
+5,2009,Energy,76.0
+5,2009,Intermediate Products,88.2
+5,2009,Capital Products,107.4
+5,2009,Durable Consumer Goods,74.7
+5,2009,Temporary Consumer Goods,93.9
+5,2010,Total,90.7
+5,2010,Energy,76.5
+5,2010,Intermediate Products,106.3
+5,2010,Capital Products,79.3
+5,2010,Durable Consumer Goods,86.6
+5,2010,Temporary Consumer Goods,94.7
+5,2011,Total,97.4
+5,2011,Energy,91.5
+5,2011,Intermediate Products,109.3
+5,2011,Capital Products,95.2
+5,2011,Durable Consumer Goods,84.6
+5,2011,Temporary Consumer Goods,95.0
+5,2012,Total,94.8
+5,2012,Energy,77.0
+5,2012,Intermediate Products,110.3
+5,2012,Capital Products,88.3
+5,2012,Durable Consumer Goods,102.2
+5,2012,Temporary Consumer Goods,100.9
+5,2013,Total,94.6
+5,2013,Energy,83.1
+5,2013,Intermediate Products,101.0
+5,2013,Capital Products,117.0
+5,2013,Durable Consumer Goods,102.0
+5,2013,Temporary Consumer Goods,94.8
+5,2014,Total,91.0
+5,2014,Energy,82.7
+5,2014,Intermediate Products,97.1
+5,2014,Capital Products,94.5
+5,2014,Durable Consumer Goods,101.5
+5,2014,Temporary Consumer Goods,91.5
+5,2015,Total,102.4
+5,2015,Energy,99.5
+5,2015,Intermediate Products,105.7
+5,2015,Capital Products,106.2
+5,2015,Durable Consumer Goods,103.3
+5,2015,Temporary Consumer Goods,100.7
+5,2016,Total,104.7
+5,2016,Energy,98.9
+5,2016,Intermediate Products,114.6
+5,2016,Capital Products,106.8
+5,2016,Durable Consumer Goods,103.9
+5,2016,Temporary Consumer Goods,100.6
+5,2017,Total,112.1
+5,2017,Energy,96.1
+5,2017,Intermediate Products,130.0
+5,2017,Capital Products,113.6
+5,2017,Durable Consumer Goods,122.2
+5,2017,Temporary Consumer Goods,110.3
+5,2018,Total,112.6
+5,2018,Energy,92.0
+5,2018,Intermediate Products,134.6
+5,2018,Capital Products,121.2
+5,2018,Durable Consumer Goods,114.6
+5,2018,Temporary Consumer Goods,110.6
+5,2019,Total,111.8
+5,2019,Energy,93.7
+5,2019,Intermediate Products,137.3
+5,2019,Capital Products,120.2
+5,2019,Durable Consumer Goods,120.6
+5,2019,Temporary Consumer Goods,104.0
+6,2000,Total,93.7
+6,2000,Energy,66.8
+6,2000,Intermediate Products,95.7
+6,2000,Capital Products,210.3
+6,2000,Durable Consumer Goods,104.0
+6,2000,Temporary Consumer Goods,99.0
+6,2001,Total,91.5
+6,2001,Energy,67.5
+6,2001,Intermediate Products,95.5
+6,2001,Capital Products,172.1
+6,2001,Durable Consumer Goods,128.3
+6,2001,Temporary Consumer Goods,94.2
+6,2002,Total,91.7
+6,2002,Energy,68.3
+6,2002,Intermediate Products,93.0
+6,2002,Capital Products,221.4
+6,2002,Durable Consumer Goods,114.7
+6,2002,Temporary Consumer Goods,92.1
+6,2003,Total,90.7
+6,2003,Energy,68.3
+6,2003,Intermediate Products,92.9
+6,2003,Capital Products,177.9
+6,2003,Durable Consumer Goods,118.4
+6,2003,Temporary Consumer Goods,94.1
+6,2004,Total,98.9
+6,2004,Energy,68.8
+6,2004,Intermediate Products,103.0
+6,2004,Capital Products,264.9
+6,2004,Durable Consumer Goods,108.0
+6,2004,Temporary Consumer Goods,94.6
+6,2005,Total,96.3
+6,2005,Energy,71.8
+6,2005,Intermediate Products,105.7
+6,2005,Capital Products,145.8
+6,2005,Durable Consumer Goods,95.0
+6,2005,Temporary Consumer Goods,102.9
+6,2006,Total,101.1
+6,2006,Energy,73.0
+6,2006,Intermediate Products,117.4
+6,2006,Capital Products,110.1
+6,2006,Durable Consumer Goods,129.0
+6,2006,Temporary Consumer Goods,108.0
+6,2007,Total,106.0
+6,2007,Energy,81.0
+6,2007,Intermediate Products,123.0
+6,2007,Capital Products,115.1
+6,2007,Durable Consumer Goods,143.7
+6,2007,Temporary Consumer Goods,108.9
+6,2008,Total,110.2
+6,2008,Energy,80.7
+6,2008,Intermediate Products,132.1
+6,2008,Capital Products,140.2
+6,2008,Durable Consumer Goods,143.3
+6,2008,Temporary Consumer Goods,109.4
+6,2009,Total,94.2
+6,2009,Energy,85.5
+6,2009,Intermediate Products,94.7
+6,2009,Capital Products,108.0
+6,2009,Durable Consumer Goods,90.2
+6,2009,Temporary Consumer Goods,100.8
+6,2010,Total,96.0
+6,2010,Energy,76.0
+6,2010,Intermediate Products,112.1
+6,2010,Capital Products,97.2
+6,2010,Durable Consumer Goods,105.1
+6,2010,Temporary Consumer Goods,101.6
+6,2011,Total,98.8
+6,2011,Energy,84.1
+6,2011,Intermediate Products,112.1
+6,2011,Capital Products,88.7
+6,2011,Durable Consumer Goods,98.5
+6,2011,Temporary Consumer Goods,105.7
+6,2012,Total,96.0
+6,2012,Energy,73.4
+6,2012,Intermediate Products,109.5
+6,2012,Capital Products,108.0
+6,2012,Durable Consumer Goods,98.0
+6,2012,Temporary Consumer Goods,103.8
+6,2013,Total,99.8
+6,2013,Energy,85.9
+6,2013,Intermediate Products,101.8
+6,2013,Capital Products,144.7
+6,2013,Durable Consumer Goods,116.7
+6,2013,Temporary Consumer Goods,97.8
+6,2014,Total,92.2
+6,2014,Energy,76.5
+6,2014,Intermediate Products,98.2
+6,2014,Capital Products,100.2
+6,2014,Durable Consumer Goods,107.0
+6,2014,Temporary Consumer Goods,97.8
+6,2015,Total,104.4
+6,2015,Energy,96.5
+6,2015,Intermediate Products,108.3
+6,2015,Capital Products,111.6
+6,2015,Durable Consumer Goods,110.5
+6,2015,Temporary Consumer Goods,105.3
+6,2016,Total,105.4
+6,2016,Energy,87.7
+6,2016,Intermediate Products,119.1
+6,2016,Capital Products,101.2
+6,2016,Durable Consumer Goods,113.9
+6,2016,Temporary Consumer Goods,111.1
+6,2017,Total,111.4
+6,2017,Energy,88.3
+6,2017,Intermediate Products,133.5
+6,2017,Capital Products,113.1
+6,2017,Durable Consumer Goods,122.4
+6,2017,Temporary Consumer Goods,113.3
+6,2018,Total,115.2
+6,2018,Energy,95.4
+6,2018,Intermediate Products,132.5
+6,2018,Capital Products,123.5
+6,2018,Durable Consumer Goods,122.3
+6,2018,Temporary Consumer Goods,116.2
+6,2019,Total,108.0
+6,2019,Energy,86.8
+6,2019,Intermediate Products,133.2
+6,2019,Capital Products,116.3
+6,2019,Durable Consumer Goods,111.1
+6,2019,Temporary Consumer Goods,104.2
+7,2000,Total,87.5
+7,2000,Energy,72.2
+7,2000,Intermediate Products,93.2
+7,2000,Capital Products,176.9
+7,2000,Durable Consumer Goods,109.8
+7,2000,Temporary Consumer Goods,80.7
+7,2001,Total,83.1
+7,2001,Energy,70.5
+7,2001,Intermediate Products,87.2
+7,2001,Capital Products,180.6
+7,2001,Durable Consumer Goods,98.4
+7,2001,Temporary Consumer Goods,75.2
+7,2002,Total,90.3
+7,2002,Energy,71.1
+7,2002,Intermediate Products,95.9
+7,2002,Capital Products,216.8
+7,2002,Durable Consumer Goods,102.0
+7,2002,Temporary Consumer Goods,83.5
+7,2003,Total,86.5
+7,2003,Energy,68.8
+7,2003,Intermediate Products,89.2
+7,2003,Capital Products,174.5
+7,2003,Durable Consumer Goods,103.2
+7,2003,Temporary Consumer Goods,85.6
+7,2004,Total,91.7
+7,2004,Energy,76.1
+7,2004,Intermediate Products,98.8
+7,2004,Capital Products,176.2
+7,2004,Durable Consumer Goods,93.1
+7,2004,Temporary Consumer Goods,86.4
+7,2005,Total,91.6
+7,2005,Energy,79.7
+7,2005,Intermediate Products,102.5
+7,2005,Capital Products,134.7
+7,2005,Durable Consumer Goods,81.6
+7,2005,Temporary Consumer Goods,87.2
+7,2006,Total,98.4
+7,2006,Energy,79.4
+7,2006,Intermediate Products,111.0
+7,2006,Capital Products,103.1
+7,2006,Durable Consumer Goods,125.1
+7,2006,Temporary Consumer Goods,101.6
+7,2007,Total,103.1
+7,2007,Energy,87.6
+7,2007,Intermediate Products,122.2
+7,2007,Capital Products,116.0
+7,2007,Durable Consumer Goods,151.7
+7,2007,Temporary Consumer Goods,94.1
+7,2008,Total,110.2
+7,2008,Energy,91.3
+7,2008,Intermediate Products,129.7
+7,2008,Capital Products,134.1
+7,2008,Durable Consumer Goods,143.9
+7,2008,Temporary Consumer Goods,102.9
+7,2009,Total,92.6
+7,2009,Energy,90.6
+7,2009,Intermediate Products,91.6
+7,2009,Capital Products,95.8
+7,2009,Durable Consumer Goods,120.0
+7,2009,Temporary Consumer Goods,93.7
+7,2010,Total,96.7
+7,2010,Energy,90.5
+7,2010,Intermediate Products,105.5
+7,2010,Capital Products,92.9
+7,2010,Durable Consumer Goods,102.4
+7,2010,Temporary Consumer Goods,96.3
+7,2011,Total,93.1
+7,2011,Energy,84.3
+7,2011,Intermediate Products,107.6
+7,2011,Capital Products,77.7
+7,2011,Durable Consumer Goods,91.3
+7,2011,Temporary Consumer Goods,94.3
+7,2012,Total,91.1
+7,2012,Energy,77.0
+7,2012,Intermediate Products,99.3
+7,2012,Capital Products,89.6
+7,2012,Durable Consumer Goods,97.0
+7,2012,Temporary Consumer Goods,99.3
+7,2013,Total,103.8
+7,2013,Energy,100.7
+7,2013,Intermediate Products,101.2
+7,2013,Capital Products,152.8
+7,2013,Durable Consumer Goods,115.4
+7,2013,Temporary Consumer Goods,94.4
+7,2014,Total,90.9
+7,2014,Energy,79.7
+7,2014,Intermediate Products,100.7
+7,2014,Capital Products,91.9
+7,2014,Durable Consumer Goods,104.1
+7,2014,Temporary Consumer Goods,91.4
+7,2015,Total,100.5
+7,2015,Energy,98.6
+7,2015,Intermediate Products,104.6
+7,2015,Capital Products,94.3
+7,2015,Durable Consumer Goods,106.0
+7,2015,Temporary Consumer Goods,100.2
+7,2016,Total,103.6
+7,2016,Energy,98.2
+7,2016,Intermediate Products,111.4
+7,2016,Capital Products,98.0
+7,2016,Durable Consumer Goods,110.6
+7,2016,Temporary Consumer Goods,103.2
+7,2017,Total,107.0
+7,2017,Energy,96.6
+7,2017,Intermediate Products,125.1
+7,2017,Capital Products,96.8
+7,2017,Durable Consumer Goods,102.8
+7,2017,Temporary Consumer Goods,104.6
+7,2018,Total,108.4
+7,2018,Energy,95.8
+7,2018,Intermediate Products,130.6
+7,2018,Capital Products,101.4
+7,2018,Durable Consumer Goods,102.4
+7,2018,Temporary Consumer Goods,104.1
+7,2019,Total,113.0
+7,2019,Energy,96.9
+7,2019,Intermediate Products,139.2
+7,2019,Capital Products,111.0
+7,2019,Durable Consumer Goods,111.9
+7,2019,Temporary Consumer Goods,106.5
+8,2000,Total,93.7
+8,2000,Energy,72.3
+8,2000,Intermediate Products,97.7
+8,2000,Capital Products,222.9
+8,2000,Durable Consumer Goods,106.7
+8,2000,Temporary Consumer Goods,90.4
+8,2001,Total,86.9
+8,2001,Energy,67.8
+8,2001,Intermediate Products,92.0
+8,2001,Capital Products,165.7
+8,2001,Durable Consumer Goods,112.5
+8,2001,Temporary Consumer Goods,85.1
+8,2002,Total,90.1
+8,2002,Energy,73.7
+8,2002,Intermediate Products,92.5
+8,2002,Capital Products,201.4
+8,2002,Durable Consumer Goods,101.5
+8,2002,Temporary Consumer Goods,86.0
+8,2003,Total,85.9
+8,2003,Energy,71.7
+8,2003,Intermediate Products,87.8
+8,2003,Capital Products,170.2
+8,2003,Durable Consumer Goods,106.4
+8,2003,Temporary Consumer Goods,82.8
+8,2004,Total,88.6
+8,2004,Energy,81.1
+8,2004,Intermediate Products,100.0
+8,2004,Capital Products,136.5
+8,2004,Durable Consumer Goods,86.5
+8,2004,Temporary Consumer Goods,78.6
+8,2005,Total,97.2
+8,2005,Energy,81.5
+8,2005,Intermediate Products,109.0
+8,2005,Capital Products,158.4
+8,2005,Durable Consumer Goods,85.4
+8,2005,Temporary Consumer Goods,90.6
+8,2006,Total,97.8
+8,2006,Energy,79.5
+8,2006,Intermediate Products,116.8
+8,2006,Capital Products,110.9
+8,2006,Durable Consumer Goods,150.7
+8,2006,Temporary Consumer Goods,91.0
+8,2007,Total,105.4
+8,2007,Energy,85.3
+8,2007,Intermediate Products,125.3
+8,2007,Capital Products,112.6
+8,2007,Durable Consumer Goods,135.2
+8,2007,Temporary Consumer Goods,102.1
+8,2008,Total,101.5
+8,2008,Energy,86.1
+8,2008,Intermediate Products,117.9
+8,2008,Capital Products,118.4
+8,2008,Durable Consumer Goods,155.0
+8,2008,Temporary Consumer Goods,93.6
+8,2009,Total,90.2
+8,2009,Energy,89.2
+8,2009,Intermediate Products,97.3
+8,2009,Capital Products,78.8
+8,2009,Durable Consumer Goods,118.4
+8,2009,Temporary Consumer Goods,85.3
+8,2010,Total,93.1
+8,2010,Energy,91.0
+8,2010,Intermediate Products,104.8
+8,2010,Capital Products,72.6
+8,2010,Durable Consumer Goods,111.9
+8,2010,Temporary Consumer Goods,89.0
+8,2011,Total,93.0
+8,2011,Energy,87.7
+8,2011,Intermediate Products,105.9
+8,2011,Capital Products,81.6
+8,2011,Durable Consumer Goods,109.8
+8,2011,Temporary Consumer Goods,89.3
+8,2012,Total,94.5
+8,2012,Energy,86.0
+8,2012,Intermediate Products,98.6
+8,2012,Capital Products,96.9
+8,2012,Durable Consumer Goods,124.0
+8,2012,Temporary Consumer Goods,96.9
+8,2013,Total,100.9
+8,2013,Energy,104.9
+8,2013,Intermediate Products,102.9
+8,2013,Capital Products,107.7
+8,2013,Durable Consumer Goods,109.3
+8,2013,Temporary Consumer Goods,92.4
+8,2014,Total,86.7
+8,2014,Energy,85.6
+8,2014,Intermediate Products,95.8
+8,2014,Capital Products,62.7
+8,2014,Durable Consumer Goods,88.8
+8,2014,Temporary Consumer Goods,87.1
+8,2015,Total,94.1
+8,2015,Energy,91.5
+8,2015,Intermediate Products,101.1
+8,2015,Capital Products,68.8
+8,2015,Durable Consumer Goods,95.6
+8,2015,Temporary Consumer Goods,99.6
+8,2016,Total,101.0
+8,2016,Energy,96.9
+8,2016,Intermediate Products,112.0
+8,2016,Capital Products,76.3
+8,2016,Durable Consumer Goods,111.7
+8,2016,Temporary Consumer Goods,102.3
+8,2017,Total,110.4
+8,2017,Energy,102.0
+8,2017,Intermediate Products,128.9
+8,2017,Capital Products,98.8
+8,2017,Durable Consumer Goods,104.3
+8,2017,Temporary Consumer Goods,106.5
+8,2018,Total,105.5
+8,2018,Energy,93.9
+8,2018,Intermediate Products,128.1
+8,2018,Capital Products,102.9
+8,2018,Durable Consumer Goods,113.6
+8,2018,Temporary Consumer Goods,96.6
+8,2019,Total,105.9
+8,2019,Energy,99.1
+8,2019,Intermediate Products,125.9
+8,2019,Capital Products,97.5
+8,2019,Durable Consumer Goods,110.4
+8,2019,Temporary Consumer Goods,96.7
+9,2000,Total,96.4
+9,2000,Energy,70.0
+9,2000,Intermediate Products,101.2
+9,2000,Capital Products,223.6
+9,2000,Durable Consumer Goods,122.8
+9,2000,Temporary Consumer Goods,95.7
+9,2001,Total,92.4
+9,2001,Energy,72.4
+9,2001,Intermediate Products,98.2
+9,2001,Capital Products,187.2
+9,2001,Durable Consumer Goods,125.9
+9,2001,Temporary Consumer Goods,88.2
+9,2002,Total,96.6
+9,2002,Energy,71.5
+9,2002,Intermediate Products,101.1
+9,2002,Capital Products,217.5
+9,2002,Durable Consumer Goods,119.8
+9,2002,Temporary Consumer Goods,96.0
+9,2003,Total,94.7
+9,2003,Energy,74.3
+9,2003,Intermediate Products,97.5
+9,2003,Capital Products,181.8
+9,2003,Durable Consumer Goods,129.5
+9,2003,Temporary Consumer Goods,94.8
+9,2004,Total,100.9
+9,2004,Energy,85.2
+9,2004,Intermediate Products,113.4
+9,2004,Capital Products,167.6
+9,2004,Durable Consumer Goods,117.8
+9,2004,Temporary Consumer Goods,92.3
+9,2005,Total,103.6
+9,2005,Energy,84.4
+9,2005,Intermediate Products,119.3
+9,2005,Capital Products,138.2
+9,2005,Durable Consumer Goods,118.7
+9,2005,Temporary Consumer Goods,98.9
+9,2006,Total,104.9
+9,2006,Energy,84.5
+9,2006,Intermediate Products,120.2
+9,2006,Capital Products,106.3
+9,2006,Durable Consumer Goods,153.2
+9,2006,Temporary Consumer Goods,105.3
+9,2007,Total,106.4
+9,2007,Energy,86.6
+9,2007,Intermediate Products,117.8
+9,2007,Capital Products,122.6
+9,2007,Durable Consumer Goods,172.4
+9,2007,Temporary Consumer Goods,106.2
+9,2008,Total,109.4
+9,2008,Energy,88.7
+9,2008,Intermediate Products,117.4
+9,2008,Capital Products,126.6
+9,2008,Durable Consumer Goods,181.0
+9,2008,Temporary Consumer Goods,112.9
+9,2009,Total,102.9
+9,2009,Energy,89.9
+9,2009,Intermediate Products,110.1
+9,2009,Capital Products,116.7
+9,2009,Durable Consumer Goods,150.8
+9,2009,Temporary Consumer Goods,102.9
+9,2010,Total,103.9
+9,2010,Energy,89.6
+9,2010,Intermediate Products,114.9
+9,2010,Capital Products,87.9
+9,2010,Durable Consumer Goods,134.1
+9,2010,Temporary Consumer Goods,111.1
+9,2011,Total,101.9
+9,2011,Energy,87.3
+9,2011,Intermediate Products,111.7
+9,2011,Capital Products,89.9
+9,2011,Durable Consumer Goods,109.7
+9,2011,Temporary Consumer Goods,111.6
+9,2012,Total,95.9
+9,2012,Energy,72.6
+9,2012,Intermediate Products,102.3
+9,2012,Capital Products,96.0
+9,2012,Durable Consumer Goods,120.7
+9,2012,Temporary Consumer Goods,112.9
+9,2013,Total,108.6
+9,2013,Energy,103.1
+9,2013,Intermediate Products,105.1
+9,2013,Capital Products,145.7
+9,2013,Durable Consumer Goods,128.8
+9,2013,Temporary Consumer Goods,105.6
+9,2014,Total,89.7
+9,2014,Energy,55.9
+9,2014,Intermediate Products,96.9
+9,2014,Capital Products,104.7
+9,2014,Durable Consumer Goods,112.2
+9,2014,Temporary Consumer Goods,107.6
+9,2015,Total,100.6
+9,2015,Energy,90.3
+9,2015,Intermediate Products,101.7
+9,2015,Capital Products,105.6
+9,2015,Durable Consumer Goods,114.9
+9,2015,Temporary Consumer Goods,106.6
+9,2016,Total,105.1
+9,2016,Energy,76.6
+9,2016,Intermediate Products,117.8
+9,2016,Capital Products,109.9
+9,2016,Durable Consumer Goods,130.3
+9,2016,Temporary Consumer Goods,118.1
+9,2017,Total,114.6
+9,2017,Energy,101.7
+9,2017,Intermediate Products,127.4
+9,2017,Capital Products,118.5
+9,2017,Durable Consumer Goods,123.0
+9,2017,Temporary Consumer Goods,113.3
+9,2018,Total,113.0
+9,2018,Energy,97.2
+9,2018,Intermediate Products,128.6
+9,2018,Capital Products,122.6
+9,2018,Durable Consumer Goods,114.4
+9,2018,Temporary Consumer Goods,111.8
+9,2019,Total,114.5
+9,2019,Energy,97.3
+9,2019,Intermediate Products,136.9
+9,2019,Capital Products,121.5
+9,2019,Durable Consumer Goods,116.3
+9,2019,Temporary Consumer Goods,109.3
+10,2000,Total,84.3
+10,2000,Energy,64.9
+10,2000,Intermediate Products,79.6
+10,2000,Capital Products,165.3
+10,2000,Durable Consumer Goods,118.2
+10,2000,Temporary Consumer Goods,92.9
+10,2001,Total,102.4
+10,2001,Energy,72.5
+10,2001,Intermediate Products,104.1
+10,2001,Capital Products,201.7
+10,2001,Durable Consumer Goods,131.5
+10,2001,Temporary Consumer Goods,111.5
+10,2002,Total,106.3
+10,2002,Energy,81.5
+10,2002,Intermediate Products,107.3
+10,2002,Capital Products,209.7
+10,2002,Durable Consumer Goods,132.8
+10,2002,Temporary Consumer Goods,110.7
+10,2003,Total,103.1
+10,2003,Energy,84.5
+10,2003,Intermediate Products,95.7
+10,2003,Capital Products,181.6
+10,2003,Durable Consumer Goods,132.2
+10,2003,Temporary Consumer Goods,113.9
+10,2004,Total,105.9
+10,2004,Energy,90.0
+10,2004,Intermediate Products,109.7
+10,2004,Capital Products,169.6
+10,2004,Durable Consumer Goods,122.7
+10,2004,Temporary Consumer Goods,106.7
+10,2005,Total,112.4
+10,2005,Energy,94.7
+10,2005,Intermediate Products,123.8
+10,2005,Capital Products,139.1
+10,2005,Durable Consumer Goods,126.1
+10,2005,Temporary Consumer Goods,112.2
+10,2006,Total,113.6
+10,2006,Energy,94.8
+10,2006,Intermediate Products,124.1
+10,2006,Capital Products,120.9
+10,2006,Durable Consumer Goods,148.8
+10,2006,Temporary Consumer Goods,117.5
+10,2007,Total,120.2
+10,2007,Energy,103.8
+10,2007,Intermediate Products,126.2
+10,2007,Capital Products,131.3
+10,2007,Durable Consumer Goods,176.0
+10,2007,Temporary Consumer Goods,124.0
+10,2008,Total,116.2
+10,2008,Energy,101.9
+10,2008,Intermediate Products,113.0
+10,2008,Capital Products,122.6
+10,2008,Durable Consumer Goods,185.6
+10,2008,Temporary Consumer Goods,126.7
+10,2009,Total,109.2
+10,2009,Energy,102.7
+10,2009,Intermediate Products,112.2
+10,2009,Capital Products,106.7
+10,2009,Durable Consumer Goods,143.1
+10,2009,Temporary Consumer Goods,110.8
+10,2010,Total,103.6
+10,2010,Energy,94.0
+10,2010,Intermediate Products,108.7
+10,2010,Capital Products,94.6
+10,2010,Durable Consumer Goods,134.0
+10,2010,Temporary Consumer Goods,109.8
+10,2011,Total,104.7
+10,2011,Energy,99.5
+10,2011,Intermediate Products,110.7
+10,2011,Capital Products,91.7
+10,2011,Durable Consumer Goods,93.5
+10,2011,Temporary Consumer Goods,110.1
+10,2012,Total,109.2
+10,2012,Energy,97.1
+10,2012,Intermediate Products,103.7
+10,2012,Capital Products,128.3
+10,2012,Durable Consumer Goods,122.1
+10,2012,Temporary Consumer Goods,121.7
+10,2013,Total,114.9
+10,2013,Energy,109.2
+10,2013,Intermediate Products,112.2
+10,2013,Capital Products,142.8
+10,2013,Durable Consumer Goods,131.2
+10,2013,Temporary Consumer Goods,113.8
+10,2014,Total,102.2
+10,2014,Energy,89.2
+10,2014,Intermediate Products,102.3
+10,2014,Capital Products,88.7
+10,2014,Durable Consumer Goods,118.8
+10,2014,Temporary Consumer Goods,116.9
+10,2015,Total,109.3
+10,2015,Energy,104.4
+10,2015,Intermediate Products,107.6
+10,2015,Capital Products,113.1
+10,2015,Durable Consumer Goods,124.0
+10,2015,Temporary Consumer Goods,113.2
+10,2016,Total,112.6
+10,2016,Energy,106.7
+10,2016,Intermediate Products,117.6
+10,2016,Capital Products,101.7
+10,2016,Durable Consumer Goods,126.8
+10,2016,Temporary Consumer Goods,116.4
+10,2017,Total,117.9
+10,2017,Energy,107.5
+10,2017,Intermediate Products,124.5
+10,2017,Capital Products,117.7
+10,2017,Durable Consumer Goods,122.1
+10,2017,Temporary Consumer Goods,122.0
+10,2018,Total,122.1
+10,2018,Energy,104.3
+10,2018,Intermediate Products,140.2
+10,2018,Capital Products,121.6
+10,2018,Durable Consumer Goods,127.9
+10,2018,Temporary Consumer Goods,123.3
+10,2019,Total,122.5
+10,2019,Energy,101.5
+10,2019,Intermediate Products,145.8
+10,2019,Capital Products,127.1
+10,2019,Durable Consumer Goods,123.1
+10,2019,Temporary Consumer Goods,121.4
+11,2000,Total,91.9
+11,2000,Energy,73.9
+11,2000,Intermediate Products,87.7
+11,2000,Capital Products,193.1
+11,2000,Durable Consumer Goods,131.5
+11,2000,Temporary Consumer Goods,95.8
+11,2001,Total,99.7
+11,2001,Energy,91.9
+11,2001,Intermediate Products,93.1
+11,2001,Capital Products,182.9
+11,2001,Durable Consumer Goods,130.4
+11,2001,Temporary Consumer Goods,99.1
+11,2002,Total,101.6
+11,2002,Energy,82.9
+11,2002,Intermediate Products,97.3
+11,2002,Capital Products,188.3
+11,2002,Durable Consumer Goods,132.2
+11,2002,Temporary Consumer Goods,108.1
+11,2003,Total,96.2
+11,2003,Energy,86.2
+11,2003,Intermediate Products,83.8
+11,2003,Capital Products,172.0
+11,2003,Durable Consumer Goods,118.9
+11,2003,Temporary Consumer Goods,105.4
+11,2004,Total,109.0
+11,2004,Energy,97.0
+11,2004,Intermediate Products,109.3
+11,2004,Capital Products,163.4
+11,2004,Durable Consumer Goods,114.6
+11,2004,Temporary Consumer Goods,112.5
+11,2005,Total,112.9
+11,2005,Energy,103.0
+11,2005,Intermediate Products,115.4
+11,2005,Capital Products,130.0
+11,2005,Durable Consumer Goods,115.8
+11,2005,Temporary Consumer Goods,117.9
+11,2006,Total,114.9
+11,2006,Energy,105.3
+11,2006,Intermediate Products,118.3
+11,2006,Capital Products,117.8
+11,2006,Durable Consumer Goods,153.8
+11,2006,Temporary Consumer Goods,117.9
+11,2007,Total,112.3
+11,2007,Energy,104.3
+11,2007,Intermediate Products,112.2
+11,2007,Capital Products,114.7
+11,2007,Durable Consumer Goods,141.0
+11,2007,Temporary Consumer Goods,117.8
+11,2008,Total,109.1
+11,2008,Energy,103.6
+11,2008,Intermediate Products,102.9
+11,2008,Capital Products,111.3
+11,2008,Durable Consumer Goods,162.6
+11,2008,Temporary Consumer Goods,116.7
+11,2009,Total,103.7
+11,2009,Energy,100.2
+11,2009,Intermediate Products,100.4
+11,2009,Capital Products,102.3
+11,2009,Durable Consumer Goods,120.7
+11,2009,Temporary Consumer Goods,110.0
+11,2010,Total,100.8
+11,2010,Energy,87.2
+11,2010,Intermediate Products,101.2
+11,2010,Capital Products,91.2
+11,2010,Durable Consumer Goods,132.7
+11,2010,Temporary Consumer Goods,115.6
+11,2011,Total,105.0
+11,2011,Energy,108.0
+11,2011,Intermediate Products,102.8
+11,2011,Capital Products,89.9
+11,2011,Durable Consumer Goods,98.3
+11,2011,Temporary Consumer Goods,109.7
+11,2012,Total,104.0
+11,2012,Energy,102.2
+11,2012,Intermediate Products,95.6
+11,2012,Capital Products,120.4
+11,2012,Durable Consumer Goods,104.2
+11,2012,Temporary Consumer Goods,109.1
+11,2013,Total,108.0
+11,2013,Energy,110.6
+11,2013,Intermediate Products,102.9
+11,2013,Capital Products,119.4
+11,2013,Durable Consumer Goods,107.8
+11,2013,Temporary Consumer Goods,106.9
+11,2014,Total,95.9
+11,2014,Energy,91.2
+11,2014,Intermediate Products,90.0
+11,2014,Capital Products,87.0
+11,2014,Durable Consumer Goods,107.1
+11,2014,Temporary Consumer Goods,107.6
+11,2015,Total,106.6
+11,2015,Energy,107.1
+11,2015,Intermediate Products,102.9
+11,2015,Capital Products,103.8
+11,2015,Durable Consumer Goods,112.2
+11,2015,Temporary Consumer Goods,110.3
+11,2016,Total,112.4
+11,2016,Energy,106.9
+11,2016,Intermediate Products,112.5
+11,2016,Capital Products,113.4
+11,2016,Durable Consumer Goods,117.6
+11,2016,Temporary Consumer Goods,118.2
+11,2017,Total,118.3
+11,2017,Energy,107.5
+11,2017,Intermediate Products,126.6
+11,2017,Capital Products,111.0
+11,2017,Durable Consumer Goods,117.6
+11,2017,Temporary Consumer Goods,124.1
+11,2018,Total,117.5
+11,2018,Energy,106.7
+11,2018,Intermediate Products,129.9
+11,2018,Capital Products,116.9
+11,2018,Durable Consumer Goods,122.4
+11,2018,Temporary Consumer Goods,116.2
+11,2019,Total,119.1
+11,2019,Energy,106.8
+11,2019,Intermediate Products,133.4
+11,2019,Capital Products,133.4
+11,2019,Durable Consumer Goods,115.7
+11,2019,Temporary Consumer Goods,113.9
+12,2000,Total,92.2
+12,2000,Energy,83.9
+12,2000,Intermediate Products,83.9
+12,2000,Capital Products,189.0
+12,2000,Durable Consumer Goods,136.0
+12,2000,Temporary Consumer Goods,92.1
+12,2001,Total,98.3
+12,2001,Energy,101.2
+12,2001,Intermediate Products,86.2
+12,2001,Capital Products,191.3
+12,2001,Durable Consumer Goods,125.4
+12,2001,Temporary Consumer Goods,93.3
+12,2002,Total,97.3
+12,2002,Energy,95.2
+12,2002,Intermediate Products,87.3
+12,2002,Capital Products,193.5
+12,2002,Durable Consumer Goods,127.0
+12,2002,Temporary Consumer Goods,94.2
+12,2003,Total,102.1
+12,2003,Energy,98.0
+12,2003,Intermediate Products,93.6
+12,2003,Capital Products,230.7
+12,2003,Durable Consumer Goods,122.9
+12,2003,Temporary Consumer Goods,95.8
+12,2004,Total,110.1
+12,2004,Energy,100.4
+12,2004,Intermediate Products,108.7
+12,2004,Capital Products,192.1
+12,2004,Durable Consumer Goods,111.3
+12,2004,Temporary Consumer Goods,109.0
+12,2005,Total,110.6
+12,2005,Energy,105.1
+12,2005,Intermediate Products,112.4
+12,2005,Capital Products,152.2
+12,2005,Durable Consumer Goods,98.0
+12,2005,Temporary Consumer Goods,109.2
+12,2006,Total,116.4
+12,2006,Energy,112.5
+12,2006,Intermediate Products,117.2
+12,2006,Capital Products,123.1
+12,2006,Durable Consumer Goods,146.7
+12,2006,Temporary Consumer Goods,117.0
+12,2007,Total,116.9
+12,2007,Energy,115.8
+12,2007,Intermediate Products,111.8
+12,2007,Capital Products,131.0
+12,2007,Durable Consumer Goods,129.3
+12,2007,Temporary Consumer Goods,120.6
+12,2008,Total,107.4
+12,2008,Energy,103.2
+12,2008,Intermediate Products,96.0
+12,2008,Capital Products,122.1
+12,2008,Durable Consumer Goods,158.0
+12,2008,Temporary Consumer Goods,116.8
+12,2009,Total,105.1
+12,2009,Energy,105.0
+12,2009,Intermediate Products,101.1
+12,2009,Capital Products,106.0
+12,2009,Durable Consumer Goods,114.4
+12,2009,Temporary Consumer Goods,109.3
+12,2010,Total,102.6
+12,2010,Energy,99.5
+12,2010,Intermediate Products,95.3
+12,2010,Capital Products,104.6
+12,2010,Durable Consumer Goods,125.1
+12,2010,Temporary Consumer Goods,111.9
+12,2011,Total,103.7
+12,2011,Energy,112.2
+12,2011,Intermediate Products,95.6
+12,2011,Capital Products,91.8
+12,2011,Durable Consumer Goods,106.6
+12,2011,Temporary Consumer Goods,106.2
+12,2012,Total,104.7
+12,2012,Energy,116.3
+12,2012,Intermediate Products,87.8
+12,2012,Capital Products,111.3
+12,2012,Durable Consumer Goods,83.6
+12,2012,Temporary Consumer Goods,109.3
+12,2013,Total,104.5
+12,2013,Energy,118.9
+12,2013,Intermediate Products,84.9
+12,2013,Capital Products,116.6
+12,2013,Durable Consumer Goods,113.3
+12,2013,Temporary Consumer Goods,102.0
+12,2014,Total,99.2
+12,2014,Energy,94.1
+12,2014,Intermediate Products,85.8
+12,2014,Capital Products,103.6
+12,2014,Durable Consumer Goods,87.2
+12,2014,Temporary Consumer Goods,115.9
+12,2015,Total,107.0
+12,2015,Energy,114.4
+12,2015,Intermediate Products,99.9
+12,2015,Capital Products,107.9
+12,2015,Durable Consumer Goods,93.2
+12,2015,Temporary Consumer Goods,107.1
+12,2016,Total,112.7
+12,2016,Energy,109.3
+12,2016,Intermediate Products,112.8
+12,2016,Capital Products,115.0
+12,2016,Durable Consumer Goods,95.9
+12,2016,Temporary Consumer Goods,117.2
+12,2017,Total,113.9
+12,2017,Energy,110.6
+12,2017,Intermediate Products,122.2
+12,2017,Capital Products,105.2
+12,2017,Durable Consumer Goods,98.0
+12,2017,Temporary Consumer Goods,113.9
+12,2018,Total,107.6
+12,2018,Energy,106.6
+12,2018,Intermediate Products,111.5
+12,2018,Capital Products,101.1
+12,2018,Durable Consumer Goods,86.9
+12,2018,Temporary Consumer Goods,108.1
+12,2019,Total,117.2
+12,2019,Energy,112.9
+12,2019,Intermediate Products,126.3
+12,2019,Capital Products,129.5
+12,2019,Durable Consumer Goods,100.4
+12,2019,Temporary Consumer Goods,110.0

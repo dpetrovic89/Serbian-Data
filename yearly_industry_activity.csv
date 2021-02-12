@@ -1,0 +1,661 @@
+Year,Activity,ProductionIndex
+2000,Total,92.0
+2000,Coal Exploitation,88.3
+2000,Oil and Natural Gas Exploitation,94.1
+2000,Metal Ore Exploitation,106.6
+2000,Other Types of Mining,80.0
+2000,Food Products Production,87.8
+2000,Drink Production,94.5
+2000,Tobacoo Products Production,61.5
+2000,Textile Production,417.9
+2000,Clothing Production,363.0
+2000,Leather and Leater Item Production,331.8
+2000,"Wood and Wood, Cork, Straw and Rod - Related Products Production, Except Furniture",447.5
+2000,Paper and Paper Products Production,82.9
+2000,Printing and Duplication of Audio and Video Material,84.0
+2000,Coke and Refined Petroleum Production,36.5
+2000,Chemicals and Chemical Products Production,74.3
+2000,Basic Pharmaceutical Products and Remedies Production,40.8
+2000,Rubber and Plastic Production,73.4
+2000,Manufacture of Other Non-metallic Minerals Products,152.4
+2000,Base Metals Production,86.2
+2000,"Fabricated Metal Products Production, Except Machinery and Equipment",135.6
+2000,"Computer, Electronic and Optical Products Production",1672.6
+2000,Electrical Equipment Production,60.4
+2000,Unmentioned Machinery and Equipment Production,220.7
+2000,"Motor Vehicles, Trailers and Semi-trailer Production",63.3
+2000,Other Transport Equipment Production,621.9
+2000,Furniture Production,146.9
+2000,Other Manufacturing,167.0
+2000,Repair and Installation of Machinery Equipment,310.2
+2000,"Electricity, Gas, Steam and Air Conditioning Supply",83.4
+2000,B - Mining,89.6
+2000,C - Manufacturing Industry,94.8
+2000,"D - Electricity, Gas, Steam and Air Conditioning Supply",83.4
+2001,Total,92.2
+2001,Coal Exploitation,82.6
+2001,Oil and Natural Gas Exploitation,77.5
+2001,Metal Ore Exploitation,65.9
+2001,Other Types of Mining,75.9
+2001,Food Products Production,85.7
+2001,Drink Production,92.5
+2001,Tobacoo Products Production,56.3
+2001,Textile Production,446.7
+2001,Clothing Production,377.3
+2001,Leather and Leater Item Production,337.1
+2001,"Wood and Wood, Cork, Straw and Rod - Related Products Production, Except Furniture",365.3
+2001,Paper and Paper Products Production,82.8
+2001,Printing and Duplication of Audio and Video Material,76.9
+2001,Coke and Refined Petroleum Production,58.6
+2001,Chemicals and Chemical Products Production,86.3
+2001,Basic Pharmaceutical Products and Remedies Production,42.3
+2001,Rubber and Plastic Production,83.6
+2001,Manufacture of Other Non-metallic Minerals Products,158.4
+2001,Base Metals Production,77.3
+2001,"Fabricated Metal Products Production, Except Machinery and Equipment",116.2
+2001,"Computer, Electronic and Optical Products Production",1402.2
+2001,Electrical Equipment Production,57.3
+2001,Unmentioned Machinery and Equipment Production,220.1
+2001,"Motor Vehicles, Trailers and Semi-trailer Production",54.6
+2001,Other Transport Equipment Production,483.0
+2001,Furniture Production,158.5
+2001,Other Manufacturing,166.0
+2001,Repair and Installation of Machinery Equipment,303.0
+2001,"Electricity, Gas, Steam and Air Conditioning Supply",84.4
+2001,B - Mining,78.2
+2001,C - Manufacturing Industry,95.5
+2001,"D - Electricity, Gas, Steam and Air Conditioning Supply",84.4
+2002,Total,93.8
+2002,Coal Exploitation,84.0
+2002,Oil and Natural Gas Exploitation,66.8
+2002,Metal Ore Exploitation,74.3
+2002,Other Types of Mining,84.8
+2002,Food Products Production,93.2
+2002,Drink Production,97.0
+2002,Tobacoo Products Production,67.0
+2002,Textile Production,373.7
+2002,Clothing Production,274.1
+2002,Leather and Leater Item Production,254.4
+2002,"Wood and Wood, Cork, Straw and Rod - Related Products Production, Except Furniture",251.2
+2002,Paper and Paper Products Production,85.4
+2002,Printing and Duplication of Audio and Video Material,75.0
+2002,Coke and Refined Petroleum Production,75.7
+2002,Chemicals and Chemical Products Production,85.0
+2002,Basic Pharmaceutical Products and Remedies Production,45.0
+2002,Rubber and Plastic Production,90.3
+2002,Manufacture of Other Non-metallic Minerals Products,159.2
+2002,Base Metals Production,84.4
+2002,"Fabricated Metal Products Production, Except Machinery and Equipment",117.9
+2002,"Computer, Electronic and Optical Products Production",2110.8
+2002,Electrical Equipment Production,60.5
+2002,Unmentioned Machinery and Equipment Production,226.2
+2002,"Motor Vehicles, Trailers and Semi-trailer Production",63.8
+2002,Other Transport Equipment Production,483.4
+2002,Furniture Production,144.9
+2002,Other Manufacturing,194.1
+2002,Repair and Installation of Machinery Equipment,289.0
+2002,"Electricity, Gas, Steam and Air Conditioning Supply",83.0
+2002,B - Mining,79.4
+2002,C - Manufacturing Industry,98.1
+2002,"D - Electricity, Gas, Steam and Air Conditioning Supply",83.0
+2003,Total,91.2
+2003,Coal Exploitation,90.9
+2003,Oil and Natural Gas Exploitation,63.9
+2003,Metal Ore Exploitation,53.3
+2003,Other Types of Mining,84.2
+2003,Food Products Production,88.2
+2003,Drink Production,106.6
+2003,Tobacoo Products Production,64.1
+2003,Textile Production,256.9
+2003,Clothing Production,178.6
+2003,Leather and Leater Item Production,201.2
+2003,"Wood and Wood, Cork, Straw and Rod - Related Products Production, Except Furniture",178.9
+2003,Paper and Paper Products Production,75.2
+2003,Printing and Duplication of Audio and Video Material,74.9
+2003,Coke and Refined Petroleum Production,75.7
+2003,Chemicals and Chemical Products Production,88.6
+2003,Basic Pharmaceutical Products and Remedies Production,60.4
+2003,Rubber and Plastic Production,89.9
+2003,Manufacture of Other Non-metallic Minerals Products,139.6
+2003,Base Metals Production,85.3
+2003,"Fabricated Metal Products Production, Except Machinery and Equipment",114.2
+2003,"Computer, Electronic and Optical Products Production",1605.1
+2003,Electrical Equipment Production,56.9
+2003,Unmentioned Machinery and Equipment Production,196.1
+2003,"Motor Vehicles, Trailers and Semi-trailer Production",58.4
+2003,Other Transport Equipment Production,387.3
+2003,Furniture Production,147.1
+2003,Other Manufacturing,139.9
+2003,Repair and Installation of Machinery Equipment,281.1
+2003,"Electricity, Gas, Steam and Air Conditioning Supply",84.9
+2003,B - Mining,79.8
+2003,C - Manufacturing Industry,93.9
+2003,"D - Electricity, Gas, Steam and Air Conditioning Supply",84.9
+2004,Total,97.2
+2004,Coal Exploitation,92.9
+2004,Oil and Natural Gas Exploitation,60.0
+2004,Metal Ore Exploitation,49.9
+2004,Other Types of Mining,93.2
+2004,Food Products Production,93.1
+2004,Drink Production,102.8
+2004,Tobacoo Products Production,62.5
+2004,Textile Production,256.6
+2004,Clothing Production,169.4
+2004,Leather and Leater Item Production,168.7
+2004,"Wood and Wood, Cork, Straw and Rod - Related Products Production, Except Furniture",207.5
+2004,Paper and Paper Products Production,77.7
+2004,Printing and Duplication of Audio and Video Material,80.1
+2004,Coke and Refined Petroleum Production,91.6
+2004,Chemicals and Chemical Products Production,117.0
+2004,Basic Pharmaceutical Products and Remedies Production,62.5
+2004,Rubber and Plastic Production,94.2
+2004,Manufacture of Other Non-metallic Minerals Products,143.6
+2004,Base Metals Production,121.0
+2004,"Fabricated Metal Products Production, Except Machinery and Equipment",127.9
+2004,"Computer, Electronic and Optical Products Production",945.5
+2004,Electrical Equipment Production,62.3
+2004,Unmentioned Machinery and Equipment Production,327.3
+2004,"Motor Vehicles, Trailers and Semi-trailer Production",62.0
+2004,Other Transport Equipment Production,332.2
+2004,Furniture Production,139.1
+2004,Other Manufacturing,122.3
+2004,Repair and Installation of Machinery Equipment,260.8
+2004,"Electricity, Gas, Steam and Air Conditioning Supply",84.8
+2004,B - Mining,80.4
+2004,C - Manufacturing Industry,101.7
+2004,"D - Electricity, Gas, Steam and Air Conditioning Supply",84.8
+2005,Total,97.7
+2005,Coal Exploitation,95.5
+2005,Oil and Natural Gas Exploitation,57.9
+2005,Metal Ore Exploitation,52.9
+2005,Other Types of Mining,111.2
+2005,Food Products Production,100.4
+2005,Drink Production,96.7
+2005,Tobacoo Products Production,71.7
+2005,Textile Production,237.4
+2005,Clothing Production,142.2
+2005,Leather and Leater Item Production,169.3
+2005,"Wood and Wood, Cork, Straw and Rod - Related Products Production, Except Furniture",161.1
+2005,Paper and Paper Products Production,72.4
+2005,Printing and Duplication of Audio and Video Material,74.6
+2005,Coke and Refined Petroleum Production,89.3
+2005,Chemicals and Chemical Products Production,115.4
+2005,Basic Pharmaceutical Products and Remedies Production,69.4
+2005,Rubber and Plastic Production,102.8
+2005,Manufacture of Other Non-metallic Minerals Products,140.3
+2005,Base Metals Production,147.4
+2005,"Fabricated Metal Products Production, Except Machinery and Equipment",131.4
+2005,"Computer, Electronic and Optical Products Production",599.2
+2005,Electrical Equipment Production,60.6
+2005,Unmentioned Machinery and Equipment Production,170.7
+2005,"Motor Vehicles, Trailers and Semi-trailer Production",77.6
+2005,Other Transport Equipment Production,292.1
+2005,Furniture Production,126.5
+2005,Other Manufacturing,96.6
+2005,Repair and Installation of Machinery Equipment,229.2
+2005,"Electricity, Gas, Steam and Air Conditioning Supply",91.3
+2005,B - Mining,83.4
+2005,C - Manufacturing Industry,100.7
+2005,"D - Electricity, Gas, Steam and Air Conditioning Supply",91.3
+2006,Total,101.8
+2006,Coal Exploitation,99.3
+2006,Oil and Natural Gas Exploitation,58.2
+2006,Metal Ore Exploitation,49.2
+2006,Other Types of Mining,127.9
+2006,Food Products Production,102.9
+2006,Drink Production,111.0
+2006,Tobacoo Products Production,79.8
+2006,Textile Production,234.7
+2006,Clothing Production,133.7
+2006,Leather and Leater Item Production,167.8
+2006,"Wood and Wood, Cork, Straw and Rod - Related Products Production, Except Furniture",157.6
+2006,Paper and Paper Products Production,69.9
+2006,Printing and Duplication of Audio and Video Material,79.5
+2006,Coke and Refined Petroleum Production,92.2
+2006,Chemicals and Chemical Products Production,114.3
+2006,Basic Pharmaceutical Products and Remedies Production,83.3
+2006,Rubber and Plastic Production,98.5
+2006,Manufacture of Other Non-metallic Minerals Products,149.6
+2006,Base Metals Production,180.9
+2006,"Fabricated Metal Products Production, Except Machinery and Equipment",137.1
+2006,"Computer, Electronic and Optical Products Production",314.7
+2006,Electrical Equipment Production,60.0
+2006,Unmentioned Machinery and Equipment Production,141.7
+2006,"Motor Vehicles, Trailers and Semi-trailer Production",71.1
+2006,Other Transport Equipment Production,282.6
+2006,Furniture Production,215.3
+2006,Other Manufacturing,85.9
+2006,Repair and Installation of Machinery Equipment,194.7
+2006,"Electricity, Gas, Steam and Air Conditioning Supply",93.5
+2006,B - Mining,86.8
+2006,C - Manufacturing Industry,105.2
+2006,"D - Electricity, Gas, Steam and Air Conditioning Supply",93.5
+2007,Total,106.0
+2007,Coal Exploitation,99.0
+2007,Oil and Natural Gas Exploitation,56.7
+2007,Metal Ore Exploitation,55.1
+2007,Other Types of Mining,130.2
+2007,Food Products Production,108.8
+2007,Drink Production,117.7
+2007,Tobacoo Products Production,77.7
+2007,Textile Production,190.5
+2007,Clothing Production,134.7
+2007,Leather and Leater Item Production,164.0
+2007,"Wood and Wood, Cork, Straw and Rod - Related Products Production, Except Furniture",195.5
+2007,Paper and Paper Products Production,77.5
+2007,Printing and Duplication of Audio and Video Material,89.0
+2007,Coke and Refined Petroleum Production,89.3
+2007,Chemicals and Chemical Products Production,133.7
+2007,Basic Pharmaceutical Products and Remedies Production,77.9
+2007,Rubber and Plastic Production,106.1
+2007,Manufacture of Other Non-metallic Minerals Products,150.0
+2007,Base Metals Production,177.3
+2007,"Fabricated Metal Products Production, Except Machinery and Equipment",148.1
+2007,"Computer, Electronic and Optical Products Production",275.0
+2007,Electrical Equipment Production,76.1
+2007,Unmentioned Machinery and Equipment Production,144.1
+2007,"Motor Vehicles, Trailers and Semi-trailer Production",69.6
+2007,Other Transport Equipment Production,427.9
+2007,Furniture Production,224.2
+2007,Other Manufacturing,116.0
+2007,Repair and Installation of Machinery Equipment,195.9
+2007,"Electricity, Gas, Steam and Air Conditioning Supply",96.5
+2007,B - Mining,87.0
+2007,C - Manufacturing Industry,110.1
+2007,"D - Electricity, Gas, Steam and Air Conditioning Supply",96.5
+2008,Total,107.6
+2008,Coal Exploitation,103.7
+2008,Oil and Natural Gas Exploitation,56.7
+2008,Metal Ore Exploitation,66.4
+2008,Other Types of Mining,140.1
+2008,Food Products Production,108.1
+2008,Drink Production,116.5
+2008,Tobacoo Products Production,77.5
+2008,Textile Production,157.1
+2008,Clothing Production,126.2
+2008,Leather and Leater Item Production,159.6
+2008,"Wood and Wood, Cork, Straw and Rod - Related Products Production, Except Furniture",161.1
+2008,Paper and Paper Products Production,79.4
+2008,Printing and Duplication of Audio and Video Material,93.4
+2008,Coke and Refined Petroleum Production,87.9
+2008,Chemicals and Chemical Products Production,127.8
+2008,Basic Pharmaceutical Products and Remedies Production,89.2
+2008,Rubber and Plastic Production,106.7
+2008,Manufacture of Other Non-metallic Minerals Products,142.2
+2008,Base Metals Production,183.4
+2008,"Fabricated Metal Products Production, Except Machinery and Equipment",162.6
+2008,"Computer, Electronic and Optical Products Production",267.1
+2008,Electrical Equipment Production,77.9
+2008,Unmentioned Machinery and Equipment Production,173.7
+2008,"Motor Vehicles, Trailers and Semi-trailer Production",58.8
+2008,Other Transport Equipment Production,664.1
+2008,Furniture Production,250.4
+2008,Other Manufacturing,75.6
+2008,Repair and Installation of Machinery Equipment,174.1
+2008,"Electricity, Gas, Steam and Air Conditioning Supply",98.4
+2008,B - Mining,91.6
+2008,C - Manufacturing Industry,111.3
+2008,"D - Electricity, Gas, Steam and Air Conditioning Supply",98.4
+2009,Total,94.0
+2009,Coal Exploitation,102.7
+2009,Oil and Natural Gas Exploitation,58.8
+2009,Metal Ore Exploitation,76.0
+2009,Other Types of Mining,94.0
+2009,Food Products Production,101.8
+2009,Drink Production,101.3
+2009,Tobacoo Products Production,75.9
+2009,Textile Production,107.0
+2009,Clothing Production,97.4
+2009,Leather and Leater Item Production,130.6
+2009,"Wood and Wood, Cork, Straw and Rod - Related Products Production, Except Furniture",91.0
+2009,Paper and Paper Products Production,76.1
+2009,Printing and Duplication of Audio and Video Material,99.0
+2009,Coke and Refined Petroleum Production,79.6
+2009,Chemicals and Chemical Products Production,95.1
+2009,Basic Pharmaceutical Products and Remedies Production,74.7
+2009,Rubber and Plastic Production,86.3
+2009,Manufacture of Other Non-metallic Minerals Products,114.2
+2009,Base Metals Production,130.6
+2009,"Fabricated Metal Products Production, Except Machinery and Equipment",132.4
+2009,"Computer, Electronic and Optical Products Production",210.5
+2009,Electrical Equipment Production,70.0
+2009,Unmentioned Machinery and Equipment Production,126.6
+2009,"Motor Vehicles, Trailers and Semi-trailer Production",35.4
+2009,Other Transport Equipment Production,631.9
+2009,Furniture Production,157.3
+2009,Other Manufacturing,78.3
+2009,Repair and Installation of Machinery Equipment,175.8
+2009,"Electricity, Gas, Steam and Air Conditioning Supply",99.2
+2009,B - Mining,88.1
+2009,C - Manufacturing Industry,93.4
+2009,"D - Electricity, Gas, Steam and Air Conditioning Supply",99.2
+2010,Total,95.1
+2010,Coal Exploitation,102.1
+2010,Oil and Natural Gas Exploitation,79.3
+2010,Metal Ore Exploitation,78.2
+2010,Other Types of Mining,102.4
+2010,Food Products Production,103.1
+2010,Drink Production,99.2
+2010,Tobacoo Products Production,81.7
+2010,Textile Production,121.2
+2010,Clothing Production,96.4
+2010,Leather and Leater Item Production,128.3
+2010,"Wood and Wood, Cork, Straw and Rod - Related Products Production, Except Furniture",72.9
+2010,Paper and Paper Products Production,83.9
+2010,Printing and Duplication of Audio and Video Material,107.7
+2010,Coke and Refined Petroleum Production,77.1
+2010,Chemicals and Chemical Products Production,115.8
+2010,Basic Pharmaceutical Products and Remedies Production,73.9
+2010,Rubber and Plastic Production,87.0
+2010,Manufacture of Other Non-metallic Minerals Products,114.4
+2010,Base Metals Production,158.1
+2010,"Fabricated Metal Products Production, Except Machinery and Equipment",142.4
+2010,"Computer, Electronic and Optical Products Production",150.7
+2010,Electrical Equipment Production,78.2
+2010,Unmentioned Machinery and Equipment Production,112.3
+2010,"Motor Vehicles, Trailers and Semi-trailer Production",33.8
+2010,Other Transport Equipment Production,536.5
+2010,Furniture Production,161.1
+2010,Other Manufacturing,63.7
+2010,Repair and Installation of Machinery Equipment,169.3
+2010,"Electricity, Gas, Steam and Air Conditioning Supply",94.9
+2010,B - Mining,91.5
+2010,C - Manufacturing Industry,95.9
+2010,"D - Electricity, Gas, Steam and Air Conditioning Supply",94.9
+2011,Total,97.5
+2011,Coal Exploitation,109.7
+2011,Oil and Natural Gas Exploitation,99.5
+2011,Metal Ore Exploitation,88.9
+2011,Other Types of Mining,105.2
+2011,Food Products Production,100.1
+2011,Drink Production,101.8
+2011,Tobacoo Products Production,75.1
+2011,Textile Production,106.9
+2011,Clothing Production,100.7
+2011,Leather and Leater Item Production,130.0
+2011,"Wood and Wood, Cork, Straw and Rod - Related Products Production, Except Furniture",80.2
+2011,Paper and Paper Products Production,94.3
+2011,Printing and Duplication of Audio and Video Material,101.8
+2011,Coke and Refined Petroleum Production,66.1
+2011,Chemicals and Chemical Products Production,115.6
+2011,Basic Pharmaceutical Products and Remedies Production,79.3
+2011,Rubber and Plastic Production,85.3
+2011,Manufacture of Other Non-metallic Minerals Products,119.9
+2011,Base Metals Production,152.2
+2011,"Fabricated Metal Products Production, Except Machinery and Equipment",154.9
+2011,"Computer, Electronic and Optical Products Production",187.0
+2011,Electrical Equipment Production,84.8
+2011,Unmentioned Machinery and Equipment Production,122.5
+2011,"Motor Vehicles, Trailers and Semi-trailer Production",42.0
+2011,Other Transport Equipment Production,292.5
+2011,Furniture Production,128.5
+2011,Other Manufacturing,58.7
+2011,Repair and Installation of Machinery Equipment,134.5
+2011,"Electricity, Gas, Steam and Air Conditioning Supply",104.1
+2011,B - Mining,100.5
+2011,C - Manufacturing Industry,95.7
+2011,"D - Electricity, Gas, Steam and Air Conditioning Supply",104.1
+2012,Total,95.3
+2012,Coal Exploitation,102.1
+2012,Oil and Natural Gas Exploitation,109.0
+2012,Metal Ore Exploitation,107.9
+2012,Other Types of Mining,96.6
+2012,Food Products Production,100.8
+2012,Drink Production,105.2
+2012,Tobacoo Products Production,70.0
+2012,Textile Production,104.8
+2012,Clothing Production,111.1
+2012,Leather and Leater Item Production,114.1
+2012,"Wood and Wood, Cork, Straw and Rod - Related Products Production, Except Furniture",96.3
+2012,Paper and Paper Products Production,99.2
+2012,Printing and Duplication of Audio and Video Material,102.6
+2012,Coke and Refined Petroleum Production,62.9
+2012,Chemicals and Chemical Products Production,94.3
+2012,Basic Pharmaceutical Products and Remedies Production,89.1
+2012,Rubber and Plastic Production,101.0
+2012,Manufacture of Other Non-metallic Minerals Products,111.5
+2012,Base Metals Production,81.1
+2012,"Fabricated Metal Products Production, Except Machinery and Equipment",174.4
+2012,"Computer, Electronic and Optical Products Production",183.4
+2012,Electrical Equipment Production,84.2
+2012,Unmentioned Machinery and Equipment Production,127.1
+2012,"Motor Vehicles, Trailers and Semi-trailer Production",48.9
+2012,Other Transport Equipment Production,234.6
+2012,Furniture Production,132.9
+2012,Other Manufacturing,60.1
+2012,Repair and Installation of Machinery Equipment,119.6
+2012,"Electricity, Gas, Steam and Air Conditioning Supply",96.6
+2012,B - Mining,100.5
+2012,C - Manufacturing Industry,94.8
+2012,"D - Electricity, Gas, Steam and Air Conditioning Supply",96.6
+2013,Total,100.6
+2013,Coal Exploitation,107.6
+2013,Oil and Natural Gas Exploitation,111.1
+2013,Metal Ore Exploitation,122.0
+2013,Other Types of Mining,80.5
+2013,Food Products Production,96.2
+2013,Drink Production,97.5
+2013,Tobacoo Products Production,65.0
+2013,Textile Production,102.4
+2013,Clothing Production,105.5
+2013,Leather and Leater Item Production,107.7
+2013,"Wood and Wood, Cork, Straw and Rod - Related Products Production, Except Furniture",96.1
+2013,Paper and Paper Products Production,99.1
+2013,Printing and Duplication of Audio and Video Material,99.1
+2013,Coke and Refined Petroleum Production,93.3
+2013,Chemicals and Chemical Products Production,116.8
+2013,Basic Pharmaceutical Products and Remedies Production,93.3
+2013,Rubber and Plastic Production,93.0
+2013,Manufacture of Other Non-metallic Minerals Products,96.2
+2013,Base Metals Production,74.8
+2013,"Fabricated Metal Products Production, Except Machinery and Equipment",183.6
+2013,"Computer, Electronic and Optical Products Production",101.9
+2013,Electrical Equipment Production,93.7
+2013,Unmentioned Machinery and Equipment Production,83.6
+2013,"Motor Vehicles, Trailers and Semi-trailer Production",117.0
+2013,Other Transport Equipment Production,156.0
+2013,Furniture Production,131.0
+2013,Other Manufacturing,71.9
+2013,Repair and Installation of Machinery Equipment,120.1
+2013,"Electricity, Gas, Steam and Air Conditioning Supply",104.5
+2013,B - Mining,105.8
+2013,C - Manufacturing Industry,99.3
+2013,"D - Electricity, Gas, Steam and Air Conditioning Supply",104.5
+2014,Total,93.2
+2014,Coal Exploitation,80.0
+2014,Oil and Natural Gas Exploitation,106.1
+2014,Metal Ore Exploitation,114.3
+2014,Other Types of Mining,86.1
+2014,Food Products Production,100.1
+2014,Drink Production,95.9
+2014,Tobacoo Products Production,63.4
+2014,Textile Production,83.0
+2014,Clothing Production,104.3
+2014,Leather and Leater Item Production,106.2
+2014,"Wood and Wood, Cork, Straw and Rod - Related Products Production, Except Furniture",108.9
+2014,Paper and Paper Products Production,95.8
+2014,Printing and Duplication of Audio and Video Material,93.1
+2014,Coke and Refined Petroleum Production,90.8
+2014,Chemicals and Chemical Products Production,94.5
+2014,Basic Pharmaceutical Products and Remedies Production,92.9
+2014,Rubber and Plastic Production,90.7
+2014,Manufacture of Other Non-metallic Minerals Products,99.0
+2014,Base Metals Production,81.7
+2014,"Fabricated Metal Products Production, Except Machinery and Equipment",98.2
+2014,"Computer, Electronic and Optical Products Production",115.1
+2014,Electrical Equipment Production,98.6
+2014,Unmentioned Machinery and Equipment Production,72.8
+2014,"Motor Vehicles, Trailers and Semi-trailer Production",109.0
+2014,Other Transport Equipment Production,140.8
+2014,Furniture Production,101.9
+2014,Other Manufacturing,67.7
+2014,Repair and Installation of Machinery Equipment,108.5
+2014,"Electricity, Gas, Steam and Air Conditioning Supply",88.9
+2014,B - Mining,89.1
+2014,C - Manufacturing Industry,94.6
+2014,"D - Electricity, Gas, Steam and Air Conditioning Supply",88.9
+2015,Total,100.0
+2015,Coal Exploitation,100.0
+2015,Oil and Natural Gas Exploitation,100.0
+2015,Metal Ore Exploitation,100.0
+2015,Other Types of Mining,100.0
+2015,Food Products Production,100.0
+2015,Drink Production,100.0
+2015,Tobacoo Products Production,100.0
+2015,Textile Production,100.0
+2015,Clothing Production,100.0
+2015,Leather and Leater Item Production,100.0
+2015,"Wood and Wood, Cork, Straw and Rod - Related Products Production, Except Furniture",100.0
+2015,Paper and Paper Products Production,100.0
+2015,Printing and Duplication of Audio and Video Material,100.0
+2015,Coke and Refined Petroleum Production,100.0
+2015,Chemicals and Chemical Products Production,100.0
+2015,Basic Pharmaceutical Products and Remedies Production,100.0
+2015,Rubber and Plastic Production,100.0
+2015,Manufacture of Other Non-metallic Minerals Products,100.0
+2015,Base Metals Production,100.0
+2015,"Fabricated Metal Products Production, Except Machinery and Equipment",100.0
+2015,"Computer, Electronic and Optical Products Production",100.0
+2015,Electrical Equipment Production,100.0
+2015,Unmentioned Machinery and Equipment Production,100.0
+2015,"Motor Vehicles, Trailers and Semi-trailer Production",100.0
+2015,Other Transport Equipment Production,100.0
+2015,Furniture Production,100.0
+2015,Other Manufacturing,100.0
+2015,Repair and Installation of Machinery Equipment,100.0
+2015,"Electricity, Gas, Steam and Air Conditioning Supply",100.0
+2015,B - Mining,100.0
+2015,C - Manufacturing Industry,100.0
+2015,"D - Electricity, Gas, Steam and Air Conditioning Supply",100.0
+2016,Total,105.2
+2016,Coal Exploitation,101.6
+2016,Oil and Natural Gas Exploitation,92.3
+2016,Metal Ore Exploitation,114.5
+2016,Other Types of Mining,111.9
+2016,Food Products Production,105.6
+2016,Drink Production,100.1
+2016,Tobacoo Products Production,122.5
+2016,Textile Production,92.4
+2016,Clothing Production,109.9
+2016,Leather and Leater Item Production,94.4
+2016,"Wood and Wood, Cork, Straw and Rod - Related Products Production, Except Furniture",98.9
+2016,Paper and Paper Products Production,104.7
+2016,Printing and Duplication of Audio and Video Material,109.6
+2016,Coke and Refined Petroleum Production,100.8
+2016,Chemicals and Chemical Products Production,118.5
+2016,Basic Pharmaceutical Products and Remedies Production,101.2
+2016,Rubber and Plastic Production,114.1
+2016,Manufacture of Other Non-metallic Minerals Products,107.0
+2016,Base Metals Production,112.6
+2016,"Fabricated Metal Products Production, Except Machinery and Equipment",108.9
+2016,"Computer, Electronic and Optical Products Production",115.9
+2016,Electrical Equipment Production,102.5
+2016,Unmentioned Machinery and Equipment Production,96.0
+2016,"Motor Vehicles, Trailers and Semi-trailer Production",93.8
+2016,Other Transport Equipment Production,131.9
+2016,Furniture Production,108.0
+2016,Other Manufacturing,109.1
+2016,Repair and Installation of Machinery Equipment,99.3
+2016,"Electricity, Gas, Steam and Air Conditioning Supply",102.7
+2016,B - Mining,103.2
+2016,C - Manufacturing Industry,106.0
+2016,"D - Electricity, Gas, Steam and Air Conditioning Supply",102.7
+2017,Total,109.3
+2017,Coal Exploitation,104.8
+2017,Oil and Natural Gas Exploitation,87.3
+2017,Metal Ore Exploitation,117.9
+2017,Other Types of Mining,119.3
+2017,Food Products Production,105.3
+2017,Drink Production,104.9
+2017,Tobacoo Products Production,135.0
+2017,Textile Production,104.4
+2017,Clothing Production,111.5
+2017,Leather and Leater Item Production,91.2
+2017,"Wood and Wood, Cork, Straw and Rod - Related Products Production, Except Furniture",109.4
+2017,Paper and Paper Products Production,113.1
+2017,Printing and Duplication of Audio and Video Material,96.1
+2017,Coke and Refined Petroleum Production,108.1
+2017,Chemicals and Chemical Products Production,136.0
+2017,Basic Pharmaceutical Products and Remedies Production,112.0
+2017,Rubber and Plastic Production,128.6
+2017,Manufacture of Other Non-metallic Minerals Products,110.8
+2017,Base Metals Production,126.7
+2017,"Fabricated Metal Products Production, Except Machinery and Equipment",120.3
+2017,"Computer, Electronic and Optical Products Production",122.5
+2017,Electrical Equipment Production,108.2
+2017,Unmentioned Machinery and Equipment Production,124.3
+2017,"Motor Vehicles, Trailers and Semi-trailer Production",86.7
+2017,Other Transport Equipment Production,137.8
+2017,Furniture Production,115.6
+2017,Other Manufacturing,113.9
+2017,Repair and Installation of Machinery Equipment,83.3
+2017,"Electricity, Gas, Steam and Air Conditioning Supply",96.4
+2017,B - Mining,105.5
+2017,C - Manufacturing Industry,112.7
+2017,"D - Electricity, Gas, Steam and Air Conditioning Supply",96.4
+2018,Total,110.7
+2018,Coal Exploitation,97.7
+2018,Oil and Natural Gas Exploitation,84.4
+2018,Metal Ore Exploitation,116.5
+2018,Other Types of Mining,118.5
+2018,Food Products Production,103.1
+2018,Drink Production,107.6
+2018,Tobacoo Products Production,125.4
+2018,Textile Production,97.7
+2018,Clothing Production,114.9
+2018,Leather and Leater Item Production,96.6
+2018,"Wood and Wood, Cork, Straw and Rod - Related Products Production, Except Furniture",110.7
+2018,Paper and Paper Products Production,117.5
+2018,Printing and Duplication of Audio and Video Material,97.3
+2018,Coke and Refined Petroleum Production,115.9
+2018,Chemicals and Chemical Products Production,137.5
+2018,Basic Pharmaceutical Products and Remedies Production,112.1
+2018,Rubber and Plastic Production,130.4
+2018,Manufacture of Other Non-metallic Minerals Products,119.3
+2018,Base Metals Production,140.1
+2018,"Fabricated Metal Products Production, Except Machinery and Equipment",122.5
+2018,"Computer, Electronic and Optical Products Production",102.6
+2018,Electrical Equipment Production,104.0
+2018,Unmentioned Machinery and Equipment Production,134.8
+2018,"Motor Vehicles, Trailers and Semi-trailer Production",83.2
+2018,Other Transport Equipment Production,154.1
+2018,Furniture Production,122.9
+2018,Other Manufacturing,135.8
+2018,Repair and Installation of Machinery Equipment,100.5
+2018,"Electricity, Gas, Steam and Air Conditioning Supply",97.5
+2018,B - Mining,100.4
+2018,C - Manufacturing Industry,114.9
+2018,"D - Electricity, Gas, Steam and Air Conditioning Supply",97.5
+2019,Total,111.0
+2019,Coal Exploitation,100.6
+2019,Oil and Natural Gas Exploitation,81.2
+2019,Metal Ore Exploitation,112.4
+2019,Other Types of Mining,129.3
+2019,Food Products Production,98.8
+2019,Drink Production,104.4
+2019,Tobacoo Products Production,118.2
+2019,Textile Production,97.0
+2019,Clothing Production,110.9
+2019,Leather and Leater Item Production,95.9
+2019,"Wood and Wood, Cork, Straw and Rod - Related Products Production, Except Furniture",92.2
+2019,Paper and Paper Products Production,127.4
+2019,Printing and Duplication of Audio and Video Material,92.9
+2019,Coke and Refined Petroleum Production,104.8
+2019,Chemicals and Chemical Products Production,128.9
+2019,Basic Pharmaceutical Products and Remedies Production,124.7
+2019,Rubber and Plastic Production,135.5
+2019,Manufacture of Other Non-metallic Minerals Products,122.6
+2019,Base Metals Production,148.1
+2019,"Fabricated Metal Products Production, Except Machinery and Equipment",134.1
+2019,"Computer, Electronic and Optical Products Production",111.4
+2019,Electrical Equipment Production,104.0
+2019,Unmentioned Machinery and Equipment Production,139.1
+2019,"Motor Vehicles, Trailers and Semi-trailer Production",82.4
+2019,Other Transport Equipment Production,208.0
+2019,Furniture Production,129.3
+2019,Other Manufacturing,156.6
+2019,Repair and Installation of Machinery Equipment,108.7
+2019,"Electricity, Gas, Steam and Air Conditioning Supply",98.0
+2019,B - Mining,101.6
+2019,C - Manufacturing Industry,115.1
+2019,"D - Electricity, Gas, Steam and Air Conditioning Supply",98.0
